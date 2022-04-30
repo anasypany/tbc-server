@@ -115,7 +115,7 @@ function scanGear()
 		local bagLink = GetInventoryItemLink("player", invID)
 		local bagSplit = GetItemSplit(bagLink)
 		addPrint("quiver=,id=" .. bagSplit[1])
-		if (UnitExists("pet") ~= nil) then
+		if (UnitExists("pet") ~= false) then
 			petID = UnitGUID("pet")
 			i = 1
 			local tokens = {}
@@ -125,6 +125,16 @@ function scanGear()
 			end
 			addPrint("")
 			addPrint("pet=" .. UnitName("pet") .. ",lv=" .. UnitLevel("pet") .. ",id=" .. tokens[6] .. ",family=" .. UnitCreatureFamily("pet") .. ",health=" .. UnitHealthMax("pet") .. ",power=" .. UnitPowerMax("pet"))
+		else
+			StaticPopupDialogs["PET_MISSING"] = {
+				text = "You don't have your pet out, it won't be exported! Pop it out and run again to include.",
+				button1 = "Thanks Ribbity, you're a champ.",
+				timeout = 0,
+				whileDead = true,
+				hideOnEscape = true,
+				preferredIndex = 3,  -- avoid some UI taint, see http://www.wowace.com/announcements/how-to-avoid-some-ui-taint/
+			}
+			StaticPopup_Show ("PET_MISSING")
 		end
 	end
 
