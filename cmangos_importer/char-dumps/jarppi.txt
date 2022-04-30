@@ -1,0 +1,1507 @@
+QE Live Gear Importer v1.3
+questionablyepic.com/live - Addon based heavily on SimulationCraft
+ 
+priest="Jarppi"
+level=70
+race=Undead
+gender=1
+region=
+server=Whitemane
+role=N/A
+professions=N/A
+talents=N/A
+spec=N/A
+ 
+head=,id=32525,enchantId=0,gem1=25893:true,gem2=32215:true,gem3=0:nil
+neck=,id=30666,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+shoulder=,id=31070,enchantId=2982,gem1=32218:true,gem2=32215:true,gem3=0:nil
+chest=,id=31065,enchantId=2661,gem1=32218:true,gem2=32218:true,gem3=32215:true
+waist=,id=30038,enchantId=0,gem1=24056:true,gem2=24059:true,gem3=0:nil
+legs=,id=32367,enchantId=2748,gem1=32218:true,gem2=32218:true,gem3=32215:true
+feet=,id=21870,enchantId=2940,gem1=24030:false,gem2=24030:false,gem3=0:nil
+wrist=,id=32586,enchantId=2650,gem1=0:nil,gem2=0:nil,gem3=0:nil
+hands=,id=29317,enchantId=2614,gem1=24056:true,gem2=24056:true,gem3=0:nil
+finger1=,id=32247,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+finger2=,id=32527,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+trinket1=,id=29370,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+trinket2=,id=31856,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+back=,id=25041,suffix=25,unique=30,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+main_hand=,id=34009,enchantId=2672,gem1=0:nil,gem2=0:nil,gem3=0:nil
+off_hand=,id=33334,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+relic=,id=33192,enchantId=0,gem1=32215:true,gem2=0:nil,gem3=0:nil
+ammo=,id=0
+
+### GEAR FROM BAGS ###
+id=6948,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=25521,count=2,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32390,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18284,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29434,count=18,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=21871,count=1,enchantId=2661,gem1=24030:false,gem2=24030:false,gem3=0:nil
+id=21877,count=11,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=17056,count=16,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=24121,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=24116,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18284,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=25295,suffix=25,unique=18,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=17029,count=13,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=25009,suffix=45,unique=40,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27500,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33081,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=25533,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=23827,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27501,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=25346,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33092,count=18,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27500,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33208,count=2,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=10646,count=8,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=25375,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27500,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22839,count=3,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22839,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32494,count=1,enchantId=0,gem1=25893:true,gem2=24056:true,gem3=0:nil
+id=27500,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=23736,count=7,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=34113,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22797,count=13,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27502,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22839,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=16040,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=16040,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27501,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=25418,count=3,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=25421,count=2,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27860,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=16040,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22829,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=17029,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33809,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27501,count=2,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27501,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22839,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=35581,count=1,enchantId=2940,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18284,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=6657,count=14,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32420,count=1,enchantId=1441,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32389,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33490,count=1,enchantId=0,gem1=0:false,gem2=30547:true,gem3=30552:true
+id=33874,count=14,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=20520,count=15,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27657,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27657,count=8,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27683,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32587,count=1,enchantId=2982,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=23768,count=19,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33093,count=4,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18587,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33093,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27981,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+
+### TALENTS ###
+t=1,id=1,rank=5
+t=1,id=2,rank=0
+t=1,id=3,rank=0
+t=1,id=4,rank=2
+t=1,id=5,rank=3
+t=1,id=6,rank=0
+t=1,id=7,rank=0
+t=1,id=8,rank=1
+t=1,id=9,rank=3
+t=1,id=10,rank=0
+t=1,id=11,rank=0
+t=1,id=12,rank=0
+t=1,id=13,rank=0
+t=1,id=14,rank=0
+t=1,id=15,rank=0
+t=1,id=16,rank=0
+t=1,id=17,rank=0
+t=1,id=18,rank=0
+t=1,id=19,rank=0
+t=1,id=20,rank=0
+t=1,id=21,rank=0
+t=1,id=22,rank=0
+t=2,id=1,rank=0
+t=2,id=2,rank=0
+t=2,id=3,rank=0
+t=2,id=4,rank=0
+t=2,id=5,rank=0
+t=2,id=6,rank=0
+t=2,id=7,rank=0
+t=2,id=8,rank=0
+t=2,id=9,rank=0
+t=2,id=10,rank=0
+t=2,id=11,rank=0
+t=2,id=12,rank=0
+t=2,id=13,rank=0
+t=2,id=14,rank=0
+t=2,id=15,rank=0
+t=2,id=16,rank=0
+t=2,id=17,rank=0
+t=2,id=18,rank=0
+t=2,id=19,rank=0
+t=2,id=20,rank=0
+t=2,id=21,rank=0
+t=3,id=1,rank=5
+t=3,id=2,rank=0
+t=3,id=3,rank=3
+t=3,id=4,rank=2
+t=3,id=5,rank=2
+t=3,id=6,rank=2
+t=3,id=7,rank=5
+t=3,id=8,rank=1
+t=3,id=9,rank=0
+t=3,id=10,rank=2
+t=3,id=11,rank=5
+t=3,id=12,rank=1
+t=3,id=13,rank=1
+t=3,id=14,rank=0
+t=3,id=15,rank=1
+t=3,id=16,rank=0
+t=3,id=17,rank=5
+t=3,id=18,rank=1
+t=3,id=19,rank=5
+t=3,id=20,rank=5
+t=3,id=21,rank=1
+
+### ACTIONS ###
+slot=1,type=spell,id=15286
+slot=2,type=spell,id=25467
+slot=3,type=spell,id=25368
+slot=4,type=spell,id=34917
+slot=5,type=spell,id=25375
+slot=6,type=spell,id=32996
+slot=7,type=spell,id=25387
+slot=8,type=spell,id=15487
+slot=9,type=spell,id=25380
+slot=10,type=spell,id=25461
+slot=11,type=spell,id=10890
+slot=12,type=macro,id=93
+slot=13,type=item,id=8079
+slot=14,type=item,id=22797
+slot=15,type=macro,id=99
+slot=16,type=spell,id=6346
+slot=17,type=spell,id=10909
+slot=18,type=item,id=27860
+slot=19,type=item,id=22018
+slot=20,type=macro,id=25
+slot=21,type=item,id=22018
+slot=22,type=spell,id=25435
+slot=23,type=spell,id=26790
+slot=24,type=macro,id=126
+slot=25,type=macro,id=100
+slot=26,type=macro,id=37
+slot=27,type=macro,id=15
+slot=28,type=macro,id=121
+slot=29,type=macro,id=72
+slot=30,type=item,id=33809
+slot=31,type=item,id=20520
+slot=32,type=item,id=34062
+slot=33,type=macro,id=94
+slot=34,type=spell,id=39374
+slot=35,type=spell,id=10912
+slot=36,type=macro,id=124
+slot=37,type=spell,id=25596
+slot=38,type=spell,id=527
+slot=39,type=macro,id=41
+slot=40,type=spell,id=1706
+slot=41,type=spell,id=20577
+slot=42,type=spell,id=6064
+slot=43,type=spell,id=25308
+slot=44,type=spell,id=33076
+slot=45,type=spell,id=25222
+slot=46,type=spell,id=25429
+slot=47,type=item,id=33092
+slot=48,type=item,id=22839
+slot=49,type=spell,id=10955
+slot=50,type=item,id=24494
+slot=51,type=spell,id=25364
+slot=52,type=macro,id=114
+slot=53,type=macro,id=123
+slot=54,type=spell,id=32379
+slot=55,type=spell,id=10955
+slot=56,type=macro,id=40
+slot=57,type=spell,id=25380
+slot=58,type=spell,id=25384
+slot=59,type=spell,id=8122
+slot=60,type=spell,id=7744
+slot=61,type=spell,id=32375
+slot=62,type=spell,id=988
+slot=63,type=macro,id=48
+slot=64,type=macro,id=54
+slot=65,type=spell,id=32546
+slot=66,type=spell,id=25213
+slot=67,type=spell,id=25235
+slot=68,type=spell,id=552
+slot=69,type=spell,id=25218
+slot=70,type=spell,id=14751
+slot=71,type=item,id=33093
+slot=72,type=item,id=29370
+slot=73,type=spell,id=15286
+slot=74,type=spell,id=25467
+slot=75,type=spell,id=25368
+slot=76,type=spell,id=34917
+slot=77,type=spell,id=25375
+slot=78,type=spell,id=32996
+slot=79,type=spell,id=25387
+slot=80,type=spell,id=15487
+slot=81,type=spell,id=589
+slot=82,type=spell,id=25461
+slot=83,type=spell,id=10890
+slot=84,type=macro,id=125
+
+### MACROS ###
+slot=1,name=AE,texture=134400,body=
+---
+#showtooltip
+/cast [mod:alt] Icy Veins
+/cast [mod:alt] Arcane Power
+/use [mod:alt] 13
+/cast Arcane Explosion
+
+---
+slot=2,name=Anti-Venom,texture=134400,body=
+---
+#showtooltip Anti-Venom
+/cancelform
+/use [stance:0] Anti-Venom
+/cast [mod:ctrl,nostance:1] !Bear Form
+/cast [mod:alt,nostance:3] !Cat Form
+
+---
+slot=3,name=arcane bril mous,texture=134400,body=
+---
+#showtooltips
+/cast [@mouseover,help,nodead] [@player] Arcane Brilliance
+
+---
+slot=4,name=Arcane Missiles,texture=134400,body=
+---
+#showtooltip
+/cancelaura Ice Block
+/stopmacro [channeling]
+/cast Arcane Missiles
+
+---
+slot=5,name=arena fire prep,texture=134400,body=
+---
+#showtooltip
+/castsequence Conjure Water(Rank 9), Conjure Food(Rank 8), Conjure Mana Emerald, Arcane Intellect(Rank 6), Dampen Magic(Rank 6), Molten Armor(Rank 1)
+
+---
+slot=6,name=arena frost prep,texture=133988,body=
+---
+#showtooltip
+/castsequence Conjure Food(Rank 8), Conjure Food(Rank 8), Conjure Water(Rank 9), Conjure Food(Rank 8), Conjure Water(Rank 9), Conjure Food(Rank 8), Conjure Mana Emerald, Arcane Intellect(Rank 6), Dampen Magic(Rank 6), Ice Armor(Rank 5)
+
+---
+slot=7,name=arena frost prep,texture=134400,body=
+---
+#showtooltip
+/castsequence Conjure Food(Rank 8), Conjure Water(Rank 9), Conjure Mana Emerald, Arcane Intellect(Rank 6), Dampen Magic(Rank 6), Ice Armor(Rank 5), Conjure Food(Rank 8)
+
+---
+slot=8,name=asd,texture=134400,body=
+---
+/cleartarget
+/target Ghostrider
+/stopmacro [noexists]
+/run SetRaidTarget("target",6)
+
+---
+slot=9,name=azmo,texture=134400,body=
+---
+/run for i=0,4 do for x=1,GetContainerNumSlots(i) do y=GetContainerItemLink(i,x) if y then if GetItemInfo(y)=="Conjured Croissant" then PickupContainerItem(i,x); DropItemOnUnit("Lowqui"); return; end end end end
+/click TradeFrameTradeButton
+
+---
+slot=10,name=Bear Form,texture=134400,body=
+---
+#showtooltip Bear Form
+/dismount
+/cancelaura predatory stirkes(Rank 3)
+/cancelaura Leader of the pack
+/cancelform [noform:1]
+/cast [noform:1] !Bear Form
+
+---
+slot=11,name=belt,texture=132502,body=
+---
+#showtooltip
+/use 6
+
+---
+slot=12,name=bigppdps,texture=135735,body=
+---
+#showtooltip Arcane Blast
+/use 13
+/use 14
+/use [mod:ctrl] Destruction Potion
+/cast Arcane Power
+/cast Arcane Blast
+/cqs
+
+---
+slot=13,name=blink,texture=134400,body=
+---
+#showtooltip
+/cast Blink
+/stopcasting
+
+---
+slot=14,name=Blink Invis,texture=134400,body=
+---
+#showtooltip
+/
+/cast Blink
+/use Lesser Invisibility Potion
+
+---
+slot=15,name=boots,texture=132560,body=
+---
+#showtooltip
+/use 8
+
+---
+slot=16,name=brandish,texture=134400,body=
+---
+/brandish
+
+---
+slot=17,name=Buff,texture=134400,body=
+---
+#showtooltip
+/cast [mod:ctrl,mod:shift] Molten Armor
+/cast [mod:shift] Ice Armor
+/cast [mod:ctrl] Mage Armor
+/cast [@mouseover,help,nodead] [help][@player] Arcane Intellect
+
+---
+slot=18,name=buy qia,texture=134400,body=
+---
+/run a={"Pattern: Runecloth Bag",1} b={"Pattern: Runecloth Gloves",1} for i=1,GetMerchantNumItems() do c=GetMerchantItemInfo(i) if c==a[1] then BuyMerchantItem(i,a[2]) elseif c==b[1] then BuyMerchantItem(i,b[2]) end end MerchantFrame:Hide()
+/tar Qia
+
+---
+slot=19,name=buy shadow oil,texture=134400,body=
+---
+/run a={"Recipe: Shadow Oil",1} b={"Wild Steelbloom",1} for i=1,GetMerchantNumItems() do c=GetMerchantItemInfo(i) if c==a[1] then BuyMerchantItem(i,a[2]) elseif c==b[1] then BuyMerchantItem(i,b[2]) end end MerchantFrame:Hide()
+/tar Montarr
+
+---
+slot=20,name=camera,texture=134400,body=
+---
+/console cameraDistanceMaxZoomFactor 4
+
+---
+slot=21,name=Cancelaura,texture=134400,body=
+---
+/stopcasting
+/cancelaura Ice Block
+/cancelaura Slow Fall
+/cancelaura Invisibility
+/cancelaura [mod:shift] Fire Ward
+/cancelaura [mod:shift] Frost Ward
+/cancelaura [mod:shift] Manashield
+/cancelaura [mod:shift] Dampen Magic
+
+---
+slot=22,name=Cancelaura,texture=134400,body=
+---
+/stopcasting
+/cancelaura Ice Block
+/cancelaura Slow Fall
+/cancelaura Invisibility
+/cancelaura [mod:shift] Fire Ward
+/cancelaura [mod:shift] Frost Ward
+/cancelaura [mod:shift] Mana shield
+/cancelaura [mod:shift] Dampen Magic
+
+---
+slot=23,name=Cancelaura,texture=134400,body=
+---
+/stopcasting
+/cancelaura Ice Block
+/cancelaura Slow Fall
+/cancelaura Invisibility
+/cancelaura Flee
+/cancelaura [mod:shift] Fire Ward
+/cancelaura [mod:shift] Frost Ward
+/cancelaura [mod:shift] Manashield
+/cancelaura [mod:shift] Dampen Magic
+
+---
+slot=24,name=cancelbuffs,texture=134400,body=
+---
+/cancelaura Arcane Intellect
+/cancelaura Dampen Magic
+
+---
+slot=25,name=cancelpriest,texture=134400,body=
+---
+/cancelaura shadowform
+
+---
+slot=26,name=Cat Form,texture=134400,body=
+---
+#showtooltip Cat Form
+/dismount
+/cancelaura Leader of the pack
+/cancelaura predatory stirkes(Rank 3)
+/cancelform [noform:3]
+/cast [noform:3] Cat Form
+
+---
+slot=27,name=Claw,texture=134400,body=
+---
+#showtooltip
+/startattack
+/cast Claw
+
+---
+slot=28,name=Combat Blink,texture=134400,body=
+---
+#showtooltip Blink
+/cast [combat] Blink
+
+---
+slot=29,name=cs 1,texture=134400,body=
+---
+#showtooltip Counterspell
+/cancelaura Ice Block
+/stopcasting
+/cast [target=arena1, harm, exists, nodead] Counterspell
+/cqs
+
+---
+slot=30,name=deletemail,texture=134400,body=
+---
+/click MailItem1Button
+/click OpenMailAttachmentButton1
+/click OpenMailDeleteButton
+
+---
+slot=31,name=destro,texture=134400,body=
+---
+#showtooltip
+/use Destruction Potion
+/cast Arcane Blast
+/cqs
+
+---
+slot=32,name=destroy gem,texture=134400,body=
+---
+#showtooltip Conjure Mana Emerald
+/run for b=0,4 do for s=1,36 do n=GetContainerItemLink(b,s);if n and string.find(n,"Mana Emerald") then if (GetItemCount(22044,nil,true)~=3) then PickupContainerItem(b,s); DeleteCursorItem(); end;end;end;end;
+
+---
+slot=33,name=Fire Blast,texture=134400,body=
+---
+#showtooltip Fire Blast
+/cancelaura Ice Block
+/cast Fire Blast
+
+---
+slot=34,name=fireball,texture=134400,body=
+---
+#showtooltip
+/cancelaura Ice Block
+/cast Fireball
+
+---
+slot=35,name=flamestrike,texture=135826,body=
+---
+#showtooltip
+/castsequence Flamestrike(Rank 7), Flamestrike(Rank 6)
+
+---
+slot=36,name=Flight,texture=134400,body=
+---
+/run SelectGossipOption(1); TakeTaxiNode(math.random(10))
+
+---
+slot=37,name=focus,texture=134400,body=
+---
+/focus [@mouseover,nodead,harm][harm]
+
+---
+slot=38,name=focus,texture=134400,body=
+---
+/focus [@mouseover,nodead]
+
+---
+slot=39,name=Focus CS,texture=134400,body=
+---
+#showtooltip Counterspell
+/cancelaura Ice Block
+/stopcasting
+/cast [@focus, harm, exists, nodead] Counterspell
+/cqs
+
+---
+slot=40,name=focus silence,texture=136164,body=
+---
+#showtooltip Silence
+/stopcasting
+/cast [@focus, harm, exists, nodead] Silence
+/cqs
+
+---
+slot=41,name=follow,texture=134400,body=
+---
+/p !follow
+
+---
+slot=42,name=frost grenade,texture=135851,body=
+---
+#showtooltip
+/use [mod:ctrl] Adamantite Grenade
+/use [mod:alt] Super Sapper Charge
+/use [nomod] Frost Grenade
+
+---
+slot=43,name=frost grenade,texture=135851,body=
+---
+#showtooltips
+/stopcasting
+/use [mod:ctrl] Fel Iron Bomb
+/use [mod:alt] Super Sapper Charge
+/use [nomod] Frost Grenade
+
+---
+slot=44,name=frost grenade,texture=135851,body=
+---
+#showtooltip
+/stopcasting
+/use [mod:ctrl] Fel Iron Bomb
+/use [mod:alt] Super Sapper Charge
+/use [nomod] Frost Grenade
+
+---
+slot=45,name=Frostbolt,texture=135846,body=
+---
+#showtooltip
+/dismount
+/cancelaura slow fall
+/cancelaura invisibility
+/cancelaura ice block
+/petattack
+/cast Frostbolt
+
+---
+slot=46,name=Frostbolt,texture=134400,body=
+---
+#showtooltip
+/dismount
+/cancelaura slow fall
+/cancelaura invisibility
+/cancelaura ice block
+/cast Frostbolt
+
+---
+slot=47,name=grenade,texture=135851,body=
+---
+#showtooltips
+/stopcasting
+/use [mod:ctrl] Super Sapper Charge
+/use [mod:alt] Fel Iron Bomb
+/use [nomod] Frost Grenade
+
+---
+slot=48,name=grenade,texture=133009,body=
+---
+#showtooltips
+/use [mod:ctrl] Super Sapper Charge
+/use [mod:alt] Arcane Bomb
+/use [nomod] Fel Iron Bomb
+
+---
+slot=49,name=grenade,texture=134400,body=
+---
+#showtooltips
+/use [mod:ctrl] Super Sapper Charge
+/use [mod:alt] Goblin Sapper Charge
+/use [nomod] Adamantite Grenade
+
+---
+slot=50,name=grenade,texture=133716,body=
+---
+#showtooltips
+/use [mod:ctrl] Super Sapper Charge
+/use [mod:alt] Fel Iron Bomb
+/use [nomod] Adamantite Grenade
+
+---
+slot=51,name=grenade,texture=133009,body=
+---
+#showtooltips
+/use [mod:ctrl] Super Sapper Charge
+/use [mod:alt] Goblin Sapper Charge
+/use [nomod] Fel Iron Bomb
+
+---
+slot=52,name=hallo,texture=134400,body=
+---
+/yell c ƒ ◃ c c € f
+
+---
+slot=53,name=healthstone,texture=135230,body=
+---
+#showtooltip
+/use item:22105
+/use item:22104
+
+---
+slot=54,name=healthstone,texture=135230,body=
+---
+#showtooltips
+/use item:22105
+/use item:22104
+/use item:22103
+
+---
+slot=55,name=Ice Block,texture=134400,body=
+---
+#showtoolip
+/stopcasting
+/cast Ice Block
+
+---
+slot=56,name=IL,texture=135844,body=
+---
+#showtooltip Ice Lance
+/dismount
+/cast Ice Lance
+
+---
+slot=57,name=innervate me,texture=134400,body=
+---
+/run WeakAuras.ScanEvents("ASK_INNERVATE") 
+
+---
+slot=58,name=IV,texture=134400,body=
+---
+#showtooltip Icy Veins
+/cast Icy Veins
+/use 13
+
+---
+slot=59,name=kiss,texture=134400,body=
+---
+/kiss
+
+---
+slot=60,name=kneel,texture=134400,body=
+---
+/kneel
+
+---
+slot=61,name=lf,texture=134400,body=
+---
+/3 LF1M tank botanica norm
+
+---
+slot=62,name=lip/fap,texture=134400,body=
+---
+#showtooltip
+/use [mod:ctrl] Free Action Potion
+/use Limited Invulnerability Potion
+
+---
+slot=63,name=lua,texture=134400,body=
+---
+/run print("this is a test")
+
+---
+slot=64,name=make food,texture=134400,body=
+---
+#showtooltip
+/castsequence Conjure Water(Rank 9), Conjure Food(Rank 8)
+
+---
+slot=65,name=managem,texture=134400,body=
+---
+#showtooltip
+/use Mana Emerald
+/cast Arcane Blast
+/cqs
+
+---
+slot=66,name=manapot,texture=134400,body=
+---
+#showtooltip
+/use Mana Potion Injector
+/cast Arcane Blast
+/cqs
+
+---
+slot=67,name=MC Jump,texture=134400,body=
+---
+/run SelectGossipOption(3)
+/tar Valadar Starsong
+
+---
+slot=68,name=mindflay,texture=136208,body=
+---
+#showtooltip
+/use [nochanneling:Mind Flay] Mind Flay
+
+---
+slot=69,name=mount,texture=132264,body=
+---
+/use [flyable] Turbo-Charged Flying Machine Control; Purple Skeletal Warhorse
+
+---
+slot=70,name=mountflex,texture=134400,body=
+---
+/mountspecial
+
+---
+slot=71,name=mountjarp,texture=134400,body=
+---
+/use [flyable] Turbo-Charged Flying Machine Control; Amani War Bear
+
+---
+slot=72,name=mountpriest,texture=132268,body=
+---
+/use [flyable] Swift Purple Windrider; Amani War Bear
+
+---
+slot=73,name=mouse iv,texture=134400,body=
+---
+#showtooltip
+/cast [@mouseover] Ice Lance
+
+---
+slot=74,name=nokill,texture=134400,body=
+---
+/yell j c 108 d
+
+---
+slot=75,name=OH,texture=134549,body=
+---
+#showtooltip
+/use 17
+/equip Talisman of Nightbane
+
+---
+slot=76,name=OH,texture=134560,body=
+---
+#showtooltip
+/use 17
+/equip [mod:alt] Merciless Gladiator's Endgame
+
+---
+slot=77,name=PI,texture=134400,body=
+---
+/w Zenïth PI
+
+---
+slot=78,name=Prowl,texture=134400,body=
+---
+#showtooltip Prowl
+/cancelaura [stealth] Prowl
+/cast [nostealth] Prowl
+
+---
+slot=79,name=Pyro,texture=134400,body=
+---
+#showtooltip Pyroblast
+/dismount
+/stand
+/use 13
+/use [mod:ctrl] Destruction Potion
+/cast Arcane Power
+/cast Presence of Mind
+/cast Pyroblast
+
+---
+slot=80,name=R1 Blizzard,texture=134400,body=
+---
+#showtooltip
+/cast Blizzard(Rank 1)
+
+---
+slot=81,name=R1 Buff,texture=135932,body=
+---
+#showtooltip
+/castsequence [@mouseover,help,nodead] [help][@player] Arcane Intellect(Rank 1), Dampen Magic(Rank 1)
+
+---
+slot=82,name=R1 Buff,texture=134400,body=
+---
+#showtooltip
+/castsequence [@player,nodead] Arcane Intellect(Rank 1), Dampen Magic(Rank 1), Slow Fall, Frost Ward(Rank 1)
+
+---
+slot=83,name=Rake,texture=134400,body=
+---
+#showtooltip Rake
+/startattack
+/cast Rake
+
+---
+slot=84,name=Ravage,texture=134400,body=
+---
+#showtooltip
+/startattack
+/cast Ravage
+
+---
+slot=85,name=Rebirth,texture=134400,body=
+---
+#showtooltip
+/cancelform
+/cast [@mouseover,help,dead][] Rebirth
+
+---
+slot=86,name=Regrowth R2,texture=134400,body=
+---
+#showtooltip Regrowth(Rank 2)
+/cancelform
+/cast [mod:alt,@player] [@mouseover,help,nodead][help] [@player] Regrowth(Rank 2)
+/cast [mod:ctrl,nostance:1] !Bear Form
+
+---
+slot=87,name=Remove Curse,texture=134400,body=
+---
+#showtooltip Remove Curse
+/cancelform
+/cast [mod:alt,@player] [@mouseover,help,nodead][help] [@player] Remove Curse
+/cast [mod:ctrl,nostance:1] !Bear Form
+
+---
+slot=88,name=Res & Armor,texture=132353,body=
+---
+/script u=UnitResistance y="target" a=u(y ,0) h=u(y ,1) f=u(y ,2) n=u(y ,3) fr=u(y ,4) s=u(y ,5) z=u(y ,6) SendChatMessage(UnitName(y).." has "..a.." Armor, "..h.." HR, "..f.." FR, "..n.." NR, "..fr.." FrR, "..s.." SR and "..z.." AR.", SAY)
+
+---
+slot=89,name=reset,texture=134400,body=
+---
+/w Bankzug yo
+/script ResetInstances()
+
+---
+slot=90,name=Rip,texture=134400,body=
+---
+#showtooltip Rip
+/startattack
+/cast Rip
+
+---
+slot=91,name=rob,texture=134400,body=
+---
+/target Magistrix Fyalenn
+
+---
+slot=92,name=Self-snowball,texture=134400,body=
+---
+#showtooltip
+/target Jarpsteer
+/use Snowball 
+
+---
+slot=93,name=sfiend,texture=136199,body=
+---
+#showtooltip Shadowfiend
+/cast Shadowfiend
+/use Kibler's Bits
+/petaggressive
+/petattack
+
+---
+slot=94,name=shoot,texture=132317,body=
+---
+/castsequence reset=1.4 !Shoot, null
+
+---
+slot=95,name=Shred,texture=134400,body=
+---
+#showtooltip
+/startattack
+/cast Shred
+
+---
+slot=96,name=slowfall,texture=134400,body=
+---
+#showtooltip
+/cast !Slow Fall
+
+---
+slot=97,name=spellsteal,texture=134400,body=
+---
+#showtooltip
+/cancelaura Ice Block
+/stopcasting
+/cast Spellsteal
+/cqs
+
+---
+slot=98,name=sphync,texture=134400,body=
+---
+/run for i=0,4 do for x=1,GetContainerNumSlots(i) do y=GetContainerItemLink(i,x) if y then if GetItemInfo(y)=="Conjured Croissant" then PickupContainerItem(i,x); DropItemOnUnit("Sphyncterize"); return; end end end end
+/click TradeFrameTradeButton
+
+---
+slot=99,name=split stacks,texture=134400,body=
+---
+/run local x=GetMouseFocus()local b,s=x:GetParent():GetID(),x:GetID()SplitContainerItem(b,s,1)for i=0,4 do for j=1,GetContainerNumSlots(i)do if not GetContainerItemID(i,j)then PickupContainerItem(i,j)end end end
+
+---
+slot=100,name=stop,texture=134400,body=
+---
+/p !stop
+
+---
+slot=101,name=Swiftness Potion,texture=134400,body=
+---
+#showtooltip Swiftness Potion
+/cancelform
+/use [stance:0] Swiftness Potion
+/cast [mod:ctrl,nostance:1] !Bear Form
+/cast [mod:alt,nostance:3] !Cat Form
+
+---
+slot=102,name=Swipe,texture=134400,body=
+---
+#showtooltip
+/startattack
+/cast Swipe
+
+---
+slot=103,name=target,texture=134400,body=
+---
+/cleartarget
+/tar [nomod] Xizz
+/stopmacro [noexists]
+/run SetRaidTarget("target",6)
+
+---
+slot=104,name=Target Org Bank,texture=134400,body=
+---
+/tar Karus
+/run SelectGossipOption(1)
+
+---
+slot=105,name=target2,texture=134400,body=
+---
+/cleartarget
+4
+
+---
+slot=106,name=target2,texture=134400,body=
+---
+/cleartarget
+/tar [nomod] Vir'aani Arcanist
+/stopmacro [noexists]
+/run SetRaidTarget("target",6)
+
+---
+slot=107,name=teron,texture=135834,body=
+---
+/click PetActionButton5
+/click PetActionButton4
+/click PetActionButton3
+
+---
+slot=108,name=Toss Core,texture=134400,body=
+---
+/use Tainted Core
+/y <------- TAINTED CORE TO: %t ! ! !
+/s <------- TAINTED CORE TO: %t ! ! !
+/script SendChatMessage("!!! YOU HAVE THE CORE !!!", "WHISPER", nil, UnitName("target"));
+
+---
+slot=109,name=trade fish,texture=134400,body=
+---
+/run for i=0,4 do for x=1,GetContainerNumSlots(i) do y=GetContainerItemLink(i,x) if y then if GetItemInfo(y)=="Savory Deviate Delight" then PickupContainerItem(i,x); DropItemOnUnit("target"); return; end end end end
+/click TradeFrameTradeButton
+
+---
+slot=110,name=trade food,texture=134400,body=
+---
+/run for i=0,4 do for x=1,GetContainerNumSlots(i) do y=GetContainerItemLink(i,x) if y then if GetItemInfo(y)=="Conjured Croissant" then PickupContainerItem(i,x); DropItemOnUnit("Gøose"); return; end end end end
+/click TradeFrameTradeButton
+
+---
+slot=111,name=Travel Form,texture=134400,body=
+---
+#showtooltip
+/dismount
+/cancelaura predatory stirkes(Rank 3)
+/cancelaura Leader of the pack
+/cancelform [noform:2/4]
+/cast [swimming] Aquatic Form; [noswimming] Travel Form
+
+---
+slot=112,name=tsm scan,texture=134400,body=
+---
+/tsm scan
+
+---
+slot=113,name=vate,texture=134400,body=
+---
+/run WeakAuras.ScanEvents("ASK_INNERVATE") 
+
+---
+slot=114,name=VT cds,texture=135659,body=
+---
+#showtooltips
+/use [mod:ctrl] Destruction Potion
+/use 13
+/cast Vampiric Touch
+
+---
+slot=115,name=Water Ele,texture=134400,body=
+---
+#showtooltip
+/cast [nopet][target=pet,dead]Summon Water Elemental; !Freeze
+/petattack
+/petassist
+/stopmacro [nomod:ctrl]
+/petdismiss
+
+---
+slot=116,name=wave,texture=134400,body=
+---
+/wave
+
+---
+slot=121,name=buffs,texture=135987,body=
+---
+#showtooltip
+/cast [mod:ctrl] Inner Fire
+/cast [mod:shift,@mouseover, exists,help] [mod:shift, @player] Shadow Protection
+/cast [mod:alt,@mouseover] Prayer of Fortitude
+/cast [@mouseover,help,nodead][@player] Power Word: Fortitude
+
+---
+slot=122,name=focus shackle,texture=136091,body=
+---
+#showtooltip Shackle Undead
+/stopcasting
+/cast [@focus, harm, exists, nodead] Shackle Undead
+
+---
+slot=123,name=if mb,texture=135863,body=
+---
+#showtooltips
+/cast Inner Focus
+/cast Mind Blast
+
+---
+slot=124,name=mdself,texture=135739,body=
+---
+#showtooltip
+/cast [@player] Mass Dispel
+
+---
+slot=125,name=sfiend,texture=136199,body=
+---
+/stopcasting
+/cast Shadowfiend
+/petaggressive
+/petattack
+/use [@pet] Kibler's Bits
+
+---
+slot=126,name=sform,texture=136130,body=
+---
+#showtooltip
+/stopcasting
+/cast !shadowform
+
+---
+slot=127,name=VuhDoDCShieldData,texture=132281,body=
+---
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1IH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+
+---
+slot=128,name=VuhDoDCShieldNames,texture=132281,body=
+---
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Jar[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+
+---
+
+### SPELLS ###
+6603
+20577
+81
+30350
+20579
+26801
+5019
+26790
+5227
+7744
+527
+988
+6346
+588
+7128
+602
+1006
+10951
+10952
+25431
+1706
+8129
+8131
+10874
+10875
+10876
+25379
+25380
+32375
+1243
+1244
+1245
+2791
+10937
+10938
+25389
+17
+592
+600
+3747
+6065
+6066
+10898
+10899
+10900
+10901
+25217
+25218
+21562
+21564
+25392
+9484
+9485
+10955
+552
+32546
+528
+2061
+9472
+9473
+9474
+10915
+10916
+10917
+25233
+25235
+2060
+10963
+10964
+10965
+25314
+25210
+25213
+2054
+2055
+6063
+6064
+14914
+15262
+15263
+15264
+15265
+15266
+15267
+15261
+25384
+2050
+2052
+2053
+596
+996
+10960
+10961
+25316
+25308
+33076
+139
+6074
+6075
+6076
+6077
+6078
+10927
+10928
+10929
+25315
+25221
+25222
+2006
+2010
+10880
+10881
+20770
+25435
+585
+591
+598
+984
+1004
+6060
+10933
+10934
+25363
+25364
+2944
+19276
+19277
+19278
+19279
+19280
+25467
+586
+9578
+9579
+9592
+10941
+10942
+25429
+8092
+8102
+8103
+8104
+8105
+8106
+10945
+10946
+10947
+25372
+25375
+605
+10911
+10912
+25387
+453
+8192
+10953
+25596
+2096
+10909
+27683
+39374
+8122
+8124
+10888
+10890
+976
+10957
+10958
+25433
+32379
+32996
+589
+594
+970
+992
+2767
+10892
+10893
+10894
+25367
+25368
+34433
+2652
+19261
+19262
+19264
+19265
+19266
+25461
+34914
+34916
+34917
+15338
+18807
+17313
+15448
+14751
+14767
+14769
+14777
+15317
+17314
+15327
+15407
+15286
+14791
+17311
+17323
+15473
+15487
+15334
+15310
+15316
+17312
+15320
+30341
+3978
+39971
+3925
+3918
+12585
+23070
+12589
+12595
+12599
+12603
+19791
+19795
+12615
+12621
+6458
+3923
+30306
+7430
+30346
+19825
+3977
+30305
+3930
+3929
+39973
+3931
+12591
+3973
+8334
+30310
+41320
+3934
+3937
+3938
+3936
+3941
+15255
+23071
+3945
+19788
+19792
+19800
+3942
+41321
+3950
+30307
+3953
+9271
+39895
+30347
+12619
+3919
+3920
+3961
+3965
+3922
+3924
+3967
+3926
+12584
+12586
+12590
+12594
+12596
+3932
+12618
+30304
+30312
+30348
+3946
+3947
+3949
+30311
+3955
+12622
+3956
+3958
+30303
+3962
+3963
+19790
+19794
+19567
+30309
+30308
+12072
+26747
+18420
+8791
+26772
+12061
+26749
+26757
+26773
+8760
+8776
+26758
+36686
+8465
+41206
+3839
+3840
+3842
+3855
+7624
+12045
+2963
+7623
+12044
+18401
+18417
+2387
+3915
+2385
+2393
+2394
+2396
+26745
+3914
+26777
+2402
+2392
+3755
+2397
+3841
+2386
+2395
+2964
+12046
+3848
+18402
+8762
+26778
+3871
+3865
+8799
+12049
+8804
+12050
+12053
+12048
+26774
+
+### FACTIONS ###
+530,500
+76,500
+911,3100
+81,500
+68,4000
+729,0
+1012,14426
+942,15801
+933,600
+941,200
+947,12857
+1011,42999
+932,42020
+934,-42000
+935,11508
+909,350
+989,18531
+990,15828
+967,6029
+
+### EOF ###
