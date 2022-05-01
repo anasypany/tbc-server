@@ -362,12 +362,12 @@ def parse_file(f, exp):
 
         randNo = datetime.now().strftime("%H%M%S")
 
-        with open(char_info["char_name"] + randNo + ".sql", "w") as writer:
+        with open("./chars-sql/" + char_info["char_name"] + randNo + ".sql", "w") as writer:
             writer.write(result)
             print("Character conversion successful! Export written to: " + char_info["char_name"] + randNo + ".sql")
 
     def write_macros(macro_file):
-        with open("macros-cache.txt", "w") as writer:
+        with open("./macros/" + char_info["char_name"] + "-macros-cache.txt", "w") as writer:
             writer.write(macro_file)
 
     char_info = get_char_info()
