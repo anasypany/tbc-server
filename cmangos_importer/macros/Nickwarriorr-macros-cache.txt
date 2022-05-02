@@ -1,0 +1,99 @@
+MACRO 16777217 " cleave" INV_Misc_QuestionMark
+#showtooltip Cleave
+/startattack
+/cast Cleave
+END
+MACRO 16777218 " MS " INV_Misc_QuestionMark
+#showtooltip Mortal Strike
+/startattack
+/cast Mortal Strike
+END
+MACRO 16777219 "bt" INV_Misc_QuestionMark
+#showtooltip Bloodthirst
+/startattack
+/cast bloodthirst
+/cancelaura argent dawn commission
+END
+MACRO 16777220 "CANCEL" INV_Misc_QuestionMark
+/cancelaura Divine Protection
+/cancelaura Blessing of Protection
+END
+MACRO 16777221 "DS" INV_Misc_QuestionMark
+#showtooltip Devastate
+/startattack
+/cast devastate
+/cast shield block
+END
+MACRO 16777222 "DW" INV_Misc_QuestionMark
+#showtooltip Death Wish
+/cast Death Wish
+/cast Concussion Blow
+END
+MACRO 16777223 "fury shield" INV_Misc_QuestionMark
+#showtooltip 
+/stopcasting
+/equipslot 16 item:32837
+/equipslot 17 item:32838
+/equipslot 17 Kaz'rogal's Hardened Heart
+END
+MACRO 16777224 "hs NO BUFFS" INV_Misc_QuestionMark
+#showtooltip heroic strike
+/startattack
+/cast Heroic Strike
+END
+MACRO 16777225 "int" INV_Misc_QuestionMark
+#showtooltip Intervene
+/cast Defensive Stance
+/cast Intervene
+END
+MACRO 16777226 "nnnnn" INV_Misc_QuestionMark
+.hair 15
+.haircolor 4
+.race 1
+.gender 2
+.face 9
+.features 6
+.skin 5
+END
+MACRO 16777227 "op" INV_Misc_QuestionMark
+#showtooltip Overpower
+/cast battle stance
+/cast overpower
+END
+MACRO 16777228 "pvp wep" INV_Misc_QuestionMark
+#showtooltip 
+/stopcasting
+/equipslot 16 Cataclysm's Edge
+/equipslot 17 Kaz'rogal's Hardened Heart
+/equipslot 16 item:32837
+END
+MACRO 16777229 "SHIELD SLAM" INV_Misc_QuestionMark
+#showtooltip 
+/startattack
+/cast shield slam
+END
+MACRO 16777230 "SR" INV_Misc_QuestionMark
+#showtolltip Spell Reflection
+/stopcasting
+/equipslot 16 Dragonstrike
+/equipslot 17 Aldori Legacy Defender
+/cast defensive stance
+/cast spell reflection
+END
+MACRO 16777231 "sr bs" INV_Misc_QuestionMark
+#showtolltip spell reflection
+/stopcasting
+/equipslot 16 item:32837
+/equipslot 17 Aldori Legacy Defender
+/cast spell reflection
+END
+MACRO 16777232 "VR" INV_Misc_QuestionMark
+#showtooltip
+/startattack
+/cast victory rush
+END
+MACRO 16777233 "ww no buff" INV_Misc_QuestionMark
+#showtooltip
+/startattack
+/cast whirlwind
+END

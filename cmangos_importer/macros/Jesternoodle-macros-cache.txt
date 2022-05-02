@@ -1,0 +1,43 @@
+MACRO 16777217 "Enchanting" INV_Misc_QuestionMark
+#showtooltip Abacus of Violent Odds
+/cast Blood Fury
+/use 13
+/use 14
+END
+MACRO 16777218 "Immo Pet Att" INV_Misc_QuestionMark
+#showtooltip Enchanting
+/click CraftCreateButton
+/use 0 1
+/click StaticPopup1Button1
+END
+MACRO 16777219 "Shadow Bolt" INV_Misc_QuestionMark
+#showtooltip Corruption
+/petattack [harm]
+/startattack
+/cast Corruption(Rank 8)
+END
+MACRO 16777220 "Shadow Bolt Des" INV_Misc_QuestionMark
+#showtooltip Hex Shrunken Head
+/use 13
+/use 14
+/use Blood Fury
+/cast Shadow Bolt(Rank 11)
+/cqs
+END
+MACRO 16777221 "Shadow Bolt Mana" INV_Misc_QuestionMark
+#showtooltip Hex Shrunken Head
+/use 13
+/use 14
+/use Destruction Potion
+/use Blood Fury
+/cast Shadow Bolt(Rank 11)
+/cqs 
+END
+MACRO 16777222 "Sunfury Signets" INV_Misc_QuestionMark
+#Showtooltip
+/use Icon of the Silver Crescent
+/use Bottled Nethergon Energy
+/use Blood Fury
+/cast Shadow Bolt(Rank 11)
+/cqs 
+END

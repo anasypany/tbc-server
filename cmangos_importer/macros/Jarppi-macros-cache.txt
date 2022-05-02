@@ -1,0 +1,121 @@
+MACRO 16777196 "stop" INV_Misc_QuestionMark
+/p !stop
+END
+MACRO 16777197 "Swiftness Potion" INV_Misc_QuestionMark
+#showtooltip Swiftness Potion
+/cancelform
+/use [stance:0] Swiftness Potion
+/cast [mod:ctrl,nostance:1] !Bear Form
+/cast [mod:alt,nostance:3] !Cat Form
+END
+MACRO 16777198 "Swipe" INV_Misc_QuestionMark
+#showtooltip
+/startattack
+/cast Swipe
+END
+MACRO 16777199 "target" INV_Misc_QuestionMark
+/cleartarget
+/tar [nomod] Xizz
+/stopmacro [noexists]
+/run SetRaidTarget("target",6)
+END
+MACRO 16777200 "Target Org Bank" INV_Misc_QuestionMark
+/tar Karus
+/run SelectGossipOption(1)
+END
+MACRO 16777201 "target2" INV_Misc_QuestionMark
+/cleartarget
+4
+END
+MACRO 16777202 "target2" INV_Misc_QuestionMark
+/cleartarget
+/tar [nomod] Vir'aani Arcanist
+/stopmacro [noexists]
+/run SetRaidTarget("target",6)
+END
+MACRO 16777203 "teron" INV_Misc_QuestionMark
+/click PetActionButton5
+/click PetActionButton4
+/click PetActionButton3
+END
+MACRO 16777204 "Toss Core" INV_Misc_QuestionMark
+/use Tainted Core
+END
+MACRO 16777205 "trade fish" INV_Misc_QuestionMark
+/script SendChatMessage("!!! YOU HAVE THE CORE !!!", "WHISPER", nil, UnitName("target"));
+END
+MACRO 16777206 "trade food" INV_Misc_QuestionMark
+/run for i=0,4 do for x=1,GetContainerNumSlots(i) do y=GetContainerItemLink(i,x) if y then if GetItemInfo(y)=="Savory Deviate Delight" then PickupContainerItem(i,x); DropItemOnUnit("target"); return; end end end end
+/click TradeFrameTradeButton
+END
+MACRO 16777207 "Travel Form" INV_Misc_QuestionMark
+/run for i=0,4 do for x=1,GetContainerNumSlots(i) do y=GetContainerItemLink(i,x) if y then if GetItemInfo(y)=="Conjured Croissant" then PickupContainerItem(i,x); DropItemOnUnit("Gøose"); return; end end end end
+/click TradeFrameTradeButton
+END
+MACRO 16777208 "tsm scan" INV_Misc_QuestionMark
+#showtooltip
+/dismount
+/cancelaura predatory stirkes(Rank 3)
+/cancelaura Leader of the pack
+/cancelform [noform:2/4]
+/cast [swimming] Aquatic Form; [noswimming] Travel Form
+END
+MACRO 16777209 "vate" INV_Misc_QuestionMark
+/tsm scan
+END
+MACRO 16777210 "VT cds" INV_Misc_QuestionMark
+/run WeakAuras.ScanEvents("ASK_INNERVATE") 
+END
+MACRO 16777211 "Water Ele" INV_Misc_QuestionMark
+#showtooltips
+/use [mod:ctrl] Destruction Potion
+/use 13
+/cast Vampiric Touch
+END
+MACRO 16777212 "wave" INV_Misc_QuestionMark
+#showtooltip
+/cast [nopet][target=pet,dead]Summon Water Elemental; !Freeze
+/petattack
+/petassist
+/stopmacro [nomod:ctrl]
+/petdismiss
+END
+MACRO 16777217 "buffs" INV_Misc_QuestionMark
+/wave
+END
+MACRO 16777218 "focus shackle" INV_Misc_QuestionMark
+#showtooltip
+/cast [mod:ctrl] Inner Fire
+/cast [mod:shift,target=mouseover, exists,help] [mod:shift, target=player] Shadow Protection
+/cast [mod:alt,target=mouseover] Prayer of Fortitude
+/cast [target=mouseover,help,nodead][target=player] Power Word: Fortitude
+END
+MACRO 16777219 "if mb" INV_Misc_QuestionMark
+#showtooltip Shackle Undead
+/stopcasting
+/cast [target=focus, harm, exists, nodead] Shackle Undead
+END
+MACRO 16777220 "mdself" INV_Misc_QuestionMark
+#showtooltips
+/cast Inner Focus
+/cast Mind Blast
+END
+MACRO 16777221 "sfiend" INV_Misc_QuestionMark
+#showtooltip
+/cast [target=player] Mass Dispel
+END
+MACRO 16777222 "sform" INV_Misc_QuestionMark
+/stopcasting
+/cast Shadowfiend
+/petaggressive
+/petattack
+/use [target=pet] Kibler's Bits
+END
+MACRO 16777223 "VuhDoDCShieldData" INV_Misc_QuestionMark
+#showtooltip
+/stopcasting
+/cast !shadowform
+END
+MACRO 16777224 "VuhDoDCShieldNames" INV_Misc_QuestionMark
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1IH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

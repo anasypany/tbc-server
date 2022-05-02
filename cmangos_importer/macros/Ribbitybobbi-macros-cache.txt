@@ -1,0 +1,57 @@
+MACRO 16777217 "aspect" INV_Misc_QuestionMark
+#showtooltip
+/cast Aspect of the Hawk
+/cast Aspect of the Viper
+END
+MACRO 16777218 "CDs" INV_Misc_QuestionMark
+/cast Bestial Wrath
+/cast Rapid Fire
+/cast Blood Fury(Racial)
+/use 13
+/use 14
+END
+MACRO 16777219 "fd" INV_Misc_QuestionMark
+#showtooltip Feign Death
+/stopcasting
+/cast Feign Death
+END
+MACRO 16777220 "MD" INV_Misc_QuestionMark
+#showtooltip Misdirection
+/cast [target=focus,help][help][target=pet,exists] Misdirection
+END
+MACRO 16777221 "mount" INV_Misc_QuestionMark
+#showtooltip
+/use [flyable] Swift Purple Windrider
+/use [noflyable] Swift Brewfest Ram
+END
+MACRO 16777222 "pvp" INV_Misc_QuestionMark
+/cast Bestial Wrath
+/cast Rapid Fire
+/use 14
+END
+MACRO 16777223 "snowball" INV_Misc_QuestionMark
+#showtooltip Steady Shot
+/cast !Auto Shot 
+/cast [target=pettarget,harm,nodead] Kill Command 
+/cast Steady Shot
+/cast [target=pettarget,harm,nodead] Kill Command
+/use Snowball
+END
+MACRO 16777224 "ss" INV_Misc_QuestionMark
+#showtooltip Steady Shot
+/cast !Auto Shot 
+/cast [target=pettarget,harm,nodead] Kill Command 
+/cast Steady Shot
+/cast [target=pettarget,harm,nodead] Kill Command
+END
+MACRO 16777225 "tonk" INV_Misc_QuestionMark
+/use [nopet] Call Pet
+/cast [pet]Steam Tonk Controller
+/cancelaura Steam tonk Controller
+/use [nopet] Call Pet
+END
+MACRO 16777226 "trap" INV_Misc_QuestionMark
+#showtooltip Distracting Shot
+/script SetRaidTarget("target",6);
+/cast Distracting Shot(Rank 7);
+END

@@ -1,0 +1,112 @@
+MACRO 16777217 " " INV_Misc_QuestionMark
+#showtooltip Prowl
+/dismount
+/cancelform [noform:3]
+/cast [noform:3] Cat Form
+/cast Prowl
+END
+MACRO 16777218 " " INV_Misc_QuestionMark
+#showtooltip Bash
+/cancelform [noform:1]
+/cast [noform:1] Dire Bear Form
+/cast [target=target,exists,harm][nomod,target=arena1,exists][mod:ctrl,target=arena3,exists][mod:shift,target=arena2,exists] Bash
+END
+MACRO 16777219 " " INV_Misc_QuestionMark
+#showtooltip Feral Charge
+/cancelform [noform:1]
+/cast [noform:1] Dire Bear Form
+/cast [target=target,exists,harm][nomod,target=arena1,exists][mod:ctrl,target=arena3,exists][mod:shift,target=arena2,exists] Feral Charge
+END
+MACRO 16777220 " " INV_Misc_QuestionMark
+/cancelform
+/dismount
+/standup
+END
+MACRO 16777221 " " INV_Misc_QuestionMark
+#showtooltip Dash
+/dismount
+/cast [noform:3] !Cat Form
+/cast Dash
+END
+MACRO 16777222 " " INV_Misc_QuestionMark
+/dismount
+#showtooltip Dire Bear Form
+/cancelaura Flight Form
+/cast [form:1] Dire Bear form
+/cast [form:3] Cat form
+/cast [form:4] Travel Form
+/cast [form:5] Tree Form
+/cast [noform:1] Dire Bear Form
+/cancelaura furor
+END
+MACRO 16777223 " " INV_Misc_QuestionMark
+/dismount
+#showtooltip Cat Form
+/cancelaura Flight Form
+/cast [form:1] Dire Bear form
+/cast [form:3] Cat form
+/cast [form:4] Travel Form
+/cast [form:5] Tree Form
+/cast [noform:3] Cat Form
+END
+MACRO 16777224 " " INV_Misc_QuestionMark
+/dismount
+#showtooltip Travel Form
+/cast [form:1] Dire Bear Form
+/cast [form:3] Cat form
+/cast [form:2] Aquatic Form
+/cast [form:4] Travel Form
+/cast [form:5] Tree Form
+/use [swimming]Aquatic Form;[flyable,nocombat]Swift Flight Form;[outdoors]Travel Form
+END
+MACRO 16777225 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [stealth] Ravage; [nostealth] Shred
+END
+MACRO 16777226 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [stealth] Pounce; [nostealth] Rake
+END
+MACRO 16777227 " " INV_Misc_QuestionMark
+/run if GetSpellCooldown(768)+GetItemCooldown(22849)>0 or UnitPower("player",0)<GetSpellPowerCost(768)[1].cost then SetCVar("autoUnshift",0) end;
+/use Haste Potion
+/cast [noform:1]!Dire Bear Form
+/run SetCVar("autoUnshift",1)
+END
+MACRO 16777228 " " INV_Misc_QuestionMark
+/run if GetSpellCooldown(768)+GetItemCooldown(20520)>0 or UnitPower("player",0)<GetSpellPowerCost(768)[1].cost then SetCVar("autoUnshift",0) end;
+/use Nightmare Seed
+/use 14
+/cast [noform:1]!Dire Bear Form
+/run SetCVar("autoUnshift",1)
+END
+MACRO 16777229 " " INV_Misc_QuestionMark
+/run if GetSpellCooldown(768)+GetItemCooldown(20520)>0 or UnitPower("player",0)<GetSpellPowerCost(768)[1].cost then SetCVar("autoUnshift",0) end;
+/use 22105
+/use 22104
+/use 22103
+/cast [noform:1]!Dire Bear Form
+/run SetCVar("autoUnshift",1)
+END
+MACRO 16777230 " " INV_Misc_QuestionMark
+#showtooltip
+/cancelform [form:2/4/5]
+/cast [form:1/3, target=mouseover, harm][form:1/3, target=target, harm] Faerie Fire (Feral); [target=mouseover, harm, noform][target=target, harm, noform] Faerie Fire(Rank 1)
+END
+MACRO 16777231 " " INV_Misc_QuestionMark
+#showtooltip Nature's Grasp
+/cast Nature's Grasp
+END
+MACRO 16777232 " " INV_Misc_QuestionMark
+#showtooltip Cyclone
+/cast [target=target,exists,harm][target=arena1,exists] Cyclone
+END
+MACRO 16777233 " " INV_Misc_QuestionMark
+#showtooltip
+/cancelaura enrage
+/cast enrage
+END
+MACRO 16777234 " " INV_Misc_QuestionMark
+#showtooltip Entangling Roots
+/cast [target=target,exists,harm][target=arena1,exists] Entangling Roots(Rank 1)
+END
