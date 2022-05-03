@@ -17,6 +17,12 @@ def generate_password(length):
 def create_account(host, port, account_name, char_name):
     console_user = str(os.getenv('MANGOS_CONSOLE_USER'))
     console_pass = str(os.getenv('MANGOS_CONSOLE_PASSWORD'))
+    if console_user is None:
+        print("Please set the MANGOS_CONSOLE_USER environment variable to use this script")
+        exit()
+    if console_pass is None:
+        print("Please set the MANGOS_CONSOLE_PASSWORD environment variable to use this script")
+        exit()
     password = str(generate_password(12))
     discord_webhook_url = "https://discord.com/api/webhooks/970581812168507422/Eytl91bLoYe26qUlMJkR_IuyYjsHN2dWmQz8As0T2i4G_BnkC7K5mtQnca85IAbxkoa-"
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
