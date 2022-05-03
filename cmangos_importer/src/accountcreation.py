@@ -17,11 +17,11 @@ def generate_password(length):
 def create_account(host, port, account_name, char_name):
     console_user = str(os.getenv('MANGOS_CONSOLE_USER'))
     console_pass = str(os.getenv('MANGOS_CONSOLE_PASSWORD'))
-    if console_user is None:
-        print("Please set the MANGOS_CONSOLE_USER environment variable to use this script")
+    if console_user == 'None':
+        print("Please set the MANGOS_CONSOLE_USER environment variable to use the account creation functionality part of this script")
         exit()
-    if console_pass is None:
-        print("Please set the MANGOS_CONSOLE_PASSWORD environment variable to use this script")
+    if console_pass == 'None':
+        print("Please set the MANGOS_CONSOLE_PASSWORD environment variable to use the account creation functionality part of this script")
         exit()
     password = str(generate_password(12))
     discord_webhook_url = "https://discord.com/api/webhooks/970581812168507422/Eytl91bLoYe26qUlMJkR_IuyYjsHN2dWmQz8As0T2i4G_BnkC7K5mtQnca85IAbxkoa-"
@@ -31,11 +31,11 @@ def create_account(host, port, account_name, char_name):
         data = s.recv(4096)
         # print(repr(data))
         if "Username:" in str(data):
-            #print(repr(data))            
+            #print(repr(data))
             s.send((console_user + '\n').encode())
             time.sleep(.1)
         if "Password:" in str(data):
-            #print(repr(data))            
+            #print(repr(data))
             s.send((console_pass + '\n').encode())
             time.sleep(.1)
         if "mangos>" in str(data):
