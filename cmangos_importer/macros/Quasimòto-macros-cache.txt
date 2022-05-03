@@ -1,0 +1,9 @@
+MACRO 16777217 "ES" INV_Misc_QuestionMark
+/cast [target=mouseover,help,nodead][help,nodead][target=player]Earth Shield(Rank 3)
+END
+MACRO 16777218 "VuhDoDCShieldData" INV_Misc_QuestionMark
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1SH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+MACRO 16777219 "VuhDoDCShieldNames" INV_Misc_QuestionMark
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Qua[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

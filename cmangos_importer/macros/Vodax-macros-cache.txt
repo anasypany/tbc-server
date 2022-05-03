@@ -1,0 +1,62 @@
+MACRO 16777217 " " INV_Misc_QuestionMark
+/target spitfire
+END
+MACRO 16777218 " " INV_Misc_QuestionMark
+#showtooltip Viper Sting
+/targetexact Cho'Rush The Observer
+/cast Viper Sting
+/targetexact King Gordok
+/script UIErrorsFrame:Hide()
+END
+MACRO 16777219 " " INV_Misc_QuestionMark
+#showtooltip 13
+/equipslot [mod:ctrl/shift] 13 Devilsaur Eye
+/petpassive
+/cast [combat] feign death
+/equipslot [nomod] 13 Royal Seal of Eldre'Thalas
+END
+MACRO 16777220 " " INV_Misc_QuestionMark
+#showtooltip Viper Sting
+/cast Viper Sting
+/cast [target=focus,exists,nodead,harm] Viper Sting
+END
+MACRO 16777221 " " INV_Misc_QuestionMark
+#showtooltip
+/Cast Aimed Shot
+/cleartarget
+/targetlasttarget
+END
+MACRO 16777222 " " INV_Misc_QuestionMark
+#showtooltip Steam Tonk Controller
+/cast [pet]Steam Tonk Controller
+/cancelaura Steam tonk Controller
+/use [nopet] Call Pet
+END
+MACRO 16777223 " " INV_Misc_QuestionMark
+#showtooltip Scatter Shot
+/stopcasting
+/cast Scatter Shot
+END
+MACRO 16777224 "Kaelthas" INV_Misc_QuestionMark
+#showtooltip Feign Death
+/stopcasting
+/cast Feign Death
+END
+MACRO 16777225 "m" INV_Misc_QuestionMark
+/run SetAutoLootDefault(1)
+/equip [combat] Netherstrand Longbow
+/use Netherstrand Longbow
+/use Bundle of Nether Spikes
+/equip Nether Spike
+/run SetAutoLootDefault(nil)
+/equip [nocombat] Sunfury Bow of the Phoenix
+/equip [nocombat] Warden's Arrow
+END
+MACRO 16777226 "saint mis" INV_Misc_QuestionMark
+/use Blue Qiraji Resonating Crystal
+/use Horn of the Swift Timber Wolf
+END
+MACRO 16777227 "tree" INV_Misc_QuestionMark
+#showtooltip Misdirection
+/cast [target=focus] Misdirection
+END
