@@ -130,3 +130,4 @@ dmypy.json
 cmangos_importer/QEGearImporter.zip
 cmangos_importer/src/accounts.txt
 cmangos_importer/accounts.txt
+cmangos_importer/test.py
