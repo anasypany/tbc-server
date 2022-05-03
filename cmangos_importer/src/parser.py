@@ -1,15 +1,16 @@
 from datetime import datetime
 import math
 from src.constants import *
-
+from src.accountcreation import create_account
 
 def clean(mystr, chars_to_remove=("\n",)):
     return "".join([e for e in mystr if e not in chars_to_remove])
 
 
-def parse_file(f, exp):
+def parse_file(f, exp, account_name):
     def get_char_info():
         global skills
+        global account_name
         char = f[3].split("=")
         char_class = char[0]
         char_race = clean(f[5].split("=")[1])
@@ -316,7 +317,7 @@ def parse_file(f, exp):
             macroBodies += actualBody
         write_macros(macroBodies)
 
-    def write_pdump(char_info):
+    def write_pdump(char_info, account_name):
         startPos = startPosMap[exp][factions[clean(f[5].split("=")[1])]]
         version = ""
         charactersRow = ""
@@ -360,11 +361,15 @@ def parse_file(f, exp):
             factions=faction_list,
         )
 
-        randNo = datetime.now().strftime("%H%M%S")
-
-        with open("./chars-sql/" + char_info["char_name"] + randNo + ".sql", "w") as writer:
+        with open("./chars-sql/" + char_info["char_name"] + ".sql", "w") as writer:
             writer.write(result)
-            print("Character conversion successful! Export written to: " + char_info["char_name"] + randNo + ".sql")
+            print("Character conversion successful! Export written to: " + char_info["char_name"] + ".sql")
+        
+        char_name = char_info["char_name"]
+        if "notprovided" in account_name:
+            account_name = char_info["char_name"]
+
+        create_account("192.168.1.240", 3443, account_name, char_name)
 
     def write_macros(macro_file):
         with open("./macros/" + char_info["char_name"] + "-macros-cache.txt", "w") as writer:
@@ -377,4 +382,4 @@ def parse_file(f, exp):
     parse_bag(all_items)
     parse_spells(all_items)
     parse_macros()
-    write_pdump(char_info)
+    write_pdump(char_info, account_name)

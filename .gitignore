@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 cmangos_importer/QEGearImporter.zip
+cmangos_importer/src/accounts.txt
+cmangos_importer/accounts.txt
