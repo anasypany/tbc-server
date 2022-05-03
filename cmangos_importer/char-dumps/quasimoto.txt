@@ -246,7 +246,7 @@ slot=83,type=macro,id=10
 slot=84,type=item,id=21324
 
 ### MACROS ###
-slot=1,name=,,texture=132096,body=
+slot=1,name=.,texture=132096,body=
 ---
 /targetenemyplayer
 /cast Corruption(Rank 6) 
