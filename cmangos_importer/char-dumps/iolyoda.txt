@@ -1,0 +1,1226 @@
+QE Live Gear Importer v1.3
+questionablyepic.com/live - Addon based heavily on SimulationCraft
+ 
+priest="Iolyodaa"
+level=70
+race=Undead
+gender=1
+region=
+server=Whitemane
+role=N/A
+professions=N/A
+talents=N/A
+spec=N/A
+ 
+head=,id=32329,enchantId=3001,gem1=25901:true,gem2=32195:false,gem3=0:nil
+neck=,id=33281,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+shoulder=,id=32585,enchantId=2980,gem1=0:nil,gem2=0:nil,gem3=0:nil
+chest=,id=31066,enchantId=1144,gem1=32195:false,gem2=32225:true,gem3=32201:true
+waist=,id=30895,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+legs=,id=33585,enchantId=2746,gem1=0:nil,gem2=0:nil,gem3=0:nil
+feet=,id=32609,enchantId=2940,gem1=24047:true,gem2=24029:false,gem3=0:nil
+wrist=,id=32584,enchantId=2617,gem1=0:nil,gem2=0:nil,gem3=0:nil
+hands=,id=31060,enchantId=2322,gem1=30572:true,gem2=0:nil,gem3=0:nil
+finger1=,id=29309,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+finger2=,id=33498,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+trinket1=,id=28823,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+trinket2=,id=19288,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+back=,id=32524,enchantId=2621,gem1=0:nil,gem2=0:nil,gem3=0:nil
+main_hand=,id=32500,enchantId=2343,gem1=0:nil,gem2=0:nil,gem3=0:nil
+off_hand=,id=30911,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+relic=,id=32363,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+ammo=,id=0
+
+### GEAR FROM BAGS ###
+id=6948,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29472,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=25475,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32370,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=30871,count=1,enchantId=2617,gem1=24029:false,gem2=0:nil,gem3=0:nil
+id=32980,count=1,enchantId=2617,gem1=24053:true,gem2=0:nil,gem3=0:nil
+id=32974,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32519,count=1,enchantId=0,gem1=24029:false,gem2=24029:false,gem3=0:nil
+id=30036,count=1,enchantId=0,gem1=22459:true,gem2=22459:true,gem3=0:nil
+id=30163,count=1,enchantId=2982,gem1=24030:false,gem2=24030:false,gem3=0:nil
+id=32018,count=1,enchantId=2980,gem1=0:false,gem2=0:false,gem3=0:nil
+id=32019,count=1,enchantId=1144,gem1=24029:true,gem2=24053:true,gem3=24053:true
+id=33317,count=1,enchantId=1144,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=30162,count=1,enchantId=2748,gem1=24030:false,gem2=0:nil,gem3=0:nil
+id=30153,count=1,enchantId=2746,gem1=24029:false,gem2=0:nil,gem3=0:nil
+id=27709,count=1,enchantId=2746,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31410,count=1,enchantId=3001,gem1=25901:true,gem2=31117:true,gem3=0:nil
+id=29049,count=1,enchantId=3009,gem1=25901:true,gem2=32836:true,gem3=0:nil
+id=32034,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=35581,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32420,count=1,enchantId=1441,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=35326,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29376,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=28370,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32496,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=28590,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=30665,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32490,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=28190,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=30346,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29370,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=2820,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33828,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=30620,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32757,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=24121,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=28245,count=1,enchantId=0,gem1=24053:true,gem2=0:nil,gem3=0:nil
+id=4984,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32452,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33064,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=28320,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27501,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31069,count=1,enchantId=2980,gem1=0:false,gem2=0:false,gem3=0:nil
+id=27501,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18284,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18284,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18284,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=34062,count=17,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=34062,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18284,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18284,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18284,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18284,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18284,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18284,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18284,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18284,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18284,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18284,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18284,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18284,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18284,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18284,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18284,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18284,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22797,count=14,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=20520,count=16,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27666,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32067,count=6,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22825,count=6,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=20748,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27501,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18284,count=3,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=6657,count=14,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=20520,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33874,count=14,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=17056,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27860,count=16,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27860,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27860,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27860,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27860,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27860,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=8529,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=8529,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=21991,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=17029,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=17029,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33093,count=14,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33092,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+
+### TALENTS ###
+t=1,id=1,rank=5
+t=1,id=2,rank=0
+t=1,id=3,rank=3
+t=1,id=4,rank=0
+t=1,id=5,rank=3
+t=1,id=6,rank=0
+t=1,id=7,rank=0
+t=1,id=8,rank=1
+t=1,id=9,rank=3
+t=1,id=10,rank=0
+t=1,id=11,rank=5
+t=1,id=12,rank=0
+t=1,id=13,rank=0
+t=1,id=14,rank=0
+t=1,id=15,rank=0
+t=1,id=16,rank=0
+t=1,id=17,rank=0
+t=1,id=18,rank=0
+t=1,id=19,rank=0
+t=1,id=20,rank=0
+t=1,id=21,rank=0
+t=1,id=22,rank=0
+t=2,id=1,rank=1
+t=2,id=2,rank=3
+t=2,id=3,rank=5
+t=2,id=4,rank=5
+t=2,id=5,rank=0
+t=2,id=6,rank=1
+t=2,id=7,rank=0
+t=2,id=8,rank=3
+t=2,id=9,rank=2
+t=2,id=10,rank=0
+t=2,id=11,rank=0
+t=2,id=12,rank=2
+t=2,id=13,rank=1
+t=2,id=14,rank=5
+t=2,id=15,rank=0
+t=2,id=16,rank=5
+t=2,id=17,rank=3
+t=2,id=18,rank=0
+t=2,id=19,rank=0
+t=2,id=20,rank=4
+t=2,id=21,rank=1
+t=3,id=1,rank=0
+t=3,id=2,rank=0
+t=3,id=3,rank=0
+t=3,id=4,rank=0
+t=3,id=5,rank=0
+t=3,id=6,rank=0
+t=3,id=7,rank=0
+t=3,id=8,rank=0
+t=3,id=9,rank=0
+t=3,id=10,rank=0
+t=3,id=11,rank=0
+t=3,id=12,rank=0
+t=3,id=13,rank=0
+t=3,id=14,rank=0
+t=3,id=15,rank=0
+t=3,id=16,rank=0
+t=3,id=17,rank=0
+t=3,id=18,rank=0
+t=3,id=19,rank=0
+t=3,id=20,rank=0
+t=3,id=21,rank=0
+
+### ACTIONS ###
+slot=1,type=spell,id=7744
+slot=2,type=spell,id=25218
+slot=3,type=spell,id=33076
+slot=4,type=spell,id=14751
+slot=5,type=spell,id=34433
+slot=6,type=spell,id=6346
+slot=7,type=spell,id=20577
+slot=8,type=spell,id=32996
+slot=9,type=spell,id=25375
+slot=10,type=spell,id=25467
+slot=11,type=spell,id=10890
+slot=12,type=spell,id=25429
+slot=13,type=macro,id=40
+slot=14,type=macro,id=26
+slot=15,type=macro,id=56
+slot=16,type=macro,id=41
+slot=17,type=macro,id=15
+slot=18,type=macro,id=127
+slot=19,type=macro,id=124
+slot=20,type=macro,id=5
+slot=21,type=spell,id=14751
+slot=22,type=macro,id=39
+slot=23,type=macro,id=132
+slot=24,type=macro,id=129
+slot=25,type=macro,id=60
+slot=26,type=spell,id=25375
+slot=27,type=spell,id=1706
+slot=29,type=macro,id=36
+slot=31,type=macro,id=125
+slot=32,type=macro,id=25
+slot=33,type=macro,id=54
+slot=34,type=macro,id=122
+slot=35,type=macro,id=43
+slot=37,type=item,id=33092
+slot=38,type=macro,id=35
+slot=39,type=macro,id=28
+slot=40,type=spell,id=25467
+slot=41,type=spell,id=25429
+slot=43,type=macro,id=47
+slot=44,type=macro,id=46
+slot=45,type=macro,id=44
+slot=46,type=macro,id=123
+slot=47,type=spell,id=10890
+slot=49,type=spell,id=10955
+slot=50,type=spell,id=25596
+slot=51,type=macro,id=57
+slot=52,type=item,id=8529
+slot=53,type=item,id=5634
+slot=55,type=spell,id=25308
+slot=56,type=macro,id=51
+slot=57,type=macro,id=128
+slot=58,type=macro,id=131
+slot=59,type=spell,id=8122
+slot=61,type=macro,id=9
+slot=62,type=spell,id=7744
+slot=63,type=macro,id=136
+slot=64,type=macro,id=16
+slot=65,type=item,id=2459
+slot=66,type=spell,id=15237
+slot=67,type=macro,id=33
+slot=68,type=spell,id=10909
+slot=69,type=macro,id=58
+slot=70,type=spell,id=25364
+slot=71,type=macro,id=130
+slot=73,type=macro,id=24
+slot=74,type=spell,id=20577
+slot=75,type=macro,id=55
+slot=76,type=item,id=34062
+slot=77,type=item,id=20008
+slot=78,type=spell,id=25331
+slot=79,type=item,id=25475
+slot=80,type=spell,id=10912
+slot=81,type=macro,id=49
+slot=82,type=spell,id=25380
+slot=85,type=item,id=27666
+slot=86,type=item,id=32067
+slot=87,type=item,id=22825
+slot=88,type=macro,id=38
+slot=89,type=macro,id=133
+slot=90,type=item,id=18284
+slot=109,type=item,id=33092
+slot=110,type=macro,id=35
+slot=111,type=item,id=21991
+slot=112,type=macro,id=28
+slot=113,type=item,id=23736
+slot=114,type=item,id=34062
+slot=117,type=item,id=27860
+
+### MACROS ###
+slot=1,name=  shadowofdeath,texture=132096,body=
+---
+/cast Spirit Volley
+/cast Spirit Chains
+/cast Spirit Lance
+
+---
+slot=2,name= core,texture=132096,body=
+---
+/use Tainted Core  
+/y <------- TAINTED CORE TO: %t ! ! !  
+/s <------- TAINTED CORE TO: %t ! ! !  
+/script SendChatMessage("!!! YOU HAVE THE CORE !!!", "WHISPER", nil, UnitName("target"));
+
+---
+slot=3,name= fatalattraction,texture=132096,body=
+---
+/cast [@iolyodaa] Power Word: Shield
+/use Major Shadow Protection Potion
+/use Nightmare Seed
+/use Rocket Boots Xtreme Lite
+/use Goblin Rocket Boots
+
+---
+slot=4,name=am,texture=136096,body=
+---
+#showtooltip Arcane Missiles
+/cast [nochanneling:Arcane Missiles] Arcane Missiles
+
+---
+slot=5,name=anti-venom,texture=136016,body=
+---
+#showtooltip
+/castsequence [@mouseover,exists][@target,exists][@player] reset=60 Powerful Anti-Venom, Strong Anti-Venom, Anti-Venom
+
+---
+slot=6,name=armor,texture=135843,body=
+---
+#showtooltip
+/cast [mod:alt] Molten Armor(Rank 1); [mod:shift] Frost Armor(Rank 1); [mod:ctrl] Mage Armor; Frost Armor
+
+---
+slot=7,name=bear,texture=132276,body=
+---
+#showtooltip
+/cancelform [noform:1]
+/cast !Dire Bear Form
+/cast !Bear Form
+
+---
+slot=8,name=brez,texture=136080,body=
+---
+#showtooltip
+/cast [@mouseover,exists][@target,exists][@player] Rebirth
+
+---
+slot=9,name=cancel aura,texture=132096,body=
+---
+/cancelaura Goblin Rocket Boots
+/cancelaura Gnomish Rocket Boots
+/cancelaura Flee
+/cancelaura Blessing of Protection
+/cancelaura Divine Shield
+/cancelaura Aspect of the Cheetah
+/cancelaura Spirit of Redemption
+
+---
+slot=10,name=cancel block,texture=135841,body=
+---
+#showtooltip Ice Block
+/stopcasting
+/cancelaura Ice Block
+/cast Ice Block
+
+---
+slot=11,name=cat,texture=132115,body=
+---
+#showtooltip
+/cancelform [noform:3]
+/cast !Cat Form
+
+---
+slot=12,name=claw/fb,texture=132122,body=
+---
+#showtooltip
+/cast [mod:shift] Ferocious Bite(Rank 4); Claw
+
+---
+slot=13,name=counterspell,texture=135856,body=
+---
+#showtooltip
+/stopcasting
+/cast Counterspell
+
+---
+slot=14,name=dash,texture=132120,body=
+---
+#showtooltip Dash
+/cancelaura Bear Form
+/cancelaura Travel Form
+/cast [noform:3] !Cat Form
+/cast Dash
+
+---
+slot=15,name=dispel,texture=135894,body=
+---
+#showtooltip
+/cast [@mouseover,exists][@target,exists][@player] Dispel Magic
+
+---
+slot=16,name=drink walking,texture=132803,body=
+---
+/use Conjured Glacier Water
+/use Purified Draenic Water
+/use Morning Glory Dew
+
+---
+slot=17,name=druid buffs,texture=136078,body=
+---
+#showtooltip
+/cancelform
+/castsequence [@mouseover] reset=1 Mark of the Wild, Thorns
+
+---
+slot=18,name=druid rebuff,texture=136104,body=
+---
+#showtooltip
+/castsequence [@mouseover] reset=1 Thorns, Omen of Clarity
+
+---
+slot=19,name=dynies,texture=133714,body=
+---
+#showtooltip
+/cast Solid Dynamite
+/cast Dense Dynamite
+/stopcasting
+
+---
+slot=20,name=fball,texture=135812,body=
+---
+#showtooltip
+/cast [mod:shift] Fireball(Rank 1); Fireball
+
+---
+slot=21,name=fblast,texture=135807,body=
+---
+#showtooltip
+/cast [mod:shift] Fire blast(Rank 1); Fire blast
+
+---
+slot=22,name=fbolt,texture=135846,body=
+---
+#showtooltip
+/cancelform
+/cast [mod:shift] Frostbolt(Rank 1); Frostbolt
+
+---
+slot=23,name=ff prowl,texture=136033,body=
+---
+#showtooltip
+/cleartarget
+/targetenemyplayer
+/cancelform [harm, nodead]
+/cast Faerie Fire
+
+---
+slot=24,name=flag,texture=132485,body=
+---
+/cancelaura Alliance Flag
+/cancelaura Horde Flag
+/use Amani War Bear
+/use Whistle of the Black War Raptor
+/use Reins of the Striped Frostsaber
+/use Horn of the Frostwolf Howler
+/use White Ram
+/use Black War Steed Bridle
+/dismount
+
+---
+slot=25,name=flash,texture=135907,body=
+---
+#showtooltip
+/cast [@mouseover,exists][@target,exists][@player] Flash Heal
+
+---
+slot=26,name=fw,texture=135956,body=
+---
+#showtooltip
+/stand
+/dismount
+/cast [@mouseover,exists][@target,exists][@player] Fear Ward
+
+---
+slot=27,name=heal,texture=135915,body=
+---
+#showtooltip
+/stand
+/dismount
+/cast [@mouseover,exists][@target,exists][@player] Heal
+
+---
+slot=28,name=hs,texture=135230,body=
+---
+/use item:22105
+/use item:22104
+/use item:22103
+/use Major Healthstone
+/use Greater Healthstone
+/use Healthstone
+/use Lesser Healthstone
+/use Whipper Root Tuber
+
+---
+slot=29,name=ht,texture=136041,body=
+---
+#showtooltip
+/cast [@mouseover,exists][@target,exists][@player] Healing Touch
+
+---
+slot=30,name=mage buffs,texture=135932,body=
+---
+#showtooltip 
+/castsequence [@mouseover] reset=1 Arcane Intellect, Dampen Magic
+
+---
+slot=31,name=mana,texture=134104,body=
+---
+#showtooltip
+/cast conjure mana citrine
+/cast conjure mana jade
+/cast congjure mana agate
+/use Mana Citrine
+/use Mana Jade
+/use Mana Agate
+/use Greater Mana Potion
+/use Energy Cloak
+/use Celestial Orb
+/use Minor Recombobulator
+/use Major Recombobulator
+
+---
+slot=32,name=meld,texture=132089,body=
+---
+#showtooltip Shadowmeld
+/sit
+/cancelform [noform:5]
+/use Conjured Mineral Water
+/use Conjured Spring Water
+/use Warsong Gulch Iron Ration
+/cast !shadowmeld
+
+---
+slot=33,name=mf,texture=136208,body=
+---
+#showtooltip
+/cast [nochanneling:Mind Flay] Mind Flay(Rank 1)
+
+---
+slot=34,name=mpot,texture=134400,body=
+---
+#showtooltip
+/use Greater Mana Potion
+/use Energy Cloak
+/use Celestial Orb
+/use Minor Recombobulator
+/use Major Recombobulator
+
+---
+slot=35,name=mpot, rune,texture=134796,body=
+---
+#showtooltip
+/castsequence reset=120 Mana Potion Injector, Dark Rune
+
+---
+slot=36,name=nade,texture=133715,body=
+---
+#showtooltip
+/cast Frost Grenade
+/cast Fel Iron Bomb
+/cast Iron Grenade 
+/stopcasting
+
+---
+slot=37,name=ns ht,texture=136041,body=
+---
+#showtooltip Nature's Swiftness
+/cast Nature's Swiftness
+/cast [@mouseover,help][help,nodead][@targettarget,help,nodead][@player] Healing Touch
+
+---
+slot=38,name=oil,texture=134722,body=
+---
+#showtooltip
+/use Brilliant Mana Oil
+/use 16
+/click StaticPopup1Button1
+
+---
+slot=39,name=pi,texture=135939,body=
+---
+#showtooltip
+/cast [@mouseover,exists][@target,exists][@player] Power Infusion
+
+---
+slot=40,name=priest buffs,texture=135987,body=
+---
+#showtooltip
+/castsequence [@mouseover] reset=1 Power Word: Fortitude, Shadow Protection, Inner Fire, Touch of Weakness
+
+---
+slot=41,name=priest rebuff,texture=135926,body=
+---
+#showtooltip
+/castsequence reset=1 Touch of Weakness(Rank 1), Inner Fire
+
+---
+slot=42,name=prowl,texture=132089,body=
+---
+#showtooltip Prowl
+/cancelform [noform:3]
+/cast [noform:3] Cat Form
+/cast !Prowl
+
+---
+slot=43,name=pws,texture=135940,body=
+---
+#showtooltip
+/cast [@mouseover,help][help,nodead][@targettarget,help,nodead][@player] Power Word: Shield
+
+---
+slot=44,name=r1 buffs,texture=135953,body=
+---
+#showtooltip
+/stand
+/dismount
+/castsequence [@mouseover] reset=1 Renew(Rank 1), Power Word: Fortitude(Rank 1), Inner Fire(Rank 1), Touch of Weakness(Rank 1), Fade
+
+---
+slot=45,name=r1 buffs,texture=136081,body=
+---
+#showtooltip
+/castsequence [@mouseover] reset=1 Rejuvenation(rank 1), Mark of the Wild(Rank 1), Thorns(Rank 1), Abolish Poison
+
+---
+slot=46,name=r1 flash,texture=135907,body=
+---
+#showtooltip
+/cast [@mouseover,exists][@target,exists][@player] Flash Heal(Rank 1)
+
+---
+slot=47,name=r1 greater heal,texture=135913,body=
+---
+#showtooltip
+/stand
+/dismount
+/cast [@mouseover,exists][@target,exists][@player] Greater Heal(Rank 1)
+
+---
+slot=48,name=r1 ht,texture=136041,body=
+---
+#showtooltip
+/cast [@mouseover,exists][@target,exists][@player] Healing Touch(rank 1)
+
+---
+slot=49,name=r1 swp,texture=136207,body=
+---
+#showtooltip
+/cast [@mouseover,exists][@target,exists][@player] Shadow Word: Pain(Rank 1)
+
+---
+slot=50,name=r5 regrowth,texture=136085,body=
+---
+#showtooltip
+/cast [@mouseover,exists][@target,exists][@player] Regrowth(rank 5)
+
+---
+slot=51,name=r8 flash,texture=135907,body=
+---
+#showtooltip
+/cast [@mouseover,exists][@target,exists][@player] Flash Heal(Rank 8)
+
+---
+slot=52,name=regrowth,texture=136085,body=
+---
+#showtooltip
+/cast [@mouseover,help][help,nodead][@targettarget,help,nodead][@player] Regrowth
+
+---
+slot=53,name=rejuv,texture=136081,body=
+---
+#showtooltip
+/cast [@mouseover,help][help,nodead][@targettarget,help,nodead][@player] Rejuvenation
+
+---
+slot=54,name=renew,texture=135953,body=
+---
+#showtooltip
+/cast [@mouseover,exists][@target,exists][@player] Renew
+
+---
+slot=55,name=rez,texture=135955,body=
+---
+#showtooltip
+/cast [@mouseover,exists][@target,exists][@player] Resurrection
+
+---
+slot=56,name=shadow prot,texture=136121,body=
+---
+#showtooltip
+/castsequence [@mouseover] reset=1 Shadow Protection
+
+---
+slot=57,name=skull,texture=133729,body=
+---
+#showtooltip
+/use Skull of impending doom
+
+---
+slot=58,name=swp,texture=136207,body=
+---
+#showtooltip
+/cast [@mouseover,exists][@target,exists][@player] Shadow Word: Pain
+
+---
+slot=59,name=travel,texture=132144,body=
+---
+#showtooltip
+/cancelform [noform:2/4/5]
+/cast [swimming] !Aquatic Form; [flyable,nocombat] !Flight Form; !Travel Form
+
+---
+slot=60,name=wand,texture=135471,body=
+---
+/cast [@mouseover,exists][@target,exists] !Shoot
+
+---
+slot=121,name=aoe,texture=134400,body=
+---
+/equip Chain of the Twilight Owl
+/equip Wings of the Avatar
+/equip Robe of Departed Spirits
+/equip Leggings of the Avatar
+/equip Boots of the Divine Light
+/equip Shroud of the Highborne
+/equip Swiftheal Wraps
+
+---
+slot=122,name=bh,texture=135883,body=
+---
+#showtooltip Binding Heal
+/use Essence of the Martyr
+/cast Inner Focus
+/cast [@mouseover,exists][@target,exists][@player] Binding Heal
+
+---
+slot=123,name=coh,texture=135887,body=
+---
+#showtooltip Circle of Healing
+/use Essence of the Martyr
+/cast Inner Focus
+/cast [@mouseover,exists][@target,exists][@player] Circle of Healing
+
+---
+slot=124,name=dispel self,texture=135894,body=
+---
+#showtooltip
+/cast [@iolyodaa][@target,exists][@player] Dispel Magic
+
+---
+slot=125,name=greater heal,texture=135913,body=
+---
+#showtooltip
+/cast [@mouseover,exists][@target,exists][@player] Greater Heal
+
+---
+slot=126,name=haste,texture=134400,body=
+---
+/equip Brooch of Nature's Mercy
+/equip Cowl of Benevolence
+/equip Shroud of the Highborne
+/equip Angelista's Sash 
+/equip Achromic Trousers of the Naaru
+/equip Boots of the Divine Light
+/equip Shroud of the Highborne
+/equip Vestments of Absolution
+
+---
+slot=127,name=md,texture=135739,body=
+---
+#showtooltip 
+/cast [@cursor] Mass Dispel
+
+---
+slot=128,name=pom,texture=135944,body=
+---
+#showtooltip
+/cast [@mouseover,exists][@target,exists][@player] Prayer of Mending
+
+---
+slot=129,name=ps,texture=135936,body=
+---
+#showtooltip
+/cast [@mouseover,exists][@target,exists][@player] Pain Suppression
+
+---
+slot=130,name=pws self,texture=135940,body=
+---
+#showtooltip
+/stopcasting
+/cast [@iolyodaa] Power Word: Shield
+
+---
+slot=131,name=r3 coh,texture=135887,body=
+---
+#showtooltip Circle of Healing
+/use Essence of the Martyr
+/cast Inner Focus
+/cast [@mouseover,exists][@target,exists][@player] Circle of Healing(rank 3)
+
+---
+slot=132,name=sf,texture=136199,body=
+---
+#showtooltip
+/castsequence reset=300 shadowfiend
+/use Kibler's Bits
+
+---
+slot=133,name=spirit,texture=134937,body=
+---
+/cast [@iolyodaa] Scroll of Spirit V
+
+---
+slot=134,name=sr,texture=134400,body=
+---
+/equip Blessed Medallion of Karabor
+/equip Night's End 
+/equip Belt of the Long Road 
+/equip Rocket Boots Xtreme Lite
+/equip Swiftheal Mantle
+
+---
+slot=135,name=sustain,texture=134400,body=
+---
+/equip Nadina's Pendant of Purity
+/equip Belt of Divine Guidance
+/equip Boots of the Divine Light
+/equip Vestments of Absolution
+/equip Shroud of the Highborne
+/equip Swiftheal Mantle
+/equip Bracers of Martyrdom
+
+---
+slot=136,name=swd,texture=136149,body=
+---
+#showtooltip
+/stand
+/dismount
+/cast [@mouseover,exists][@target,exists][@player] Shadow Word: Death
+
+---
+
+### SPELLS ###
+6603
+20577
+2550
+81
+30350
+27028
+20222
+26798
+20579
+5019
+26790
+5227
+7744
+527
+988
+6346
+588
+7128
+602
+1006
+10951
+10952
+25431
+1706
+8129
+8131
+10874
+10875
+10876
+25379
+25380
+32375
+1243
+1244
+1245
+2791
+10937
+10938
+25389
+17
+592
+600
+3747
+6065
+6066
+10898
+10899
+10900
+10901
+25217
+25218
+21562
+21564
+25392
+9484
+9485
+10955
+552
+32546
+34861
+34863
+34864
+34865
+34866
+528
+2061
+9472
+9473
+9474
+10915
+10916
+10917
+25233
+25235
+2060
+10963
+10964
+10965
+25314
+25210
+25213
+2054
+2055
+6063
+6064
+14914
+15262
+15263
+15264
+15265
+15266
+15267
+25331
+2050
+2052
+2053
+596
+996
+10960
+10961
+25316
+25308
+33076
+139
+6074
+6075
+6076
+6077
+6078
+10927
+10928
+10929
+25315
+25221
+25222
+2006
+2010
+10880
+10881
+20770
+25435
+585
+591
+598
+984
+1004
+6060
+10933
+10934
+25363
+25364
+2944
+19276
+19277
+19278
+19279
+19280
+25467
+586
+9578
+9579
+9592
+10941
+10942
+25429
+8092
+8102
+8103
+8104
+8105
+8106
+10945
+10946
+10947
+25372
+25375
+605
+10911
+10912
+453
+8192
+10953
+25596
+2096
+10909
+27683
+39374
+8122
+8124
+10888
+10890
+976
+10957
+10958
+25433
+32379
+32996
+589
+594
+970
+992
+2767
+10892
+10893
+10894
+25367
+25368
+34433
+2652
+19261
+19262
+19264
+19265
+19266
+25461
+27799
+15356
+20711
+15430
+27800
+15237
+14751
+14769
+14777
+14783
+14785
+27801
+15363
+17191
+14913
+15431
+14791
+27790
+15031
+27904
+15011
+15018
+3978
+39971
+3918
+12585
+23070
+12589
+12599
+19791
+19795
+3960
+3923
+30306
+7430
+12908
+30305
+3929
+39973
+3931
+12591
+3973
+30310
+3938
+23071
+12717
+23079
+3945
+12760
+19788
+3942
+12755
+30558
+3953
+8243
+12758
+23486
+12619
+3919
+3920
+3961
+3965
+3922
+3924
+3967
+3926
+12584
+12586
+12590
+3932
+30304
+13240
+12715
+12718
+8895
+30311
+3955
+3958
+30303
+12716
+23077
+3962
+19790
+12754
+30560
+12072
+26747
+26763
+31434
+31442
+8791
+26772
+12061
+12073
+40020
+26781
+36316
+40021
+8760
+8776
+36318
+40023
+41205
+40024
+26751
+41207
+3839
+26760
+41208
+2963
+12044
+18401
+18417
+2387
+3915
+40060
+26745
+26761
+26777
+2397
+2964
+12046
+3848
+18402
+8762
+26762
+3871
+3865
+8799
+31433
+12053
+44950
+26774
+818
+37836
+8604
+2538
+2540
+18630
+3275
+7934
+10840
+3277
+7928
+7929
+27032
+3276
+3278
+18629
+27033
+10841
+
+### FACTIONS ###
+530,6696
+76,4203
+911,8352
+81,2758
+68,6258
+729,42999
+510,8340
+889,13815
+1012,42999
+942,42999
+1038,25
+970,-325
+933,21522
+941,11992
+947,38352
+1011,42999
+1031,0
+932,42349
+934,-42000
+935,42095
+21,1325
+577,1512
+369,1462
+470,1200
+529,4803
+87,-6750
+609,10
+909,350
+989,36935
+990,42999
+967,42999
+576,1790
+270,904
+
+### EOF ###

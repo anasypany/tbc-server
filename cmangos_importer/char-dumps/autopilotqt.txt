@@ -1,0 +1,879 @@
+QE Live Gear Importer v1.3
+questionablyepic.com/live - Addon based heavily on SimulationCraft
+ 
+paladin="Autopilotqt"
+level=70
+race=Blood Elf
+gender=1
+region=
+server=Whitemane
+role=N/A
+professions=N/A
+talents=N/A
+spec=N/A
+ 
+head=,id=32376,enchantId=3096,gem1=24027:true,gem2=32409:true,gem3=0:nil
+neck=,id=30022,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+shoulder=,id=30055,enchantId=2986,gem1=32193:true,gem2=0:nil,gem3=0:nil
+chest=,id=30905,enchantId=2661,gem1=32211:true,gem2=32193:true,gem3=32217:true
+waist=,id=30106,enchantId=0,gem1=32193:true,gem2=32193:false,gem3=0:nil
+legs=,id=30900,enchantId=3012,gem1=32193:true,gem2=32217:true,gem3=32211:true
+feet=,id=32345,enchantId=2657,gem1=32217:true,gem2=32217:true,gem3=0:nil
+wrist=,id=32574,enchantId=2647,gem1=0:nil,gem2=0:nil,gem3=0:nil
+hands=,id=29947,enchantId=684,gem1=0:nil,gem2=0:nil,gem3=0:nil
+finger1=,id=30834,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+finger2=,id=32526,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+trinket1=,id=33831,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+trinket2=,id=28830,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+back=,id=33590,enchantId=368,gem1=0:nil,gem2=0:nil,gem3=0:nil
+main_hand=,id=32332,enchantId=2673,gem1=0:nil,gem2=0:nil,gem3=0:nil
+relic=,id=27484,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+tabard=,id=25549,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+ammo=,id=0
+
+### GEAR FROM BAGS ###
+id=2901,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32857,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33809,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=6948,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=34686,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=17033,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=21177,count=99,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=21177,count=100,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=23821,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33093,count=3,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=21991,count=18,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=13379,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=24140,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=28455,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=30544,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18986,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=26042,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22104,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27860,count=17,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32453,count=18,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=24058,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31117,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=34256,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=23827,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=23827,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=23827,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=23827,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=23827,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=23827,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=23827,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=23827,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=8529,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=8529,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22854,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27498,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27503,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27503,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27498,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27503,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27503,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27498,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27503,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27503,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27498,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27503,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27498,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27503,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27498,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32901,count=2,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=12662,count=3,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=5634,count=2,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27658,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22838,count=2,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=9224,count=4,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22840,count=2,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27498,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27498,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27498,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27503,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27503,count=3,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=34113,count=4,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33309,count=1,enchantId=3229,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32045,count=1,enchantId=3229,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33762,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=7717,count=1,enchantId=1900,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=30918,count=1,enchantId=2343,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=30902,count=1,enchantId=2673,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=23824,count=1,enchantId=2658,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33057,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33751,count=1,enchantId=3003,gem1=32409:true,gem2=32211:true,gem3=0:nil
+id=28242,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33919,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29301,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33923,count=1,enchantId=0,gem1=24058:true,gem2=0:nil,gem3=0:nil
+id=33753,count=1,enchantId=0,gem1=0:false,gem2=0:false,gem3=0:nil
+id=33749,count=1,enchantId=2933,gem1=32217:true,gem2=32211:true,gem3=28119:true
+id=33910,count=1,enchantId=2647,gem1=24058:true,gem2=0:nil,gem3=0:nil
+id=33750,count=1,enchantId=684,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33752,count=1,enchantId=3012,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33909,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33484,count=1,enchantId=368,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33812,count=1,enchantId=2658,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32757,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+
+### TALENTS ###
+t=1,id=1,rank=5
+t=1,id=2,rank=0
+t=1,id=3,rank=0
+t=1,id=4,rank=0
+t=1,id=5,rank=0
+t=1,id=6,rank=0
+t=1,id=7,rank=0
+t=1,id=8,rank=0
+t=1,id=9,rank=0
+t=1,id=10,rank=0
+t=1,id=11,rank=0
+t=1,id=12,rank=0
+t=1,id=13,rank=0
+t=1,id=14,rank=0
+t=1,id=15,rank=0
+t=1,id=16,rank=0
+t=1,id=17,rank=0
+t=1,id=18,rank=0
+t=1,id=19,rank=0
+t=1,id=20,rank=0
+t=2,id=1,rank=0
+t=2,id=2,rank=5
+t=2,id=3,rank=3
+t=2,id=4,rank=2
+t=2,id=5,rank=0
+t=2,id=6,rank=0
+t=2,id=7,rank=0
+t=2,id=8,rank=0
+t=2,id=9,rank=0
+t=2,id=10,rank=0
+t=2,id=11,rank=0
+t=2,id=12,rank=0
+t=2,id=13,rank=0
+t=2,id=14,rank=0
+t=2,id=15,rank=0
+t=2,id=16,rank=0
+t=2,id=17,rank=0
+t=2,id=18,rank=0
+t=2,id=19,rank=0
+t=2,id=20,rank=0
+t=2,id=21,rank=0
+t=2,id=22,rank=0
+t=3,id=1,rank=0
+t=3,id=2,rank=5
+t=3,id=3,rank=2
+t=3,id=4,rank=3
+t=3,id=5,rank=0
+t=3,id=6,rank=0
+t=3,id=7,rank=5
+t=3,id=8,rank=1
+t=3,id=9,rank=3
+t=3,id=10,rank=0
+t=3,id=11,rank=0
+t=3,id=12,rank=3
+t=3,id=13,rank=3
+t=3,id=14,rank=1
+t=3,id=15,rank=2
+t=3,id=16,rank=5
+t=3,id=17,rank=3
+t=3,id=18,rank=3
+t=3,id=19,rank=1
+t=3,id=20,rank=0
+t=3,id=21,rank=5
+t=3,id=22,rank=1
+
+### ACTIONS ###
+slot=1,type=macro,id=133
+slot=2,type=macro,id=125
+slot=3,type=spell,id=27180
+slot=4,type=macro,id=124
+slot=5,type=macro,id=129
+slot=6,type=spell,id=27166
+slot=7,type=spell,id=10326
+slot=8,type=item,id=5634
+slot=9,type=spell,id=31895
+slot=10,type=macro,id=131
+slot=11,type=spell,id=27158
+slot=12,type=macro,id=121
+slot=13,type=spell,id=27136
+slot=14,type=spell,id=27135
+slot=15,type=spell,id=27137
+slot=16,type=spell,id=19943
+slot=17,type=item,id=29376
+slot=20,type=macro,id=4
+slot=21,type=macro,id=9
+slot=22,type=macro,id=8
+slot=24,type=macro,id=6
+slot=25,type=spell,id=27028
+slot=26,type=spell,id=33359
+slot=27,type=spell,id=31789
+slot=28,type=item,id=23821
+slot=29,type=spell,id=27144
+slot=30,type=spell,id=1038
+slot=31,type=spell,id=27143
+slot=32,type=spell,id=27145
+slot=33,type=spell,id=25895
+slot=34,type=item,id=9224
+slot=35,type=item,id=32901
+slot=36,type=spell,id=20773
+slot=37,type=spell,id=30350
+slot=38,type=spell,id=2656
+slot=39,type=macro,id=14
+slot=40,type=spell,id=25780
+slot=42,type=spell,id=27140
+slot=43,type=spell,id=27142
+slot=44,type=spell,id=27141
+slot=45,type=macro,id=134
+slot=46,type=item,id=34686
+slot=47,type=macro,id=132
+slot=48,type=spell,id=19752
+slot=49,type=spell,id=28730
+slot=50,type=spell,id=28734
+slot=51,type=macro,id=130
+slot=52,type=macro,id=127
+slot=53,type=item,id=22838
+slot=54,type=item,id=22105
+slot=55,type=item,id=24494
+slot=56,type=item,id=21991
+slot=57,type=item,id=34062
+slot=58,type=item,id=33809
+slot=59,type=item,id=32857
+slot=60,type=item,id=6948
+slot=61,type=spell,id=1044
+slot=62,type=spell,id=27148
+slot=63,type=item,id=23824
+slot=64,type=spell,id=1020
+slot=65,type=macro,id=128
+slot=66,type=item,id=23827
+slot=67,type=macro,id=7
+slot=68,type=macro,id=13
+slot=69,type=macro,id=126
+slot=70,type=macro,id=122
+slot=71,type=macro,id=1
+slot=72,type=macro,id=135
+
+### MACROS ###
+slot=1,name=13,texture=135727,body=
+---
+#showtooltip
+/use 13
+
+---
+slot=2,name=A1Sap,texture=134400,body=
+---
+#showtooltip Sap
+/target arena1
+/cast [target=arena1] shadowstep
+/cast [target=arena1] Sap
+
+---
+slot=3,name=A2Sap,texture=134400,body=
+---
+#showtooltip Sap
+/target arena2
+/cast [target=arena2] shadowstep
+/cast [target=arena2] Sap
+
+---
+slot=4,name=ARENA LFM,texture=132307,body=
+---
+/4 Geared + EXP Warr + Ret LF Rsham w/ gear + exp for 3s
+
+---
+slot=5,name=ATTACK!,texture=132147,body=
+---
+/startattack
+/stopattack
+
+---
+slot=6,name=BS,texture=132241,body=
+---
+/2 WTB [Heart of Darkness]x4 450g
+
+---
+slot=7,name=HoJ,texture=135963,body=
+---
+#showtooltip
+/cast [nomod]Hammer of Justice
+/cast [mod:shift,target=focus]Hammer of Justice
+
+---
+slot=8,name=KICK?,texture=134400,body=
+---
+/invite putineatsdick
+/kick autopilotqt
+
+---
+slot=9,name=LF,texture=132120,body=
+---
+/2 WTB [The 2 Ring]
+
+---
+slot=10,name=LF,texture=132327,body=
+---
+/2 LF 
+
+---
+slot=11,name=LINK,texture=134400,body=
+---
+/script MacroFrameText:Insert("") 
+
+---
+slot=12,name=NamePlate Distan,texture=132177,body=
+---
+/console nameplateMaxDistance 41
+
+---
+slot=13,name=REP,texture=135942,body=
+---
+#showtooltip
+/cast [nomod]Repentance
+/cast [mod:shift,target=focus]Repentance
+
+---
+slot=14,name=Salv Saint,texture=135967,body=
+---
+/cast [target=prerelease]Blessing of Salvation
+
+---
+slot=15,name=TAINTED CORE,texture=132095,body=
+---
+/use Tainted Core
+/y <------- TAINTED CORE TO: %t ! ! !
+/s <------- TAINTED CORE TO: %t ! ! !
+/script SendChatMessage("!!! YOU HAVE THE CORE !!!", "WHISPER", nil, UnitName("target"));
+
+---
+slot=16,name=TRINKET,texture=134400,body=
+---
+#showtooltip
+/use Empty Mug of Direbrew
+/use Bloodlust Brooch
+
+---
+slot=17,name=TRINKET14,texture=133720,body=
+---
+#showtooltip
+/use 14
+
+---
+slot=18,name=VSap,texture=134400,body=
+---
+#showtooltip vanish
+/stopattack
+/cast vanish
+/cast [target=focus] sap
+/stopattack
+
+---
+slot=19,name=VSSap,texture=134400,body=
+---
+#showtooltip vanish
+/stopattack
+/cast vanish
+/cast [target=focus] shadowstep
+/cast [target=focus] sap
+/stopattack
+
+---
+slot=121,name=BLOOD,texture=135961,body=
+---
+#showtooltip
+/startattack
+/cast Seal of Blood
+
+---
+slot=122,name=BOP,texture=135964,body=
+---
+#showtooltip
+/cast [nomod]Blessing of Protection(Rank 3)
+/cast [mod:shift,target=comms]Blessing of Protection(Rank 3)
+/cast [mod:ctrl,target=takenotes]Blessing of Protection(Rank 3)
+
+---
+slot=123,name=CATS,texture=135891,body=
+---
+#showtooltip Crusader Strike
+/equip Cataclysm's Edge
+/startattack
+/cast Crusader Strike
+
+---
+slot=124,name=CONC,texture=135926,body=
+---
+#showtooltip
+/cast [nomod] Consecration(Rank 4)
+/cast [mod:shift] Consecration(Rank 1)
+
+---
+slot=125,name=Crusade,texture=135959,body=
+---
+#showtooltip
+/cancelaura Blessing of Protection
+/cast Judgement
+
+---
+slot=126,name=DISPEL,texture=135953,body=
+---
+#showtooltip
+/cast [nomod]Cleanse
+/cast [mod:shift,target=ferolp] Cleanse
+/cast [mod:ctrl,target=crumpshift] Cleanse
+
+---
+slot=127,name=FOL,texture=135907,body=
+---
+#showtooltip flash of light
+/equip Hammer of Atonement
+/equip Merciless Gladiator's Redoubt
+/cast Flash of Light
+
+---
+slot=128,name=Freedom,texture=135968,body=
+---
+#showtooltip
+/cast [target=nickwarriorr] blessing of freedom
+
+---
+slot=129,name=HOLY W,texture=135903,body=
+---
+#showtooltip
+/cast [nomod] Exorcism
+/cast [mod:shift] Holy Wrath
+
+---
+slot=130,name=LoH,texture=135928,body=
+---
+#showtooltip lay on hands
+/equip Hammer of Atonement
+/equip Merciless Gladiator's Redoubt
+/cast [nomod] Holy Light
+/cast [mod:alt] Lay on Hands
+
+---
+slot=131,name=SoC,texture=132347,body=
+---
+#showtooltip
+/startattack
+/cast [nomod] Seal of Command(Rank 1)
+
+---
+slot=132,name=SWORD n' BOARD,texture=132110,body=
+---
+/equip Vengeful Gladiator's Slicer
+/equip Merciless Gladiator's Shield Wall
+
+---
+slot=133,name=TORCH,texture=135891,body=
+---
+#showtooltip Crusader Strike
+/equip Torch of the Damned
+/startattack
+/cast Crusader Strike
+
+---
+slot=134,name=WEP,texture=133529,body=
+---
+/equip Torch of the damned
+/equip Ravager
+
+---
+slot=135,name=WINGS,texture=135875,body=
+---
+#showtooltip Avenging Wrath
+/use Berserker's Call
+/cast Avenging Wrath
+
+---
+
+### SPELLS ###
+28877
+28730
+6603
+107
+33359
+81
+30350
+2580
+27028
+7620
+20219
+822
+28734
+29354
+3127
+2656
+19977
+19978
+19979
+27144
+19742
+19850
+19852
+19853
+19854
+25290
+27142
+4987
+27173
+879
+5614
+5615
+10312
+10313
+10314
+27138
+19750
+19939
+19940
+19941
+19942
+19943
+27137
+25890
+27145
+25894
+25918
+27143
+24275
+24274
+24239
+27180
+635
+639
+647
+1026
+1042
+3472
+10328
+10329
+25292
+27135
+27136
+2812
+10318
+27139
+27154
+1152
+7328
+10322
+10324
+20772
+20773
+20165
+20347
+20348
+20349
+27160
+21084
+20287
+20288
+20289
+20290
+20291
+20292
+20293
+27155
+20166
+20356
+20357
+27166
+34767
+34769
+10326
+2878
+5627
+1044
+1022
+5599
+10278
+6940
+20729
+27147
+27148
+1038
+19746
+27149
+19752
+498
+5573
+642
+1020
+27153
+27152
+25895
+853
+5588
+5589
+10308
+31789
+25780
+20164
+31895
+27151
+33776
+31884
+19740
+19834
+19835
+19836
+19837
+19838
+25291
+27140
+32223
+25782
+25916
+27141
+20271
+27150
+31892
+348704
+21082
+20162
+20305
+20306
+20307
+20308
+27158
+31883
+35397
+27170
+20066
+20337
+31868
+20919
+20218
+20266
+20059
+20920
+20175
+44414
+20918
+25957
+31870
+31878
+35395
+20375
+20915
+20105
+20113
+20121
+20137
+20922
+20923
+26573
+20924
+20116
+30341
+3978
+3979
+39971
+3925
+40274
+3918
+12585
+23070
+12589
+12595
+12599
+12603
+19791
+19795
+12615
+12621
+6458
+3923
+30306
+7430
+12902
+12906
+30346
+19825
+3977
+30305
+3930
+3929
+23489
+39973
+3931
+12591
+3973
+8334
+30310
+3934
+3937
+3938
+3936
+3941
+15255
+12895
+23071
+3945
+19788
+19792
+19800
+3942
+3950
+12759
+30307
+30574
+3953
+9271
+39895
+30347
+12619
+3919
+36955
+3920
+3961
+3965
+3922
+3924
+3967
+3926
+12584
+12586
+12590
+12594
+12596
+3932
+12618
+44391
+30304
+30312
+30575
+12899
+12905
+12907
+30348
+3946
+3947
+12897
+12903
+3949
+30311
+3955
+12622
+3956
+30568
+3958
+30303
+3962
+3963
+19790
+19794
+19567
+30548
+30309
+30313
+30308
+30325
+30569
+30570
+38868
+33284
+42305
+33292
+33296
+22761
+43758
+818
+25954
+25704
+37836
+8604
+7828
+42302
+33289
+43707
+43779
+18239
+18241
+18243
+6500
+2538
+2539
+2541
+6499
+2540
+3398
+33286
+33294
+7213
+2544
+45022
+43772
+2546
+3376
+15855
+20916
+38867
+33287
+33291
+33295
+18242
+18244
+36210
+24801
+21175
+33279
+33293
+33285
+43761
+43765
+33288
+42296
+18630
+3275
+7934
+10840
+3277
+7928
+7929
+27032
+3276
+3278
+18629
+27033
+10841
+
+### FACTIONS ###
+530,12541
+76,19262
+911,12318
+81,5578
+68,11328
+729,42999
+510,16290
+889,7200
+1012,42999
+942,42999
+1015,42999
+970,9830
+933,24445
+941,9060
+947,42999
+1011,42999
+1031,377
+932,42999
+934,-42000
+935,42999
+21,3362
+577,4007
+369,4082
+470,3610
+529,42999
+87,-7000
+910,-20399
+609,16272
+909,0
+749,190
+989,28784
+990,42999
+967,42999
+59,1350
+576,-2540
+270,20384
+
+### EOF ###
