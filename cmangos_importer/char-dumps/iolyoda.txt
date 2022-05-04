@@ -547,7 +547,7 @@ slot=34,name=mpot,texture=134400,body=
 /use Major Recombobulator
 
 ---
-slot=35,name=mpot, rune,texture=134796,body=
+slot=35,name=mpot rune,texture=134796,body=
 ---
 #showtooltip
 /castsequence reset=120 Mana Potion Injector, Dark Rune
