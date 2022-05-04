@@ -1,0 +1,48 @@
+MACRO 16777217 "cat" INV_Misc_QuestionMark
+#showtooltip Cat Form
+/use !Cat Form
+END
+MACRO 16777218 "form" INV_Misc_QuestionMark
+/dismount
+#showtooltip
+/cast [form:1] !Dire Bear Form
+/cast [form:3] !Cat form
+/cast [form:2] !Aquatic Form
+/cast [form:4] !Travel Form
+/cast [form:5] !Tree Form
+/use [swimming]Aquatic Form;[flyable,nocombat]Swift Flight Form;[outdoors]Travel Form
+END
+MACRO 16777219 "hs" INV_Misc_QuestionMark
+/run if GetSpellCooldown(768)+GetItemCooldown(20520)>0 or UnitPower("player",0)<GetSpellPowerCost(768)[1].cost then SetCVar("autoUnshift",0) end;
+/use item:22103
+/use item:22104
+/use item:22105
+/cast [noform:1]!Dire Bear Form
+/run SetCVar("autoUnshift",1)
+END
+MACRO 16777220 "hscat" INV_Misc_QuestionMark
+/run if GetSpellCooldown(768)+GetItemCooldown(20520)>0 or UnitPower("player",0)<GetSpellPowerCost(768)[1].cost then SetCVar("autoUnshift",0) end;
+/use item:22103
+/use item:22104
+/use item:22105
+/cast [noform:3]!Cat Form
+/run SetCVar("autoUnshift",3)
+END
+MACRO 16777221 "mp" INV_Misc_QuestionMark
+/run if GetSpellCooldown(768)+GetItemCooldown(33093)>0 or UnitPower("player",0)<GetSpellPowerCost(768)[1].cost then SetCVar("autoUnshift",0) end;
+/use Mana Potion Injector
+/cast [noform:3]!Cat Form
+/run SetCVar("autoUnshift",3)
+END
+MACRO 16777222 "mp2" INV_Misc_QuestionMark
+/run if GetSpellCooldown(768)+GetItemCooldown(22832)>0 or UnitPower("player",0)<GetSpellPowerCost(768)[1].cost then SetCVar("autoUnshift",0) end;
+/use Unstable Mana Potion
+/cast [noform:3]!Cat Form
+/run SetCVar("autoUnshift",3)
+END
+MACRO 16777223 "mp3" INV_Misc_QuestionMark
+/run if GetSpellCooldown(768)+GetItemCooldown(22832)>0 or UnitPower("player",0)<GetSpellPowerCost(768)[1].cost then SetCVar("autoUnshift",0) end;
+/use Bottled Nethergon Energy
+/cast [noform:3]!Cat Form
+/run SetCVar("autoUnshift",3)
+END

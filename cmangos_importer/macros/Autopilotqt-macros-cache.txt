@@ -1,0 +1,82 @@
+MACRO 16777217 "BLOOD" INV_Misc_QuestionMark
+#showtooltip vanish
+/stopattack
+/cast vanish
+/cast [target=focus] shadowstep
+/cast [target=focus] sap
+/stopattack
+END
+MACRO 16777218 "BOP" INV_Misc_QuestionMark
+#showtooltip
+/startattack
+/cast Seal of Blood
+END
+MACRO 16777219 "CATS" INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod]Blessing of Protection(Rank 3)
+/cast [mod:shift,target=comms]Blessing of Protection(Rank 3)
+/cast [mod:ctrl,target=takenotes]Blessing of Protection(Rank 3)
+END
+MACRO 16777220 "CONC" INV_Misc_QuestionMark
+#showtooltip Crusader Strike
+/equip Cataclysm's Edge
+/startattack
+/cast Crusader Strike
+END
+MACRO 16777221 "Crusade" INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Consecration(Rank 4)
+/cast [mod:shift] Consecration(Rank 1)
+END
+MACRO 16777222 "DISPEL" INV_Misc_QuestionMark
+#showtooltip
+/cancelaura Blessing of Protection
+/cast Judgement
+END
+MACRO 16777223 "FOL" INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod]Cleanse
+/cast [mod:shift,target=ferolp] Cleanse
+/cast [mod:ctrl,target=crumpshift] Cleanse
+END
+MACRO 16777224 "Freedom" INV_Misc_QuestionMark
+#showtooltip flash of light
+/equip Hammer of Atonement
+/equip Merciless Gladiator's Redoubt
+/cast Flash of Light
+END
+MACRO 16777225 "HOLY W" INV_Misc_QuestionMark
+#showtooltip
+/cast [target=nickwarriorr] blessing of freedom
+END
+MACRO 16777226 "LoH" INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Exorcism
+/cast [mod:shift] Holy Wrath
+END
+MACRO 16777227 "SoC" INV_Misc_QuestionMark
+#showtooltip lay on hands
+/equip Hammer of Atonement
+/equip Merciless Gladiator's Redoubt
+/cast [nomod] Holy Light
+/cast [mod:alt] Lay on Hands
+END
+MACRO 16777228 "SWORD n' BOARD" INV_Misc_QuestionMark
+#showtooltip
+/startattack
+/cast [nomod] Seal of Command(Rank 1)
+END
+MACRO 16777229 "TORCH" INV_Misc_QuestionMark
+/equip Vengeful Gladiator's Slicer
+/equip Merciless Gladiator's Shield Wall
+END
+MACRO 16777230 "WEP" INV_Misc_QuestionMark
+#showtooltip Crusader Strike
+/equip Torch of the Damned
+/startattack
+/cast Crusader Strike
+END
+MACRO 16777231 "WINGS" INV_Misc_QuestionMark
+/equip Torch of the damned
+/equip Ravager
+END

@@ -1,0 +1,16 @@
+MACRO 16777217 "Single Tar" INV_Misc_QuestionMark
+/script SendChatMessage("! YOU HAVE THE CORE !", "WHISPER", "orcish", UnitName("target"));
+END
+MACRO 16777218 "Stormstrike" INV_Misc_QuestionMark
+#showtooltip
+/castsequence reset=8 Fire Nova Totem(Rank 7), Magma Totem(Rank 5), Magma Totem(Rank 5)
+END
+MACRO 16777219 "SWING TIMER" INV_Misc_QuestionMark
+/cast Stormstrike
+/startattack
+END
+MACRO 16777220 "WF GRACE" INV_Misc_QuestionMark
+/tar Player
+/targetlasttarget
+/startattack
+END

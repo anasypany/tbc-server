@@ -1,0 +1,89 @@
+MACRO 16777217 "aoe" INV_Misc_QuestionMark
+/cast [target=mouseover,exists][target=target,exists] !Shoot
+END
+MACRO 16777218 "bh" INV_Misc_QuestionMark
+/equip Chain of the Twilight Owl
+/equip Wings of the Avatar
+/equip Robe of Departed Spirits
+/equip Leggings of the Avatar
+/equip Boots of the Divine Light
+/equip Shroud of the Highborne
+/equip Swiftheal Wraps
+END
+MACRO 16777219 "coh" INV_Misc_QuestionMark
+#showtooltip Binding Heal
+/use Essence of the Martyr
+/cast Inner Focus
+/cast [target=mouseover,exists][target=target,exists][target=player] Binding Heal
+END
+MACRO 16777220 "dispel self" INV_Misc_QuestionMark
+#showtooltip Circle of Healing
+/use Essence of the Martyr
+/cast Inner Focus
+/cast [target=mouseover,exists][target=target,exists][target=player] Circle of Healing
+END
+MACRO 16777221 "greater heal" INV_Misc_QuestionMark
+#showtooltip
+/cast [target=iolyodaa][target=target,exists][target=player] Dispel Magic
+END
+MACRO 16777222 "haste" INV_Misc_QuestionMark
+#showtooltip
+/cast [target=mouseover,exists][target=target,exists][target=player] Greater Heal
+END
+MACRO 16777223 "md" INV_Misc_QuestionMark
+/equip Brooch of Nature's Mercy
+/equip Cowl of Benevolence
+/equip Shroud of the Highborne
+/equip Angelista's Sash 
+/equip Achromic Trousers of the Naaru
+/equip Boots of the Divine Light
+/equip Shroud of the Highborne
+/equip Vestments of Absolution
+END
+MACRO 16777224 "pom" INV_Misc_QuestionMark
+#showtooltip 
+/cast [target=cursor] Mass Dispel
+END
+MACRO 16777225 "ps" INV_Misc_QuestionMark
+#showtooltip
+/cast [target=mouseover,exists][target=target,exists][target=player] Prayer of Mending
+END
+MACRO 16777226 "pws self" INV_Misc_QuestionMark
+#showtooltip
+/cast [target=mouseover,exists][target=target,exists][target=player] Pain Suppression
+END
+MACRO 16777227 "r3 coh" INV_Misc_QuestionMark
+#showtooltip
+/stopcasting
+/cast [target=iolyodaa] Power Word: Shield
+END
+MACRO 16777228 "sf" INV_Misc_QuestionMark
+#showtooltip Circle of Healing
+/use Essence of the Martyr
+/cast Inner Focus
+/cast [target=mouseover,exists][target=target,exists][target=player] Circle of Healing(rank 3)
+END
+MACRO 16777229 "spirit" INV_Misc_QuestionMark
+#showtooltip
+/castsequence reset=300 shadowfiend
+/use Kibler's Bits
+END
+MACRO 16777230 "sr" INV_Misc_QuestionMark
+/cast [target=iolyodaa] Scroll of Spirit V
+END
+MACRO 16777231 "sustain" INV_Misc_QuestionMark
+/equip Blessed Medallion of Karabor
+/equip Night's End 
+/equip Belt of the Long Road 
+/equip Rocket Boots Xtreme Lite
+/equip Swiftheal Mantle
+END
+MACRO 16777232 "swd" INV_Misc_QuestionMark
+/equip Nadina's Pendant of Purity
+/equip Belt of Divine Guidance
+/equip Boots of the Divine Light
+/equip Vestments of Absolution
+/equip Shroud of the Highborne
+/equip Swiftheal Mantle
+/equip Bracers of Martyrdom
+END

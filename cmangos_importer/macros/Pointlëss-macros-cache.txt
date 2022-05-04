@@ -1,0 +1,31 @@
+MACRO 16777217 "ded" INV_Misc_QuestionMark
+/run local n,m if GetCVar("componentTexLoadLimit")=="0" then n=6 m=2 else n=0 m=1 end SetCVar("componentTexLoadLimit",n)SetCVar("graphicsTextureResolution",m)
+END
+MACRO 16777218 "ele" INV_Misc_QuestionMark
+/itemrack equip ele
+END
+MACRO 16777219 "es focus" INV_Misc_QuestionMark
+/cast [target=Focus] Earth Shock(Rank 1)
+END
+MACRO 16777220 "insta chain" INV_Misc_QuestionMark
+/cast Nature's Swiftness
+/cast Chain Heal(Rank 3)
+END
+MACRO 16777221 "Mastery + Trink" INV_Misc_QuestionMark
+/cast Elemental Mastery
+/use Icon of the Silver Crescent
+END
+MACRO 16777222 "Ns + Heal" INV_Misc_QuestionMark
+/cast Nature's Swiftness
+/cast Healing Wave(Rank 9)
+END
+MACRO 16777223 "resto" INV_Misc_QuestionMark
+/itemrack equip resto
+END
+MACRO 16777224 "sr" INV_Misc_QuestionMark
+/itemrack equip sr
+END
+MACRO 16777225 "Trinkets" INV_Misc_QuestionMark
+/use Zandalarian Hero Charm
+/use Hibernation Crystal
+END
