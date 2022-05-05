@@ -1,0 +1,1307 @@
+QE Live Gear Importer v1.3
+questionablyepic.com/live - Addon based heavily on SimulationCraft
+ 
+warrior="Coze"
+level=70
+race=Orc
+gender=1
+region=
+server=Whitemane
+role=N/A
+professions=N/A
+talents=N/A
+spec=N/A
+ 
+head=,id=32373,enchantId=3003,gem1=32409:true,gem2=32226:true,gem3=0:nil
+neck=,id=32591,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+shoulder=,id=30979,enchantId=2996,gem1=32217:true,gem2=32226:true,gem3=0:nil
+shirt=,id=11840,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+chest=,id=30975,enchantId=2661,gem1=32205:false,gem2=32205:false,gem3=32205:false
+waist=,id=30915,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+legs=,id=32341,enchantId=3012,gem1=0:nil,gem2=0:nil,gem3=0:nil
+feet=,id=32345,enchantId=911,gem1=32205:true,gem2=32205:true,gem3=0:nil
+wrist=,id=30863,enchantId=2647,gem1=32217:true,gem2=0:nil,gem3=0:nil
+hands=,id=32278,enchantId=684,gem1=32205:false,gem2=32205:false,gem3=0:nil
+finger1=,id=32335,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+finger2=,id=33919,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+trinket1=,id=21670,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+trinket2=,id=28830,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+back=,id=33484,enchantId=368,gem1=0:nil,gem2=0:nil,gem3=0:nil
+main_hand=,id=33669,enchantId=3225,gem1=0:nil,gem2=0:nil,gem3=0:nil
+off_hand=,id=34015,enchantId=2673,gem1=0:nil,gem2=0:nil,gem3=0:nil
+relic=,id=33474,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+tabard=,id=20131,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+ammo=,id=2515
+
+### GEAR FROM BAGS ###
+id=30259,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29161,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=28558,count=56,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22797,count=4,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=21877,count=13,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=23821,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=23827,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=2515,count=150,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=24004,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31773,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=4397,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=5956,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=21991,count=19,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27658,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27658,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33872,count=12,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27498,count=2,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22854,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=8529,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=9224,count=6,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=5634,count=2,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=9172,count=4,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=13442,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22829,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22829,count=4,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22838,count=4,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22838,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29796,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=24581,count=42,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18986,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=28421,count=7,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=23529,count=6,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=20558,count=16,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29024,count=49,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=20559,count=7,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=20560,count=49,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=184871,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=30344,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=23824,count=1,enchantId=911,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=23762,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29104,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=25477,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29434,count=50,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32757,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32297,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=30889,count=1,enchantId=0,gem1=30590:true,gem2=0:nil,gem3=0:nil
+id=30627,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=34163,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=28553,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=30834,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=30028,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33500,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32261,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29301,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29947,count=1,enchantId=684,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=30487,count=1,enchantId=684,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32608,count=1,enchantId=684,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32280,count=1,enchantId=684,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=28502,count=1,enchantId=2648,gem1=30587:true,gem2=0:nil,gem3=0:nil
+id=33813,count=1,enchantId=2647,gem1=24051:true,gem2=0:nil,gem3=0:nil
+id=32268,count=1,enchantId=911,gem1=24033:false,gem2=24033:false,gem3=0:nil
+id=33812,count=1,enchantId=2658,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29015,count=1,enchantId=3013,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=28385,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33331,count=1,enchantId=0,gem1=24058:true,gem2=24067:true,gem3=0:nil
+id=32333,count=1,enchantId=0,gem1=24054:true,gem2=24062:true,gem3=0:nil
+id=24544,count=1,enchantId=2661,gem1=24058:true,gem2=24058:true,gem3=24051:true
+id=30896,count=1,enchantId=2661,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=24546,count=1,enchantId=2996,gem1=30604:true,gem2=33782:true,gem3=0:nil
+id=29386,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=30488,count=1,enchantId=3003,gem1=25894:true,gem2=24058:true,gem3=0:nil
+id=32521,count=1,enchantId=3003,gem1=32409:true,gem2=24058:true,gem3=0:nil
+id=28659,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32332,count=1,enchantId=3225,gem1=0:nil,gem2=0:nil,gem3=0:nil
+
+### TALENTS ###
+t=1,id=1,rank=3
+t=1,id=2,rank=4
+t=1,id=3,rank=0
+t=1,id=4,rank=2
+t=1,id=5,rank=5
+t=1,id=6,rank=0
+t=1,id=7,rank=0
+t=1,id=8,rank=1
+t=1,id=9,rank=3
+t=1,id=10,rank=0
+t=1,id=11,rank=2
+t=1,id=12,rank=0
+t=1,id=13,rank=1
+t=1,id=14,rank=0
+t=1,id=15,rank=0
+t=1,id=16,rank=0
+t=1,id=17,rank=0
+t=1,id=18,rank=0
+t=1,id=19,rank=0
+t=1,id=20,rank=0
+t=1,id=21,rank=0
+t=1,id=22,rank=0
+t=1,id=23,rank=0
+t=2,id=1,rank=0
+t=2,id=2,rank=5
+t=2,id=3,rank=0
+t=2,id=4,rank=5
+t=2,id=5,rank=0
+t=2,id=6,rank=0
+t=2,id=7,rank=0
+t=2,id=8,rank=5
+t=2,id=9,rank=5
+t=2,id=10,rank=0
+t=2,id=11,rank=5
+t=2,id=12,rank=0
+t=2,id=13,rank=1
+t=2,id=14,rank=2
+t=2,id=15,rank=0
+t=2,id=16,rank=5
+t=2,id=17,rank=0
+t=2,id=18,rank=1
+t=2,id=19,rank=1
+t=2,id=20,rank=5
+t=2,id=21,rank=0
+t=3,id=1,rank=0
+t=3,id=2,rank=0
+t=3,id=3,rank=0
+t=3,id=4,rank=0
+t=3,id=5,rank=0
+t=3,id=6,rank=0
+t=3,id=7,rank=0
+t=3,id=8,rank=0
+t=3,id=9,rank=0
+t=3,id=10,rank=0
+t=3,id=11,rank=0
+t=3,id=12,rank=0
+t=3,id=13,rank=0
+t=3,id=14,rank=0
+t=3,id=15,rank=0
+t=3,id=16,rank=0
+t=3,id=17,rank=0
+t=3,id=18,rank=0
+t=3,id=19,rank=0
+t=3,id=20,rank=0
+t=3,id=21,rank=0
+t=3,id=22,rank=0
+
+### ACTIONS ###
+slot=1,type=macro,id=123
+slot=2,type=spell,id=6554
+slot=3,type=spell,id=25275
+slot=4,type=spell,id=18499
+slot=6,type=spell,id=1161
+slot=7,type=spell,id=2687
+slot=8,type=macro,id=4
+slot=9,type=spell,id=20572
+slot=10,type=macro,id=35
+slot=11,type=macro,id=14
+slot=12,type=spell,id=1719
+slot=13,type=macro,id=63
+slot=14,type=macro,id=36
+slot=15,type=macro,id=23
+slot=16,type=macro,id=37
+slot=17,type=macro,id=47
+slot=18,type=macro,id=48
+slot=19,type=macro,id=49
+slot=20,type=spell,id=20572
+slot=21,type=macro,id=29
+slot=22,type=spell,id=355
+slot=23,type=macro,id=34
+slot=24,type=macro,id=50
+slot=25,type=spell,id=34428
+slot=26,type=spell,id=20572
+slot=27,type=item,id=9224
+slot=28,type=item,id=24494
+slot=29,type=item,id=13442
+slot=30,type=item,id=23827
+slot=31,type=item,id=22104
+slot=32,type=item,id=22105
+slot=33,type=item,id=5634
+slot=34,type=item,id=22829
+slot=35,type=item,id=21991
+slot=36,type=item,id=34062
+slot=37,type=macro,id=18
+slot=38,type=macro,id=124
+slot=39,type=spell,id=11585
+slot=40,type=macro,id=125
+slot=41,type=spell,id=12292
+slot=49,type=macro,id=30
+slot=50,type=spell,id=25236
+slot=51,type=macro,id=19
+slot=52,type=macro,id=134
+slot=53,type=spell,id=25208
+slot=54,type=spell,id=3018
+slot=55,type=spell,id=469
+slot=56,type=macro,id=28
+slot=57,type=macro,id=10
+slot=58,type=spell,id=25242
+slot=59,type=spell,id=25225
+slot=60,type=macro,id=16
+slot=61,type=macro,id=121
+slot=62,type=macro,id=133
+slot=63,type=item,id=33669
+slot=64,type=macro,id=133
+slot=65,type=item,id=23824
+slot=66,type=item,id=32345
+slot=67,type=macro,id=45
+slot=68,type=macro,id=18
+slot=69,type=macro,id=28
+slot=70,type=macro,id=51
+slot=71,type=macro,id=129
+slot=72,type=macro,id=127
+slot=73,type=macro,id=123
+slot=74,type=macro,id=5
+slot=75,type=spell,id=11578
+slot=76,type=spell,id=25266
+slot=77,type=spell,id=25264
+slot=78,type=spell,id=1161
+slot=79,type=spell,id=2687
+slot=80,type=macro,id=4
+slot=81,type=macro,id=12
+slot=82,type=spell,id=20572
+slot=83,type=spell,id=5246
+slot=84,type=macro,id=127
+slot=85,type=macro,id=123
+slot=86,type=macro,id=2
+slot=87,type=macro,id=53
+slot=88,type=spell,id=2565
+slot=89,type=spell,id=25264
+slot=90,type=spell,id=1161
+slot=91,type=spell,id=2687
+slot=92,type=macro,id=9
+slot=93,type=macro,id=12
+slot=94,type=macro,id=57
+slot=95,type=spell,id=5246
+slot=96,type=spell,id=871
+slot=97,type=macro,id=123
+slot=98,type=spell,id=6554
+slot=99,type=macro,id=52
+slot=100,type=spell,id=18499
+slot=101,type=macro,id=35
+slot=102,type=spell,id=1161
+slot=103,type=spell,id=2687
+slot=104,type=macro,id=4
+slot=105,type=macro,id=12
+slot=106,type=spell,id=20572
+slot=107,type=macro,id=14
+slot=108,type=spell,id=1719
+slot=109,type=spell,id=2048
+slot=110,type=macro,id=5
+slot=111,type=spell,id=676
+slot=112,type=spell,id=11578
+slot=113,type=spell,id=25212
+slot=114,type=spell,id=2687
+slot=115,type=spell,id=25203
+slot=116,type=spell,id=30350
+slot=117,type=spell,id=27028
+slot=119,type=item,id=18798
+slot=120,type=item,id=6948
+
+### MACROS ###
+slot=1,name= ,texture=132155,body=
+---
+#showtooltip Rend
+/cleartarget [dead]
+/targetenemy [noexists]
+/startattack
+/cast Rend
+
+---
+slot=2,name= ,texture=132357,body=
+---
+#showtooltip Shield Bash
+/cast Defensive Stance
+/equipslot 16 Pronged Reaver
+/equipslot 17 Arctic Buckler
+/cast Shield Bash
+/startattack
+
+---
+slot=3,name= ,texture=132316,body=
+---
+#showtooltip
+/cast [stance:1] Hamstring; [stance:2] Battle Stance; [stance:3] Hamstring
+
+---
+slot=4,name= ,texture=132223,body=
+---
+#showtooltip Overpower
+/cast Battle Stance
+/cast Overpower
+/cast Battle Stance
+
+---
+slot=5,name= ,texture=132938,body=
+---
+#showtooltip Pummel
+/cast Berserker Stance
+/cast Pummel
+/startattack
+
+---
+slot=6,name= ,texture=132363,body=
+---
+#showtooltip Sunder Armor
+/cleartarget [dead]
+/targetenemy [noexists]
+/startattack
+/cast Sunder Armor
+
+---
+slot=7,name= ,texture=135358,body=
+---
+#showtooltip Execute
+/startattack
+/cast Execute
+
+---
+slot=8,name= ,texture=132349,body=
+---
+#showtooltip
+/cast [stance:1] Overpower; [stance:2] Revenge; [stance:3] Battle Stance
+
+---
+slot=9,name= ,texture=132353,body=
+---
+#showtooltip Revenge
+/cast Defensive Stance
+/cast Revenge
+
+---
+slot=10,name= ,texture=132369,body=
+---
+#showtooltip
+/cast [stance:1] Thunder Clap; [stance:2] Sunder Armor; [stance:3] Whirlwind
+/startattack
+
+---
+slot=11,name= ,texture=132338,body=
+---
+#showtooltip 
+/cast Cleave
+/startattack
+
+---
+slot=12,name= ,texture=132306,body=
+---
+#showtooltip Sweeping Strikes
+/cast Sweeping Strikes
+/startattack
+
+---
+slot=13,name= ,texture=134400,body=
+---
+#showtooltip Rampage
+/cleartarget [dead]
+/targetenemy [noexists]
+/startattack
+/cast Rampage
+
+---
+slot=14,name= ,texture=132154,body=
+---
+#showtooltip Intimidating Shout
+/cast Intimidating Shout
+
+---
+slot=15,name= ,texture=134400,body=
+---
+#showtooltip Shield Slam
+/cleartarget [dead]
+/targetenemy [noexists]
+/startattack
+/cast Shield Slam
+
+---
+slot=16,name= ,texture=132316,body=
+---
+#showtooltip Hamstring
+/targetenemy [noexists]
+/startattack
+/cast Hamstring
+
+---
+slot=17,name= ,texture=132112,body=
+---
+/tar budknight
+
+---
+slot=18,name= ,texture=132343,body=
+---
+#showtooltip Disarm
+/cast Defensive Stance
+/cast Disarm
+/cast Bloodrage
+/startattack
+
+---
+slot=19,name= ,texture=132333,body=
+---
+#showtooltip Battle Shout
+/cast Battle Shout
+/cancelaura argent dawn commission
+
+---
+slot=20,name= ,texture=134400,body=
+---
+#showtooltip Haste Potion
+/cast Blood Fury
+/use Haste Potion
+
+---
+slot=21,name=  ,texture=132152,body=
+---
+/script P=(math.floor(GetPVPRankProgress(target)*10000))/100 W=UnitPVPRank("player") N=(W-6)*5000+5000*P/100 Q=(W-5)*5000-N*0.8 SendChatMessage("Rank Progress: "..P.."% ".."Current RP: "..N.." RP to next rank "..Q.."","emote")
+
+---
+slot=22,name= #showtooltip Th,texture=132101,body=
+---
+#showtooltip The Hungering Cold
+/stopcasting
+/equipslot 16 Hammer of the Northern Wind
+/equipslot 17 Coldrage Dagger
+
+---
+slot=23,name= a2,texture=132092,body=
+---
+/target arena2
+
+---
+slot=24,name= BIG,texture=134400,body=
+---
+#showtooltip
+/cast Blood Fury(Racial)
+/cast Recklessness
+/use Diamond Flask
+
+---
+slot=25,name= BTVael,texture=136012,body=
+---
+#showtooltip Bloodthirst
+/cancelaura Bloodthirst
+/cleartarget [dead]
+/targetenemy [noexists]
+/startattack
+/cast Bloodthirst
+/cast Heroic Strike
+/cancelaura Greater Blessing of Salvation
+/cancelaura Blessing of Salvation
+
+---
+slot=26,name= BTVR,texture=136012,body=
+---
+#showtooltip Bloodthirst
+/cleartarget [dead]
+/targetenemy [noexists]
+/startattack
+/cast Bloodthirst
+
+---
+slot=27,name= DTo,texture=134400,body=
+---
+#showtooltip Deep Thunder
+/stopcasting
+/equipslot 16 Deep Thunder
+
+---
+slot=28,name= exeVael,texture=135358,body=
+---
+#showtooltip Execute
+/cancelaura Execute
+/cleartarget [dead]
+/targetenemy [noexists]
+/startattack
+/cast Execute
+/cast Heroic Strike
+
+---
+slot=29,name= fPum,texture=132938,body=
+---
+#showtooltip
+/cast [target=focus] Pummel
+
+---
+slot=30,name= HS,texture=132282,body=
+---
+#showtooltip Heroic Strike
+/cleartarget [dead]
+/targetenemy [noexists]
+/startattack
+/cast Bloodthirst
+/cast Heroic Strike
+
+---
+slot=31,name= inspt,texture=132094,body=
+---
+/inspect
+
+---
+slot=32,name= loser,texture=132117,body=
+---
+/y vü a 101 I c ◃ f ™
+
+---
+slot=33,name= NE,texture=132091,body=
+---
+.race 4
+.skin 6
+.hair 1
+.haircolor 12
+.face 1
+.features 2
+.gender 1
+.enchant 1 103
+
+---
+slot=34,name= UD,texture=132099,body=
+---
+.gender 0
+.race 5
+.skin 6
+.hair 10
+.haircolor 10
+.face 1
+.features 3
+.gender 0
+.enchant 17 2673
+.item 16 33762
+.item 17 33762
+.item 6 30915
+
+---
+slot=35,name= WWVR,texture=132369,body=
+---
+#showtooltip Whirlwind
+/cleartarget [dead]
+/targetenemy [noexists]
+/startattack
+/cast Whirlwind
+
+---
+slot=36,name=a1,texture=132092,body=
+---
+/target arena1
+
+---
+slot=37,name=a3,texture=132092,body=
+---
+/target arena3
+
+---
+slot=38,name=Axe,texture=132127,body=
+---
+#showtooltip
+/equipslot 16 Deathbringer
+/equipslot 17 Draconian Deflector
+/equipslot 16 Deathbringer
+/equipslot 17 Bone Slicing Hatchet
+
+---
+slot=39,name=Cam1,texture=132098,body=
+---
+/console SET cameraYawMoveSpeed 140
+/console SET cameraPitchMoveSpeed 140
+
+---
+slot=40,name=Cam2,texture=132100,body=
+---
+/console SET cameraYawMoveSpeed 5
+/console SET cameraPitchMoveSpeed 5
+
+---
+slot=41,name=Dag,texture=132324,body=
+---
+#showtooltip
+/stopcasting
+/equipslot 16 Core Hound Tooth
+/equipslot 17 Elementium Reinforced Bulwark
+/equipslot 16 Core Hound Tooth
+/equipslot 17 Deathbringer
+
+---
+slot=42,name=Decap,texture=134400,body=
+---
+#showtooltip The Decapitator
+/stopcasting
+/equipslot 16 The Decapitator
+/equipslot 17 Aldori Legacy Defender
+/equipslot 17 item:29165
+
+---
+slot=43,name=Decursive,texture=134400,body=
+---
+/script DecursiveRootTable.Dcr:Println('No spell available')
+
+---
+slot=44,name=Dev,texture=134400,body=
+---
+#showtooltip Devastate
+/cleartarget [dead]
+/targetenemy [noexists]
+/startattack
+/cast Devastate
+/cast Heroic Strike
+
+---
+slot=45,name=Dev C,texture=132338,body=
+---
+#showtooltip Cleave
+/cleartarget [dead]
+/targetenemy [noexists]
+/startattack
+/cast Devastate
+/cast Cleave
+
+---
+slot=46,name=doodoo,texture=132318,body=
+---
+/y ÌÍ ÂÃ c ÂÃ c
+
+---
+slot=47,name=f1,texture=132130,body=
+---
+/focus arena1
+
+---
+slot=48,name=f2,texture=132130,body=
+---
+/focus arena2
+
+---
+slot=49,name=f3,texture=132130,body=
+---
+/focus arena3
+
+---
+slot=50,name=fInt,texture=132307,body=
+---
+#showtooltip
+/cast [target=focus] Intercept
+
+---
+slot=51,name=Help,texture=132301,body=
+---
+#showtooltip
+/cast Defensive Stance
+/cast [target=Rzu] Intervene
+/cast [target=Averrawap] Intervene
+/cancelaura Blessing of Protection
+
+---
+slot=52,name=IntC,texture=132307,body=
+---
+#showtooltip
+/cast Intercept
+/startattack
+/cancelaura Blessing of Protection
+
+---
+slot=53,name=Interv,texture=132365,body=
+---
+#showtooltip
+/cast [target=mouseover] Intervene
+/cancelaura Blessing of Protection
+
+---
+slot=54,name=kartra,texture=132089,body=
+---
+/target Kartra Bloodsnarl
+/target Grizzle Halfmane
+
+---
+slot=55,name=KD,texture=134400,body=
+---
+#showtooltip King's Defender
+/stopcasting
+/equipslot 16 King's Defender
+/equipslot 17 Aldori Legacy Defender
+/equipslot 17 Hope Ender
+
+---
+slot=56,name=LH,texture=134400,body=
+---
+#showtooltip Lionheart Champion
+/stopcasting
+/equipslot 16 Lionheart Champion
+/equipslot 16 Hope Ender
+/equipslot 17 Aldori Legacy Defender
+
+---
+slot=57,name=LS,texture=136047,body=
+---
+#showtooltip Last Stand
+/stopcasting
+/cast Last Stand
+
+---
+slot=58,name=MAceAXe,texture=133060,body=
+---
+#showtooltip Dragonstrike
+/stopcasting
+/equipslot 16 item:28439:3225
+/equipslot 17 Kaz'rogal's Hardened Heart
+/equipslot 17 Rising Tide
+
+---
+slot=59,name=nameplate,texture=134400,body=
+---
+/console nameplateMaxDistance 41
+
+---
+slot=60,name=NoHSDev,texture=134400,body=
+---
+#showtooltip Devastate
+/cleartarget [dead]
+/targetenemy [noexists]
+/startattack
+/cast Devastate
+
+---
+slot=61,name=RP,texture=132090,body=
+---
+/script P=(math.floor(GetPVPRankProgress(target)*10000))/100 W=UnitPVPRank("player") N=(W-6)*5000+5000*P/100 Q=(W-5)*5000-N*0.8 SendChatMessage("Rank Progress: "..P.."% ".."Current RP: "..N.." RP to next rank "..Q.."","emote")
+
+---
+slot=62,name=Skull,texture=134400,body=
+---
+#showtooltip Skull of Impending Doom
+/stopcasting
+/use Skull of Impending Doom
+/equipslot 16 Dragonmaw
+/equipslot 17 Skull of Impending Doom
+
+---
+slot=63,name=SR,texture=132361,body=
+---
+#showtooltip Spell Reflection
+/stopcasting
+/cast Defensive Stance
+/cast Bloodrage
+/cast Spell Reflection
+/equipslot 16 item:28439:3225
+/equipslot 17 Kaz'rogal's Hardened Heart
+
+---
+slot=64,name=Tank,texture=134400,body=
+---
+#showtooltip Warbringer
+/stopcasting
+/equipslot 16 Warbringer
+/equipslot 17 Hope Ender
+/equipslot 16 Warbringer
+/equipslot 17 Aldori Legacy Defender
+
+---
+slot=65,name=uncrit,texture=134400,body=
+---
+/script DEFAULT_CHAT_FRAME:AddMessage("Need 102.4 combined avoidance. Currently at:",0.8,0.8,1)
+/script DEFAULT_CHAT_FRAME:AddMessage(GetDodgeChance()+GetBlockChance() + GetParryChance() +5+(GetCombatRatingBonus(CR_DEFENSE_SKILL) + 20)*0.04,1,0.5,0)
+
+---
+slot=66,name=ZygorAction1,texture=132212,body=
+---
+#showtooltip Talk to Bot-Specialist Alley
+/run ZGV:MCM(4)
+/cleartarget
+/target Bot-Specialist Alley
+/run ZGV:MRM()
+
+---
+slot=121,name= ,texture=132366,body=
+---
+#showtooltip Demoralizing Shout
+/target Greater Healing [nodead]
+/startattack
+/cast Demoralizing Shout
+
+---
+slot=122,name= ,texture=134400,body=
+---
+#showtooltip Mortal Strike
+/targetenemy [noexists]
+/startattack
+/stopcasting
+/cast Mortal Strike
+
+---
+slot=123,name= ,texture=136012,body=
+---
+#showtooltip Bloodthirst
+/cancelaura Bloodthirst
+/cleartarget [dead]
+/targetenemy [noexists]
+/startattack
+/cast Bloodthirst
+
+---
+slot=124,name= ,texture=132337,body=
+---
+#showtooltip
+/cast [stance:1] Intercept; [stance:2] Intercept; [stance:3] Charge
+/startattack
+/cancelaura Blessing of Protection
+
+---
+slot=125,name= ,texture=132110,body=
+---
+#showtooltip
+/cast [stance:1] Berserker Rage; [stance:2] Mocking Blow; [stance:3] Shield Block
+/startattack
+
+---
+slot=126,name= ,texture=136105,body=
+---
+#showtooltip
+/cast [stance:1] Whirlwind; [stance:2] Whirlwind; [stance:3] Thunder Clap
+/startattack
+
+---
+slot=127,name= ,texture=132109,body=
+---
+#showtooltip Recklessness
+/cast Berserker Stance
+/cast Recklessness
+/startattack
+
+---
+slot=128,name= ,texture=132336,body=
+---
+#showtooltip Retaliation
+/cast Battle Stance
+/cast Retaliation
+/startattack
+
+---
+slot=129,name= ,texture=132362,body=
+---
+#showtooltip Shield Wall
+/stopcasting
+/equipslot 16 Warbringer
+/equipslot 17 Aldori Legacy Defender
+/cast Defensive Stance
+/cast Shield Wall
+
+---
+slot=130,name= hs,texture=132223,body=
+---
+/y ÇÈ ™️ c I I Ÿ f ™️ ‚ Ÿ ◃ ð ð ƒ f Ÿ
+
+---
+slot=131,name=2H Mace,texture=134400,body=
+---
+#showtooltip Torch of the Damned
+/stopcasting
+/equipslot 16 Torch of the Damned
+/equipslot 16 item:28439:3225
+/equipslot 17 Kaz'rogal's Hardened Heart
+
+---
+slot=132,name=Axe,texture=134400,body=
+---
+#showtooltip Soul Cleaver
+/stopcasting
+/equipslot 16 Soul Cleaver
+/equipslot 16 item:28439:3225
+/equipslot 17 Kaz'rogal's Hardened Heart
+
+---
+slot=133,name=Axes,texture=132470,body=
+---
+#showtooltip Vengeful Gladiator's Cleaver
+/stopcasting
+/equipslot 16 Vengeful Gladiator's Cleaver
+/equipslot 17 Kaz'rogal's Hardened Heart
+/equipslot 17 Vengeful Gladiator's Chopper
+
+---
+slot=134,name=Mount,texture=134060,body=
+---
+#showtooltip 
+/cast [flyable] Swift Red Windrider
+/cast [noflyable] Reins of the Silver War Talbuk
+
+---
+slot=135,name=MSHS,texture=134400,body=
+---
+#showtooltip Mortal Strike
+/targetenemy [noexists]
+/startattack
+/cast Heroic Strike
+/cast Mortal Strike
+
+---
+slot=136,name=Sword,texture=134400,body=
+---
+#showtooltip Lionheart Champion
+/stopcasting
+/equipslot 16 Lionheart Champion
+/equipslot 16 Hope Ender
+/equipslot 17 Aldori Legacy Defender
+
+---
+slot=137,name=Tank,texture=134400,body=
+---
+#showtooltip Warbringer
+/stopcasting
+/equipslot 16 item:29165
+/equipslot 17 Hope Ender
+/equipslot 16 Warbringer
+/equipslot 17 Aldori Legacy Defender
+
+---
+slot=138,name=WizShield,texture=134400,body=
+---
+#showtooltip Jagged Obsidian Shield
+/stopcasting
+/equipslot 16 Might of Menethil
+/equipslot 17 Jagged Obsidian Shield
+/equipslot 16 The Castigator
+
+---
+
+### SPELLS ###
+6603
+20574
+29844
+107
+20572
+21563
+81
+674
+30350
+27028
+20219
+20573
+17040
+3127
+3018
+2764
+9787
+2457
+11578
+25212
+29707
+25266
+11585
+25208
+20230
+25264
+2048
+18499
+2458
+1161
+25231
+469
+25203
+25236
+25275
+5246
+6554
+1719
+25242
+34428
+1680
+2687
+71
+676
+3411
+30357
+29704
+2565
+871
+23920
+25225
+355
+12292
+12296
+12328
+23588
+12856
+12697
+20505
+12974
+13002
+30335
+13048
+12861
+16465
+12867
+16494
+12664
+12962
+29763
+29721
+12678
+30341
+3978
+39971
+3925
+40274
+3918
+12585
+23070
+12589
+12595
+12599
+12603
+19791
+19795
+12615
+12621
+6458
+3923
+30306
+30318
+7430
+12902
+30334
+12906
+30346
+19825
+3977
+30305
+3930
+3929
+23489
+39973
+3931
+12591
+3973
+8334
+30310
+3934
+3937
+3938
+3936
+3941
+15255
+12895
+23071
+3945
+19788
+19792
+19800
+3942
+3950
+12759
+30307
+3953
+9271
+39895
+23068
+12619
+3919
+3920
+3961
+3965
+3922
+3924
+3967
+3926
+12584
+12586
+9273
+12590
+23080
+12594
+12596
+23082
+3932
+12618
+44391
+30304
+30312
+12899
+12905
+12907
+30348
+3946
+3947
+12897
+12903
+3949
+12616
+30311
+3955
+12622
+3956
+3958
+30303
+23077
+3962
+3963
+19790
+19794
+19814
+19567
+30548
+30556
+30309
+30313
+30308
+30569
+16639
+16647
+32656
+14380
+19666
+16640
+32657
+9961
+9985
+10001
+34607
+2660
+2661
+19667
+2663
+2664
+2666
+16641
+16649
+16657
+2672
+2674
+2675
+34608
+29608
+29648
+29656
+29728
+34545
+19668
+16642
+2737
+2738
+8880
+2740
+2741
+9926
+34546
+9954
+9974
+29649
+3292
+34547
+3294
+16643
+3115
+12260
+2662
+3320
+3319
+2739
+3323
+3324
+34548
+9983
+3331
+3293
+29642
+3337
+3116
+2665
+7408
+3326
+7817
+34979
+3491
+2668
+2670
+3328
+6517
+2742
+3117
+3296
+9986
+3333
+16652
+8768
+14379
+34981
+42662
+29547
+3506
+29619
+9987
+7818
+10003
+10007
+10015
+29552
+3496
+3508
+3498
+7223
+32284
+9921
+9918
+9920
+9916
+16653
+9931
+9993
+9935
+34983
+29548
+29556
+9959
+9968
+10011
+15972
+36262
+16662
+3501
+3502
+9928
+41133
+32655
+29621
+29645
+36263
+18630
+3275
+7934
+10840
+3277
+7928
+7929
+27032
+3276
+3278
+18629
+27033
+10841
+
+### FACTIONS ###
+970,5270
+933,29706
+934,21865
+529,42999
+1012,42999
+87,-9875
+21,3676
+910,42999
+609,42999
+942,42999
+909,0
+530,14060
+577,3331
+729,42999
+369,3340
+749,42999
+989,42999
+1011,42999
+76,24363
+470,4758
+1031,10
+809,0
+911,405
+932,-24051
+510,42999
+941,42646
+990,42999
+935,42999
+967,42999
+59,1100
+947,42999
+81,14473
+576,1595
+68,9055
+889,42999
+270,42999
+
+### EOF ###
