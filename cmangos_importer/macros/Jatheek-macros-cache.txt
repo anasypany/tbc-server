@@ -1,0 +1,72 @@
+MACRO 16777217 "Devour" INV_Misc_QuestionMark
+/1 [[67] Wanted: Durn the Hungerer (9937)] need heals
+/4 [[67] Wanted: Durn the Hungerer (9937)] need heals
+END
+MACRO 16777218 "DPS" INV_Misc_QuestionMark
+
+END
+MACRO 16777219 "Dungeon" INV_Misc_QuestionMark
+/cast Amplify Curse
+/use Icon of the Silver Crescent
+/cast Blood Fury(Racial)
+/cast Curse of Doom
+END
+MACRO 16777220 "eat" INV_Misc_QuestionMark
+#showtooltip Blood Fury(Racial)
+/cast Blood Fury(Racial)
+/use Scryer's Bloodgem
+/use Icon of the Silver Crescent
+/cast Incinerate
+END
+MACRO 16777221 "FelDom" INV_Misc_QuestionMark
+/use Telaari Grapes
+/use Purified Draenic Water
+END
+MACRO 16777222 "FullSend" INV_Misc_QuestionMark
+/cast Fel Domination
+/use Sacrifice
+/cast Summon Felguard(Summon)
+END
+MACRO 16777223 "Incinerate" INV_Misc_QuestionMark
+#showtooltip Blood Fury(Racial)
+/cast Blood Fury(Racial)
+/use Hex Shrunken Head
+/use Destruction Potion
+/cast Shadow Bolt
+END
+MACRO 16777224 "Pet" INV_Misc_QuestionMark
+#showtooltip Shadow Bolt
+/cast Shadow Bolt
+/equip [combat] Staff of Disintegration
+/use [combat] Staff of Disintegration
+END
+MACRO 16777225 "Raid Strat" INV_Misc_QuestionMark
+/cast Fire Shield
+/cast Sacrifice
+/cast Spell Lock
+/cast Seduction
+/cast Cleave
+END
+MACRO 16777226 "Seed" INV_Misc_QuestionMark
+/raid P1 Prio Adds - nuke boss
+/raid P2 Spread
+/raid P3 Nuke Pop CDS
+END
+MACRO 16777227 "SHADOW" INV_Misc_QuestionMark
+#showtooltip Seed of Corruption
+/use Icon of the Silver Crescent
+/cast Blood Fury
+/cast seed of corruption
+END
+MACRO 16777228 "Summon" INV_Misc_QuestionMark
+#showtooltip Blood Fury(Racial)
+/cast Blood Fury(Racial)
+/use Hex Shrunken Head
+/cast Shadow Bolt
+END
+MACRO 16777229 "Taunt" INV_Misc_QuestionMark
+
+END
+MACRO 16777230 "UA" INV_Misc_QuestionMark
+/cast Ritual of Summoning
+END

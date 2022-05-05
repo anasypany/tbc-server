@@ -1,0 +1,4 @@
+MACRO 16777217 "TT Cast" INV_Misc_QuestionMark
+#showtooltips
+/castsequence reset=combat/15 Searing Totem(Rank 6), Stoneskin Totem(Rank 7), Healing Stream Totem(Rank 5), Grounding Totem
+END

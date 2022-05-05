@@ -1,0 +1,3 @@
+MACRO 16777217 " " INV_Misc_QuestionMark
+/console nameplateMaxDistance 41
+END

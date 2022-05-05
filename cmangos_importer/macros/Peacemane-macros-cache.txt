@@ -1,0 +1,26 @@
+MACRO 16777217 "/click PetAction" INV_Misc_QuestionMark
+/click PetActionButton5
+/click PetActionButton4
+/click PetActionButton3
+END
+MACRO 16777218 "Attack" INV_Misc_QuestionMark
+/startattack
+END
+MACRO 16777219 "CORE" INV_Misc_QuestionMark
+/use Tainted Core                                    
+END
+MACRO 16777220 "Healthstone" INV_Misc_QuestionMark
+slot=124,name=Healthstone,texture=134400,body=
+END
+MACRO 16777221 "Totem Twist 2 " INV_Misc_QuestionMark
+slot=125,name=Totem Twist 2 ,texture=135926,body=
+END
+MACRO 16777222 "Totemtwist" INV_Misc_QuestionMark
+slot=126,name=Totemtwist,texture=136114,body=
+END
+MACRO 16777223 "Trade" INV_Misc_QuestionMark
+slot=127,name=Trade,texture=134400,body=
+END
+MACRO 16777224 "TT Cast" INV_Misc_QuestionMark
+slot=128,name=TT Cast,texture=136108,body=
+END

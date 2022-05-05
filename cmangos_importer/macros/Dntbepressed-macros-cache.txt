@@ -1,0 +1,43 @@
+MACRO 16777217 " " INV_Misc_QuestionMark
+/petpassive
+END
+MACRO 16777218 " " INV_Misc_QuestionMark
+#showtooltip Steady Shot
+/petattack
+/cast !Steady Shot
+/cast [target=pettarget,harm,nodead] Kill Command
+END
+MACRO 16777219 " " INV_Misc_QuestionMark
+#showtooltip Auto Shot
+/petattack
+/cast !Auto Shot
+/cast [target=pettarget,harm,nodead] Kill Command
+END
+MACRO 16777220 " " INV_Misc_QuestionMark
+#showtooltip Dismiss Pet
+/use [nopet] Call Pet 
+/cast [pet]Steam Tonk Controller 
+/cast [target=pet,nodead] Revive Pet
+END
+MACRO 16777221 " beast trink" INV_Misc_QuestionMark
+#showtooltip Bestial Wrath
+/cqs 
+/cast Berserker's Call
+/cast Blood Fury 
+/cast Bestial Wrath
+END
+MACRO 16777222 " pet attack" INV_Misc_QuestionMark
+#showtooltip Steady Shot
+/petattack
+/castsequence reset=target !Auto Shot,Counterattack
+/cast [target=pettarget,exists] Kill Command
+/cast Steady Shot
+/cast [target=pettarget,exists] Kill Command
+END
+MACRO 16777223 " Tainted Core" INV_Misc_QuestionMark
+#showtooltip Tainted Core
+/use Tainted Core
+END
+MACRO 16777224 " WEAPONS" INV_Misc_QuestionMark
+/script SendChatMessage("!!! YOU HAVE THE CORE !!!", "WHISPER", nil, UnitName("target"));
+END

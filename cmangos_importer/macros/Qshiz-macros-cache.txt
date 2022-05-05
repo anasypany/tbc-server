@@ -1,0 +1,33 @@
+MACRO 16777217 "Avenging Wrath" INV_Misc_QuestionMark
+/script SendChatMessage("!!! YOU HAVE THE CORE !!!", "WHISPER", nil, UnitName("target"));
+END
+MACRO 16777218 "BoP" INV_Misc_QuestionMark
+#showtooltip Avenging Wrath
+/use Hex Shrunken Head
+/cast Avenging Wrath
+END
+MACRO 16777219 "Bubble" INV_Misc_QuestionMark
+#showtooltip
+/cancelaura Blessing of Protection()
+/cast Blessing of Protection()
+END
+MACRO 16777220 "Crusader Strike" INV_Misc_QuestionMark
+#showtooltip Divine Shield()
+/cast Divine Shield()
+/cancelaura Divine Shield()
+END
+MACRO 16777221 "Heal Trinket" INV_Misc_QuestionMark
+#showtooltip Crusader Strike
+/startattack
+/cast Crusader Strike
+END
+MACRO 16777222 "Kek" INV_Misc_QuestionMark
+#showtooltip
+/use Direbrew Hops
+/use Oshu'gun Relic
+END
+MACRO 16777223 "No Salv" INV_Misc_QuestionMark
+#showtooltip
+/target Kohoobtw
+/cast Blessing of Freedom
+END
