@@ -1,0 +1,1096 @@
+QE Live Gear Importer v1.3
+questionablyepic.com/live - Addon based heavily on SimulationCraft
+ 
+warlock="Spaer"
+level=70
+race=Orc
+gender=1
+region=
+server=Whitemane
+role=N/A
+professions=N/A
+talents=N/A
+spec=N/A
+ 
+head=,id=31051,enchantId=3002,gem1=34220:true,gem2=32218:true,gem3=0:nil
+neck=,id=33466,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+shoulder=,id=31054,enchantId=2995,gem1=32215:true,gem2=32218:true,gem3=0:nil
+shirt=,id=10056,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+chest=,id=30107,enchantId=2661,gem1=32196:false,gem2=32196:false,gem3=32196:false
+waist=,id=30888,enchantId=0,gem1=32218:true,gem2=32215:true,gem3=0:nil
+legs=,id=31053,enchantId=2748,gem1=32218:true,gem2=0:nil,gem3=0:nil
+feet=,id=30037,enchantId=2940,gem1=0:nil,gem2=0:nil,gem3=0:nil
+wrist=,id=32586,enchantId=2650,gem1=0:nil,gem2=0:nil,gem3=0:nil
+hands=,id=31050,enchantId=2937,gem1=32218:true,gem2=0:nil,gem3=0:nil
+finger1=,id=29305,enchantId=2928,gem1=0:nil,gem2=0:nil,gem3=0:nil
+finger2=,id=32527,enchantId=2928,gem1=0:nil,gem2=0:nil,gem3=0:nil
+trinket1=,id=30343,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+trinket2=,id=33829,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+back=,id=32331,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+main_hand=,id=30095,enchantId=2672,gem1=0:nil,gem2=0:nil,gem3=0:nil
+off_hand=,id=30872,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+relic=,id=29982,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+tabard=,id=28788,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+ammo=,id=0
+
+### GEAR FROM BAGS ###
+id=33809,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=25475,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=17202,count=16,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=6265,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=6265,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=6265,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=6265,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=6265,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=6265,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=6265,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29434,count=3,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33993,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=6948,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=8383,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32757,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33106,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29732,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22462,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=25845,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=20520,count=14,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=21877,count=18,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=2589,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=30038,count=1,enchantId=0,gem1=24056:true,gem2=31867:true,gem3=0:nil
+id=33584,count=1,enchantId=2748,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=24662,suffix=35,unique=39,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33591,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32590,count=1,enchantId=2621,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=25043,suffix=35,unique=32,count=1,enchantId=1441,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=34029,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27683,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29132,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=24121,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=24116,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33334,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=30049,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33497,count=1,enchantId=2928,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32237,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22105,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=20749,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=24268,count=6,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=8948,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27657,count=13,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27854,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=34062,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=34062,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=34062,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=34062,count=19,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27860,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27501,count=3,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27499,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=35716,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=8827,count=18,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=3823,count=4,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22832,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22832,count=2,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22778,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+
+### TALENTS ###
+t=1,id=1,rank=0
+t=1,id=2,rank=0
+t=1,id=3,rank=0
+t=1,id=4,rank=0
+t=1,id=5,rank=0
+t=1,id=6,rank=0
+t=1,id=7,rank=0
+t=1,id=8,rank=0
+t=1,id=9,rank=0
+t=1,id=10,rank=0
+t=1,id=11,rank=0
+t=1,id=12,rank=0
+t=1,id=13,rank=0
+t=1,id=14,rank=0
+t=1,id=15,rank=0
+t=1,id=16,rank=0
+t=1,id=17,rank=0
+t=1,id=18,rank=0
+t=1,id=19,rank=0
+t=1,id=20,rank=0
+t=1,id=21,rank=0
+t=2,id=1,rank=2
+t=2,id=2,rank=0
+t=2,id=3,rank=5
+t=2,id=4,rank=0
+t=2,id=5,rank=0
+t=2,id=6,rank=3
+t=2,id=7,rank=0
+t=2,id=8,rank=1
+t=2,id=9,rank=3
+t=2,id=10,rank=3
+t=2,id=11,rank=2
+t=2,id=12,rank=1
+t=2,id=13,rank=0
+t=2,id=14,rank=1
+t=2,id=15,rank=0
+t=2,id=16,rank=0
+t=2,id=17,rank=0
+t=2,id=18,rank=0
+t=2,id=19,rank=0
+t=2,id=20,rank=0
+t=2,id=21,rank=0
+t=2,id=22,rank=0
+t=3,id=1,rank=5
+t=3,id=2,rank=5
+t=3,id=3,rank=5
+t=3,id=4,rank=0
+t=3,id=5,rank=0
+t=3,id=6,rank=0
+t=3,id=7,rank=5
+t=3,id=8,rank=1
+t=3,id=9,rank=2
+t=3,id=10,rank=2
+t=3,id=11,rank=3
+t=3,id=12,rank=0
+t=3,id=13,rank=0
+t=3,id=14,rank=1
+t=3,id=15,rank=1
+t=3,id=16,rank=0
+t=3,id=17,rank=3
+t=3,id=18,rank=0
+t=3,id=19,rank=2
+t=3,id=20,rank=5
+t=3,id=21,rank=0
+
+### ACTIONS ###
+slot=1,type=spell,id=27215
+slot=2,type=spell,id=27228
+slot=3,type=spell,id=18647
+slot=4,type=spell,id=27209
+slot=5,type=spell,id=30459
+slot=6,type=spell,id=30910
+slot=7,type=spell,id=30546
+slot=8,type=macro,id=43
+slot=9,type=macro,id=13
+slot=10,type=macro,id=47
+slot=11,type=spell,id=27243
+slot=12,type=item,id=33809
+slot=13,type=spell,id=27223
+slot=14,type=spell,id=27259
+slot=15,type=item,id=22105
+slot=17,type=spell,id=27217
+slot=18,type=item,id=21991
+slot=20,type=spell,id=17928
+slot=21,type=item,id=22646
+slot=22,type=spell,id=11719
+slot=23,type=item,id=25939
+slot=24,type=item,id=25475
+slot=25,type=spell,id=27028
+slot=26,type=spell,id=13262
+slot=27,type=item,id=20749
+slot=28,type=item,id=30095
+slot=29,type=item,id=27500
+slot=30,type=item,id=22778
+slot=31,type=spell,id=697
+slot=32,type=spell,id=698
+slot=33,type=item,id=6948
+slot=34,type=item,id=33591
+slot=35,type=item,id=33584
+slot=36,type=item,id=33497
+slot=37,type=spell,id=28029
+slot=38,type=spell,id=26790
+slot=39,type=item,id=35716
+slot=40,type=item,id=27657
+slot=41,type=item,id=27501
+slot=42,type=spell,id=27230
+slot=43,type=spell,id=712
+slot=44,type=spell,id=29893
+slot=45,type=spell,id=27238
+slot=46,type=item,id=32331
+slot=47,type=item,id=31053
+slot=48,type=item,id=29305
+slot=49,type=macro,id=8
+slot=50,type=item,id=24494
+slot=51,type=item,id=22832
+slot=52,type=item,id=22839
+slot=53,type=spell,id=27212
+slot=54,type=item,id=34062
+slot=55,type=spell,id=27223
+slot=56,type=spell,id=5019
+slot=57,type=item,id=8827
+slot=58,type=item,id=30343
+slot=59,type=spell,id=18708
+slot=60,type=item,id=21991
+slot=61,type=spell,id=27222
+slot=62,type=spell,id=710
+slot=63,type=spell,id=11726
+slot=64,type=item,id=22105
+slot=65,type=spell,id=27217
+slot=66,type=spell,id=17928
+slot=67,type=spell,id=126
+slot=68,type=spell,id=28189
+slot=69,type=spell,id=11719
+slot=70,type=spell,id=27226
+slot=71,type=spell,id=27260
+slot=72,type=spell,id=18788
+
+### MACROS ###
+slot=1,name=Applified CoE,texture=134400,body=
+---
+#showtooltip Curse of Exhaustion
+/cast Amplify Curse
+/cast Curse of Exhaustion
+
+---
+slot=2,name=Auto-Attack,texture=134400,body=
+---
+#showtooltip
+/cast Backstab
+/startattack
+
+---
+slot=3,name=AutoShot,texture=134400,body=
+---
+#showtooltip
+/targetenemy[noexists][dead][help]
+/cast !Auto Shot
+/startattack
+
+---
+slot=4,name=Bear into AA,texture=134400,body=
+---
+/cast Bear Form
+/startattack
+
+---
+slot=5,name=Call pet,texture=132118,body=
+---
+/petcome
+/petstopattack
+
+---
+slot=6,name=Cat form,texture=134400,body=
+---
+#showtooltip
+/cast Cat Form
+/startattack
+
+---
+slot=7,name=Claw AA,texture=134400,body=
+---
+#showtooltip
+/cast Claw
+/startattack
+
+---
+slot=8,name=Cooldowns,texture=135726,body=
+---
+/cast Blood Fury
+/cast Hex Shrunken Head
+
+---
+slot=9,name=CP Cheapshot,texture=132092,body=
+---
+#showtooltip
+/cast Cheap Shot
+/script AttackTarget();
+/script ClearTarget();
+/script TargetLastTarget();
+
+---
+slot=10,name=Dark rune Inform,texture=135766,body=
+---
+#showtooltip Dark Rune
+/cancelform
+/use Dark Rune
+
+---
+slot=11,name=Destru Seed,texture=134400,body=
+---
+#showtooltip
+/use Destruction Potion
+/cast Seed of Corruption
+
+---
+slot=12,name=DestruPotIncin,texture=134400,body=
+---
+#showtooltip 
+/use Destruction Potion
+/cast Incinerate
+
+---
+slot=13,name=drainlife,texture=136169,body=
+---
+#showtooltip
+/cast [nochanneling] drain life
+
+---
+slot=14,name=Drainlife Tag,texture=136169,body=
+---
+#showtooltip Drain Life
+/petattack
+/cast Drain Life
+
+---
+slot=15,name=feldom voidwalk,texture=136082,body=
+---
+/cast Fel Domination
+/cast Summon Voidwalker(Summon)
+
+---
+slot=16,name=Hunter Opener,texture=134400,body=
+---
+/cast Hunter's Mark
+/petattack
+
+---
+slot=17,name=Innervate InForm,texture=136048,body=
+---
+#showtooltip Innervate
+/cancelform
+/Cast Innervate target=Vainglory
+
+---
+slot=18,name=Kneel,texture=135842,body=
+---
+/kneel
+
+---
+slot=19,name=mageBuff,texture=134400,body=
+---
+/cast Arcane Intellect
+/cast Frost Armor
+
+---
+slot=20,name=mana pot Inciner,texture=134400,body=
+---
+#showtooltip
+/use Super Mana Potion
+/cast Incinerate
+
+---
+slot=21,name=Mana Pot Inform,texture=134400,body=
+---
+#Showtooltip Major Mana Potion
+/cancelform
+/cast Major Mana Potion
+
+---
+slot=22,name=Maul Auto-Attack,texture=134400,body=
+---
+/cast Maul
+/startattack
+
+---
+slot=23,name=Mouse-over Blind,texture=134400,body=
+---
+#showtooltip
+/cast [target=mouseover] Blind
+
+---
+slot=24,name=Mouse-over Kick,texture=134400,body=
+---
+#showtooltip
+/cast [target=mouseover] Kick
+
+---
+slot=25,name=passive pet,texture=134400,body=
+---
+/petfollow
+/petpassive
+
+---
+slot=26,name=Pet Attack,texture=132103,body=
+---
+/petattack
+
+---
+slot=27,name=pet attack corr,texture=136118,body=
+---
+/petattack
+/cast Corruption
+
+---
+slot=28,name=pet attack Immo,texture=135817,body=
+---
+#showtooltip Immolate
+/petattack
+/cast Immolate
+
+---
+slot=29,name=Pet attack immo,texture=135817,body=
+---
+/petattack
+/cast Immolate
+
+---
+slot=30,name=pet focus,texture=134400,body=
+---
+/petattack [target=focus]
+
+---
+slot=31,name=Pet Shit,texture=134400,body=
+---
+/cast [help]Fire Shield
+/cast Sacrifice
+/cast [nomodifier, harm] Seduction 
+/cast [nomodifier, harm] Spell Lock
+/cast [modifier:alt, target=focus] Spell Lock
+
+---
+slot=32,name=pet shit,texture=134400,body=
+---
+/cast [help]Fire Shield
+/cast Sacrifice
+/cast [nomodifier, harm] Seduction 
+/cast [nomodifier, harm] Spell Lock
+/cast [modifier:alt, target=focus] Spell Lock
+
+---
+slot=33,name=petcome,texture=134400,body=
+---
+/petpassive
+
+---
+slot=34,name=pickPocket,texture=134400,body=
+---
+#showtooltip Pick Pocket
+/targetenemy [no harm][dead]
+/cast Pick Pocket
+/cleartarget
+
+---
+slot=35,name=Powershift,texture=134400,body=
+---
+#showtooltip Cat Form
+/cancelform
+/cast Cat Form
+
+---
+slot=36,name=Powershift + MP,texture=132115,body=
+---
+#showtooltip Cat Form
+/cancelform
+/use Major Mana Potion
+/cast Cat Form
+
+---
+slot=37,name=Powershift DR,texture=134400,body=
+---
+#showtooltip Cat Form
+/cancelform
+/use Dark Rune
+/cast Cat Form
+
+---
+slot=38,name=Powershift Inner,texture=134400,body=
+---
+/showtooltip Cat Form
+/cancelform
+/cast Innervate
+/cast Cat Form
+
+---
+slot=39,name=RaptorStike AA,texture=134400,body=
+---
+#showtooltip
+/cast Raptor Strike
+/startattack
+/petattack
+
+---
+slot=40,name=Sap Stealthed,texture=134400,body=
+---
+#show sap
+/cleartarget
+/targetenemyplayer
+/cast sap
+
+---
+slot=41,name=Send pet,texture=132136,body=
+---
+/pet send
+/petattack
+
+---
+slot=42,name=Shred - AA,texture=134400,body=
+---
+#showtooltip Shred
+/cast Shred
+/startattack
+
+---
+slot=43,name=Soulshatter Tab,texture=135728,body=
+---
+#showtooltip
+/cast Soulshatter
+/use Tabard of the Protector
+
+---
+slot=44,name=Spam Stealth,texture=134400,body=
+---
+#show Stealth
+/stopcasting
+/stopattack
+/ cast !stealth
+
+---
+slot=45,name=SS AA,texture=134400,body=
+---
+#showtooltip Sinister Strike
+/cast Sinister Strike
+/startattack
+
+---
+slot=46,name=target,texture=134400,body=
+---
+/target Jed Runewatcher
+
+---
+slot=47,name=target fear,texture=136183,body=
+---
+#showtooltip fear
+/use [nomod, target=target] Fear
+/use [mod:alt, target=focus] Fear
+
+---
+slot=48,name=Target Lifebloom,texture=134400,body=
+---
+#showtooltip Lifebloom
+/cast [@focus] Lifebloom
+
+---
+slot=49,name=Target Price,texture=134400,body=
+---
+/target Prince
+
+---
+slot=50,name=Target Spitfire,texture=134400,body=
+---
+/target Spitfire Totem
+
+---
+slot=51,name=tbag,texture=135996,body=
+---
+/sit
+/train
+/stand
+/train
+/chicken
+/lag
+/lag
+/lag
+/lag
+
+---
+slot=52,name=Travel/Aqu Form,texture=134400,body=
+---
+#showtooltip Travel Form
+/cast [swimming] Aquatic Form
+/cast [noswimming] Travel Form
+
+---
+slot=53,name=vash macro,texture=134400,body=
+---
+/use Tainted Core
+/y <------- TAINTED CORE TO: %t ! ! !
+/s <------- TAINTED CORE TO: %t ! ! !
+/script SendChatMessage("!!! YOU HAVE THE CORE !!!", "WHISPER", nil, UnitName("target"));
+
+---
+slot=54,name=Yell-Mwahaha,texture=134400,body=
+---
+/yell 27 11 11
+
+---
+slot=121,name=VuhDoDCShieldData,texture=132281,body=
+---
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1LR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+
+---
+slot=122,name=VuhDoDCShieldNames,texture=132281,body=
+---
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Spa[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+
+---
+
+### SPELLS ###
+6603
+20574
+33702
+20575
+3102
+13262
+81
+28029
+43308
+27028
+33095
+20573
+5019
+26797
+26790
+172
+6222
+6223
+7648
+11671
+11672
+25311
+27216
+980
+1014
+6217
+11711
+11712
+11713
+27218
+603
+30910
+704
+7658
+7659
+11717
+27226
+1714
+11719
+702
+1108
+6205
+7646
+11707
+11708
+27224
+30909
+1490
+11721
+11722
+27228
+6789
+17925
+17926
+27223
+689
+699
+709
+7651
+11699
+11700
+27219
+27220
+5138
+6226
+11703
+11704
+27221
+30908
+1120
+8288
+8289
+11675
+27217
+5782
+6213
+6215
+5484
+17928
+1454
+1455
+1456
+11687
+11688
+11689
+27222
+27243
+710
+18647
+6366
+17951
+17952
+17953
+27250
+6201
+6202
+5699
+11729
+11730
+27230
+693
+20752
+20755
+20756
+20757
+27238
+2362
+17727
+17728
+28172
+706
+1086
+11733
+11734
+11735
+27260
+687
+696
+132
+1098
+11725
+11726
+126
+28176
+28189
+755
+3698
+3699
+3700
+11693
+11694
+11695
+27259
+1122
+29893
+698
+5500
+6229
+11739
+11740
+28610
+29858
+691
+5784
+688
+713
+712
+697
+5697
+1949
+11683
+11684
+27213
+348
+707
+1094
+2941
+11665
+11667
+11668
+25309
+27215
+29722
+32231
+5740
+6219
+11677
+11678
+27212
+5676
+17919
+17920
+17921
+17922
+17923
+27210
+30459
+686
+695
+705
+1088
+1106
+7641
+11659
+11660
+11661
+25307
+27209
+6353
+17924
+27211
+30545
+17930
+17803
+18867
+18871
+18134
+18708
+17959
+18744
+18788
+17792
+30546
+30295
+30299
+27263
+34939
+18701
+18769
+30292
+18869
+17918
+17877
+18136
+18693
+30145
+18710
+18870
+18868
+17782
+7426
+7428
+32664
+13822
+7443
+13836
+33995
+13858
+27911
+13631
+13657
+28019
+13661
+28027
+34004
+7745
+7748
+32665
+13948
+13695
+7421
+7420
+25124
+7454
+7457
+7418
+25083
+13421
+7771
+33997
+27924
+20023
+25127
+27944
+7779
+20051
+27960
+7788
+13378
+7795
+13746
+14293
+28016
+14807
+33990
+28028
+7857
+7861
+14810
+13485
+13501
+13503
+13815
+13538
+13536
+13607
+33996
+25125
+13628
+42613
+25072
+25084
+13635
+33991
+33999
+13622
+20016
+20028
+27945
+14809
+13626
+27957
+27961
+13887
+13640
+13637
+13642
+13644
+44383
+13648
+13905
+7863
+13659
+13663
+13693
+25126
+13702
+13419
+13935
+13937
+13939
+13941
+32667
+13794
+13700
+13890
+13917
+13943
+42615
+17180
+17181
+33993
+34001
+34009
+20008
+20013
+20017
+42974
+20014
+20012
+27899
+13529
+27905
+28022
+33994
+34002
+34010
+27951
+12072
+26747
+26755
+8791
+26772
+31435
+31443
+31451
+18405
+12061
+40020
+26749
+26773
+26781
+31460
+40021
+36317
+8760
+8776
+31373
+40023
+41205
+36686
+8465
+40024
+26751
+26775
+26783
+3839
+3840
+3842
+3843
+3845
+3855
+26752
+26776
+26784
+7624
+12045
+2963
+7623
+12044
+18401
+18417
+2387
+3915
+2385
+40060
+2393
+2394
+2396
+26745
+26753
+3914
+26777
+2402
+2392
+2406
+3755
+31432
+31456
+2397
+3841
+2386
+2395
+2964
+12046
+3757
+2399
+2401
+3866
+3850
+3848
+18402
+8762
+26746
+26754
+26778
+3871
+3865
+8799
+31449
+12053
+44950
+6521
+8467
+26774
+818
+37836
+8604
+2538
+2539
+2541
+6499
+2540
+45695
+2544
+2546
+18630
+3275
+7934
+10840
+3277
+7928
+7929
+27032
+3276
+3278
+18629
+27033
+10841
+
+### FACTIONS ###
+530,8233
+76,5758
+911,5152
+81,4866
+68,2258
+729,29570
+510,4910
+889,2690
+1012,42999
+942,42999
+970,-835
+933,20203
+941,7806
+947,42999
+1011,42999
+1031,0
+932,-42000
+934,42999
+935,42017
+21,500
+369,500
+470,500
+529,472
+910,-39700
+609,6920
+909,0
+749,195
+989,34302
+990,42999
+967,42999
+922,1000
+
+### EOF ###
