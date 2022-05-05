@@ -1,0 +1,657 @@
+QE Live Gear Importer v1.3
+questionablyepic.com/live - Addon based heavily on SimulationCraft
+ 
+hunter="Dntbepressed"
+level=70
+race=Orc
+gender=0
+region=
+server=Whitemane
+role=N/A
+professions=N/A
+talents=N/A
+spec=N/A
+ 
+head=,id=32474,enchantId=3003,gem1=32409:true,gem2=24055:true,gem3=0:nil
+neck=,id=29381,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+shoulder=,id=31006,enchantId=2986,gem1=32222:true,gem2=32212:true,gem3=0:nil
+shirt=,id=127,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+chest=,id=31004,enchantId=2661,gem1=32194:true,gem2=32226:true,gem3=32226:true
+waist=,id=30040,enchantId=0,gem1=24028:false,gem2=24028:false,gem3=0:nil
+legs=,id=31005,enchantId=3012,gem1=32194:true,gem2=0:nil,gem3=0:nil
+feet=,id=32366,enchantId=2657,gem1=32194:true,gem2=32222:true,gem3=0:nil
+wrist=,id=32324,enchantId=1593,gem1=32222:true,gem2=0:nil,gem3=0:nil
+hands=,id=31001,enchantId=2564,gem1=32194:true,gem2=0:nil,gem3=0:nil
+finger1=,id=29301,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+finger2=,id=33496,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+trinket1=,id=33831,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+trinket2=,id=28830,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+back=,id=33484,enchantId=368,gem1=0:nil,gem2=0:nil,gem3=0:nil
+main_hand=,id=33389,enchantId=3222,gem1=0:nil,gem2=0:nil,gem3=0:nil
+off_hand=,id=33389,enchantId=3222,gem1=0:nil,gem2=0:nil,gem3=0:nil
+relic=,id=30105,enchantId=2724,gem1=0:nil,gem2=0:nil,gem3=0:nil
+tabard=,id=5976,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+ammo=,id=31737
+quiver=,id=34105
+
+pet=HEALME,lv=70,id=19189,family=Ravager,health=5366,power=100
+
+### GEAR FROM BAGS ###
+id=22831,count=12,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33809,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29434,count=82,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18846,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=23766,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=10725,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22831,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22451,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33874,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22457,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27664,count=3,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22832,count=2,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31003,count=1,enchantId=3003,gem1=24028:true,gem2=32409:true,gem3=0:nil
+id=33874,count=6,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=28757,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33013,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=6948,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22840,count=13,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=23827,count=4,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=30865,count=1,enchantId=3222,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29451,count=16,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=34060,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27860,count=12,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=23572,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=21877,count=3,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22445,count=9,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=20520,count=15,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22449,count=3,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=30879,count=1,enchantId=0,gem1=32194:true,gem2=32194:false,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29192,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33872,count=2,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33872,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32757,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22446,count=2,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=23824,count=1,enchantId=2984,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32591,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=9224,count=12,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22838,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=18587,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=10646,count=3,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=6657,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29434,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27664,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22728,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27498,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27498,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27498,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27498,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27498,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27498,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27503,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27503,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27503,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27503,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=126,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=176,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31737,count=200,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+
+### TALENTS ###
+t=1,id=1,rank=5
+t=1,id=2,rank=0
+t=1,id=3,rank=2
+t=1,id=4,rank=0
+t=1,id=5,rank=1
+t=1,id=6,rank=2
+t=1,id=7,rank=0
+t=1,id=8,rank=0
+t=1,id=9,rank=5
+t=1,id=10,rank=2
+t=1,id=11,rank=5
+t=1,id=12,rank=0
+t=1,id=13,rank=1
+t=1,id=14,rank=2
+t=1,id=15,rank=2
+t=1,id=16,rank=4
+t=1,id=17,rank=3
+t=1,id=18,rank=1
+t=1,id=19,rank=0
+t=1,id=20,rank=5
+t=1,id=21,rank=1
+t=2,id=1,rank=0
+t=2,id=2,rank=5
+t=2,id=3,rank=0
+t=2,id=4,rank=5
+t=2,id=5,rank=2
+t=2,id=6,rank=0
+t=2,id=7,rank=1
+t=2,id=8,rank=2
+t=2,id=9,rank=0
+t=2,id=10,rank=5
+t=2,id=11,rank=0
+t=2,id=12,rank=0
+t=2,id=13,rank=0
+t=2,id=14,rank=0
+t=2,id=15,rank=0
+t=2,id=16,rank=0
+t=2,id=17,rank=0
+t=2,id=18,rank=0
+t=2,id=19,rank=0
+t=2,id=20,rank=0
+t=3,id=1,rank=0
+t=3,id=2,rank=0
+t=3,id=3,rank=0
+t=3,id=4,rank=0
+t=3,id=5,rank=0
+t=3,id=6,rank=0
+t=3,id=7,rank=0
+t=3,id=8,rank=0
+t=3,id=9,rank=0
+t=3,id=10,rank=0
+t=3,id=11,rank=0
+t=3,id=12,rank=0
+t=3,id=13,rank=0
+t=3,id=14,rank=0
+t=3,id=15,rank=0
+t=3,id=16,rank=0
+t=3,id=17,rank=0
+t=3,id=18,rank=0
+t=3,id=19,rank=0
+t=3,id=20,rank=0
+t=3,id=21,rank=0
+t=3,id=22,rank=0
+t=3,id=23,rank=0
+
+### ACTIONS ###
+slot=1,type=spell,id=20904
+slot=2,type=spell,id=27019
+slot=3,type=macro,id=126
+slot=4,type=spell,id=34026
+slot=5,type=spell,id=27021
+slot=6,type=spell,id=14325
+slot=7,type=spell,id=27016
+slot=8,type=spell,id=75
+slot=9,type=spell,id=3045
+slot=10,type=macro,id=125
+slot=11,type=spell,id=34120
+slot=12,type=item,id=22728
+slot=13,type=spell,id=5116
+slot=14,type=item,id=27860
+slot=15,type=spell,id=34477
+slot=17,type=spell,id=27018
+slot=18,type=spell,id=14311
+slot=19,type=spell,id=13809
+slot=20,type=spell,id=27025
+slot=21,type=spell,id=34600
+slot=22,type=spell,id=19801
+slot=23,type=spell,id=1543
+slot=25,type=item,id=10725
+slot=26,type=spell,id=27046
+slot=27,type=item,id=23827
+slot=28,type=item,id=10646
+slot=29,type=item,id=34060
+slot=30,type=spell,id=2641
+slot=31,type=spell,id=982
+slot=32,type=spell,id=13163
+slot=33,type=item,id=9224
+slot=34,type=spell,id=883
+slot=35,type=item,id=22840
+slot=36,type=item,id=31677
+slot=37,type=item,id=33809
+slot=38,type=item,id=32845
+slot=39,type=item,id=8827
+slot=40,type=item,id=32948
+slot=41,type=spell,id=13159
+slot=42,type=spell,id=34074
+slot=43,type=spell,id=27044
+slot=44,type=spell,id=5118
+slot=45,type=item,id=22832
+slot=46,type=item,id=22838
+slot=47,type=item,id=22831
+slot=48,type=item,id=20520
+slot=49,type=spell,id=30350
+slot=50,type=spell,id=5384
+slot=51,type=item,id=22105
+slot=52,type=spell,id=19801
+slot=53,type=item,id=24494
+slot=54,type=item,id=33874
+slot=55,type=spell,id=34477
+slot=56,type=spell,id=27025
+slot=57,type=macro,id=127
+slot=59,type=item,id=34062
+slot=60,type=item,id=33874
+slot=61,type=spell,id=19577
+slot=62,type=spell,id=5116
+slot=63,type=spell,id=14268
+slot=64,type=spell,id=14311
+slot=65,type=spell,id=13809
+slot=66,type=spell,id=14327
+slot=67,type=spell,id=27014
+slot=68,type=spell,id=3043
+slot=69,type=spell,id=27022
+slot=70,type=spell,id=27018
+slot=71,type=spell,id=27015
+slot=72,type=spell,id=1543
+
+### MACROS ###
+slot=1,name= ,texture=134400,body=
+---
+#showtooltip Shadowfiend
+/cast [harm][@targettarget] Shadowfiend; 
+
+---
+slot=2,name= ,texture=134400,body=
+---
+#showtooltip Mind Blast
+/cast [harm][@targettarget] Mind Blast; 
+
+---
+slot=3,name= ,texture=134400,body=
+---
+#showtooltip Mana Burn
+/cast [target=focus] Mana Burn
+
+---
+slot=4,name= ,texture=134400,body=
+---
+#showtooltip Mind Control
+/use [mod:shift,@focus] Mind Control
+/use [nomod,@target] Mind Control
+
+---
+slot=5,name= ,texture=134400,body=
+---
+#showtooltip Holy Fire
+/cast [harm][@targettarget] Holy Fire; 
+
+---
+slot=6,name= ,texture=134400,body=
+---
+#showtooltip Smite
+/cast [harm][@targettarget] Smite; 
+
+---
+slot=7,name= 1 ,texture=134400,body=
+---
+#showtooltip Mana Burn
+/use [mod:shift,@focus] Mana Burn
+/use [nomod,@target] Mana Burn
+
+---
+slot=8,name= death,texture=134400,body=
+---
+#showtooltip Shadow Word: Death
+/stopcasting
+/cancelaura power word: shield
+/cast [@target,harm] Shadow Word: Death (rank 1)
+/stopmacro[harm]
+/targetenemy
+/cast Shadow Word: Death
+
+---
+slot=9,name= dots,texture=134400,body=
+---
+#showtooltip Shadow Word: Pain
+/cast [harm][@targettarget] Shadow Word: Pain; 
+
+---
+slot=10,name= inplague,texture=134400,body=
+---
+#showtooltip devouring plague
+/cast inner focus
+/cast devouring plague
+
+---
+slot=11,name= setfocus,texture=134400,body=
+---
+#showtooltip Dispel Magic
+/cast [target=focus] Dispel Magic
+
+---
+slot=12,name=target focus,texture=134400,body=
+---
+#showtooltip Dispel Magic
+/cast [harm][@targettarget] Dispel Magic; 
+
+---
+slot=121,name= ,texture=134400,body=
+---
+/petpassive
+
+---
+slot=122,name= ,texture=132213,body=
+---
+#showtooltip Steady Shot
+/petattack
+/cast !Steady Shot
+/cast [@pettarget,harm,nodead] Kill Command
+
+---
+slot=123,name= ,texture=132369,body=
+---
+#showtooltip Auto Shot
+/petattack
+/cast !Auto Shot
+/cast [@pettarget,harm,nodead] Kill Command
+
+---
+slot=124,name= ,texture=136095,body=
+---
+#showtooltip Dismiss Pet
+/use [nopet] Call Pet 
+/cast [pet]Steam Tonk Controller 
+/cast [@pet,nodead] Revive Pet
+
+---
+slot=125,name= beast trink,texture=132127,body=
+---
+#showtooltip Bestial Wrath
+/cqs 
+/cast Berserker's Call
+/cast Blood Fury 
+/cast Bestial Wrath
+
+---
+slot=126,name= pet attack,texture=132213,body=
+---
+#showtooltip Steady Shot
+/petattack
+/castsequence reset=target !Auto Shot,Counterattack
+/cast [@pettarget,exists] Kill Command
+/cast Steady Shot
+/cast [@pettarget,exists] Kill Command
+
+---
+slot=127,name= Tainted Core,texture=134400,body=
+---
+#showtooltip Tainted Core
+/use Tainted Core
+/y <------ TAINTED CORE TO: %t!!!
+/s <------ TAINTED CORE TO: %t!!!
+/script SendChatMessage("!!! YOU HAVE THE CORE !!!", "WHISPER", nil, UnitName("target"));
+
+---
+slot=128,name= WEAPONS,texture=134400,body=
+---
+/equip [combat] Netherstrand Longbow
+/use Netherstrand Longbow
+/use Bundle of Nether Spikes
+/equip Nether Spike
+/equipslot [combat] 16 Infinity Blade
+
+---
+
+### SPELLS ###
+6603
+20574
+5149
+20572
+20576
+81
+674
+30350
+20219
+20573
+3127
+2764
+13161
+5118
+13165
+14318
+14319
+14320
+14321
+14322
+25296
+27044
+13163
+13159
+34074
+20043
+20190
+27045
+1462
+883
+2641
+6197
+1002
+6991
+34026
+136
+3111
+3661
+3662
+13542
+13543
+13544
+27046
+982
+1513
+14326
+14327
+1515
+3044
+14281
+14282
+14283
+14284
+14285
+14286
+14287
+27019
+75
+5116
+20736
+14274
+15629
+15630
+15631
+15632
+27020
+1543
+1130
+14323
+14324
+14325
+2643
+14288
+14289
+14290
+25294
+27021
+3045
+3043
+1978
+13549
+13550
+13551
+13552
+13553
+13554
+13555
+25295
+27016
+34120
+19801
+3034
+14279
+14280
+27018
+1510
+14294
+14295
+27022
+781
+14272
+14273
+27015
+13813
+14316
+14317
+27025
+5384
+1499
+14310
+14311
+13809
+13795
+14302
+14303
+14304
+14305
+27023
+34477
+1495
+14269
+14270
+14271
+36916
+2973
+14260
+14261
+14262
+14263
+14264
+14265
+14266
+27014
+34600
+1494
+19878
+19879
+19880
+19882
+19885
+19883
+19884
+2974
+14267
+14268
+23112
+7370
+27348
+35300
+35307
+35308
+19420
+19556
+19592
+19620
+19624
+19573
+19577
+34954
+34460
+20904
+20901
+19434
+20900
+19609
+34692
+19490
+19574
+34454
+34470
+19602
+20903
+27065
+19431
+34949
+19575
+35030
+20902
+30341
+3978
+44155
+3918
+12585
+12589
+12599
+19791
+3923
+30306
+7430
+30334
+12906
+30305
+3929
+3931
+12591
+3973
+30310
+44157
+3938
+3945
+19788
+19800
+3942
+3953
+12619
+3919
+3920
+41314
+3922
+12584
+12590
+44391
+30304
+30311
+3955
+30303
+43676
+30313
+30308
+
+### FACTIONS ###
+530,8703
+76,9735
+911,793
+81,3493
+68,2018
+729,0
+510,210
+889,135
+1012,42999
+942,42512
+933,5073
+941,9010
+947,34352
+1011,36736
+1031,0
+932,42999
+934,-42000
+935,35299
+21,500
+470,500
+529,42594
+609,0
+989,36897
+990,42999
+967,42999
+
+### EOF ###

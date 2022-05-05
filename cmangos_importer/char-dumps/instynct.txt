@@ -1,0 +1,829 @@
+QE Live Gear Importer v1.3
+questionablyepic.com/live - Addon based heavily on SimulationCraft
+ 
+shaman="Instynct"
+level=70
+race=Orc
+gender=0
+region=
+server=Whitemane
+role=N/A
+professions=N/A
+talents=N/A
+spec=N/A
+ 
+head=,id=29035,enchantId=3002,gem1=34220:true,gem2=24059:true,gem3=0:nil
+neck=,id=28762,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+shoulder=,id=31023,enchantId=2995,gem1=32215:true,gem2=32218:true,gem3=0:nil
+chest=,id=30169,enchantId=2661,gem1=32215:true,gem2=32218:true,gem3=32218:true
+waist=,id=32339,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+legs=,id=33533,enchantId=2748,gem1=24030:true,gem2=24030:false,gem3=24030:false
+feet=,id=32242,enchantId=911,gem1=0:nil,gem2=0:nil,gem3=0:nil
+wrist=,id=32586,enchantId=2650,gem1=0:nil,gem2=0:nil,gem3=0:nil
+hands=,id=29034,enchantId=2937,gem1=0:nil,gem2=0:nil,gem3=0:nil
+finger1=,id=33498,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+finger2=,id=30667,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+trinket1=,id=29370,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+trinket2=,id=28785,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+back=,id=29369,enchantId=2621,gem1=0:nil,gem2=0:nil,gem3=0:nil
+main_hand=,id=32237,enchantId=2669,gem1=0:nil,gem2=0:nil,gem3=0:nil
+off_hand=,id=29268,enchantId=2654,gem1=0:nil,gem2=0:nil,gem3=0:nil
+relic=,id=32330,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+ammo=,id=0
+
+### GEAR FROM BAGS ###
+id=38288,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=38290,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31095,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31091,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31022,count=1,enchantId=0,gem1=0:false,gem2=0:false,gem3=0:nil
+id=22861,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27665,count=15,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=27860,count=11,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=20749,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33093,count=11,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=9172,count=2,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=9172,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=2459,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22839,count=3,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22839,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=5178,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=5175,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=5176,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=5177,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=30567,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31108,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=25433,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32388,count=5,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=28558,count=2,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29209,count=4,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31360,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=17030,count=10,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=2589,count=3,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=21877,count=16,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=4306,count=13,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=2592,count=3,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22445,count=4,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22445,count=20,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=11176,count=3,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=21882,count=6,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=2901,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=1210,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=2842,count=7,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=20520,count=9,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=20520,count=15,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32757,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=24121,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=24097,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=24093,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=185848,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=22890,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=30038,count=1,enchantId=0,gem1=24030:false,gem2=24030:false,gem3=0:nil
+id=32582,count=1,enchantId=2617,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32420,count=1,enchantId=1441,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33592,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29991,count=1,enchantId=2746,gem1=24029:false,gem2=24029:false,gem3=24029:false
+id=28752,count=1,enchantId=911,gem1=23094:false,gem2=23094:false,gem3=0:nil
+id=30164,count=1,enchantId=2661,gem1=24029:false,gem2=24029:false,gem3=24029:false
+id=30166,count=1,enchantId=3001,gem1=25897:true,gem2=24029:false,gem3=0:nil
+id=32275,count=1,enchantId=2322,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=32579,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=28609,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29376,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29309,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=34029,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=30882,count=1,enchantId=2654,gem1=24029:true,gem2=0:nil,gem3=0:nil
+id=28523,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=29434,count=95,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=31094,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=33809,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=25477,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=24116,count=1,enchantId=0,gem1=0:nil,gem2=0:nil,gem3=0:nil
+id=30918,count=1,enchantId=2343,gem1=0:nil,gem2=0:nil,gem3=0:nil
+
+### TALENTS ###
+t=1,id=1,rank=5
+t=1,id=2,rank=5
+t=1,id=3,rank=0
+t=1,id=4,rank=0
+t=1,id=5,rank=3
+t=1,id=6,rank=1
+t=1,id=7,rank=0
+t=1,id=8,rank=5
+t=1,id=9,rank=1
+t=1,id=10,rank=0
+t=1,id=11,rank=0
+t=1,id=12,rank=2
+t=1,id=13,rank=1
+t=1,id=14,rank=3
+t=1,id=15,rank=3
+t=1,id=16,rank=5
+t=1,id=17,rank=1
+t=1,id=18,rank=0
+t=1,id=19,rank=5
+t=1,id=20,rank=1
+t=2,id=1,rank=0
+t=2,id=2,rank=0
+t=2,id=3,rank=0
+t=2,id=4,rank=0
+t=2,id=5,rank=0
+t=2,id=6,rank=0
+t=2,id=7,rank=0
+t=2,id=8,rank=0
+t=2,id=9,rank=0
+t=2,id=10,rank=0
+t=2,id=11,rank=0
+t=2,id=12,rank=0
+t=2,id=13,rank=0
+t=2,id=14,rank=0
+t=2,id=15,rank=0
+t=2,id=16,rank=0
+t=2,id=17,rank=0
+t=2,id=18,rank=0
+t=2,id=19,rank=0
+t=2,id=20,rank=0
+t=2,id=21,rank=0
+t=3,id=1,rank=0
+t=3,id=2,rank=5
+t=3,id=3,rank=2
+t=3,id=4,rank=0
+t=3,id=5,rank=4
+t=3,id=6,rank=3
+t=3,id=7,rank=0
+t=3,id=8,rank=1
+t=3,id=9,rank=0
+t=3,id=10,rank=0
+t=3,id=11,rank=5
+t=3,id=12,rank=0
+t=3,id=13,rank=0
+t=3,id=14,rank=0
+t=3,id=15,rank=0
+t=3,id=16,rank=0
+t=3,id=17,rank=0
+t=3,id=18,rank=0
+t=3,id=19,rank=0
+t=3,id=20,rank=0
+
+### ACTIONS ###
+slot=1,type=spell,id=8177
+slot=2,type=spell,id=25449
+slot=3,type=spell,id=25442
+slot=4,type=spell,id=25454
+slot=5,type=spell,id=25464
+slot=6,type=spell,id=10468
+slot=7,type=macro,id=13
+slot=8,type=spell,id=2484
+slot=9,type=spell,id=30706
+slot=10,type=spell,id=2484
+slot=11,type=spell,id=25570
+slot=12,type=item,id=22839
+slot=25,type=spell,id=3738
+slot=26,type=spell,id=25528
+slot=27,type=macro,id=125
+slot=28,type=spell,id=8056
+slot=29,type=spell,id=33736
+slot=30,type=spell,id=8166
+slot=31,type=spell,id=2062
+slot=32,type=item,id=185848
+slot=33,type=spell,id=2825
+slot=34,type=spell,id=8170
+slot=35,type=item,id=22104
+slot=36,type=item,id=27666
+slot=37,type=spell,id=25552
+slot=38,type=spell,id=25509
+slot=39,type=item,id=34062
+slot=40,type=item,id=33093
+slot=41,type=item,id=22832
+slot=42,type=item,id=33093
+slot=43,type=macro,id=130
+slot=44,type=item,id=20520
+slot=45,type=item,id=22839
+slot=46,type=macro,id=7
+slot=47,type=macro,id=131
+slot=48,type=item,id=24494
+slot=49,type=spell,id=25567
+slot=50,type=spell,id=25505
+slot=51,type=spell,id=25472
+slot=52,type=item,id=22825
+slot=53,type=item,id=22105
+slot=54,type=spell,id=2894
+slot=55,type=spell,id=556
+slot=56,type=spell,id=20777
+slot=57,type=spell,id=25585
+slot=58,type=item,id=22522
+slot=59,type=spell,id=25560
+slot=60,type=spell,id=25563
+slot=61,type=macro,id=124
+slot=62,type=spell,id=25547
+slot=63,type=spell,id=29228
+slot=64,type=spell,id=8012
+slot=65,type=macro,id=131
+slot=66,type=spell,id=8143
+slot=67,type=spell,id=25567
+slot=68,type=spell,id=25570
+slot=69,type=spell,id=10428
+slot=70,type=macro,id=128
+slot=71,type=spell,id=8170
+slot=72,type=spell,id=36936
+
+### MACROS ###
+slot=1,name=Bloodrage,texture=134400,body=
+---
+#showtooltip Bloodrage
+/cast Bloodrage
+
+---
+slot=2,name=bt,texture=134400,body=
+---
+#showtooltip
+/startattack
+/cast Bloodthirst
+
+---
+slot=3,name=Charge,texture=134400,body=
+---
+#showtooltip
+/click [button:2] CHARGE RightButton; [button:3] CHARGE MiddleButton; [button:4] CHARGE Button4; [button:5] CHARGE Button5; CHARGE
+
+---
+slot=4,name=cleave,texture=134400,body=
+---
+#showtooltip Cleave
+/startattack
+/cast cleave
+/stopcasting
+
+---
+slot=5,name=Decursive,texture=134400,body=
+---
+/script DecursiveRootTable.Dcr:Println('No spell available')
+
+---
+slot=6,name=dw,texture=134400,body=
+---
+#showtooltip
+/equip Axe of the Deep Woods
+/equip Serathil
+
+---
+slot=7,name=Gruul,texture=134400,body=
+---
+/1 LFM Gruul SR - DST HR 
+
+---
+slot=8,name=Healthstone,texture=135230,body=
+---
+#showtooltip
+/use item:22105
+/use item:22104
+/use item:22103
+
+---
+slot=9,name=hs,texture=134400,body=
+---
+#showtooltip
+/cast hamstring
+/startattack
+
+---
+slot=10,name=HS,texture=134400,body=
+---
+#Showtooltip
+/startattack
+/cast Heroic Strike
+/stopcasting
+
+---
+slot=11,name=Intercept,texture=134400,body=
+---
+#showtooltip Intercept
+/cast Intercept
+/cast Berserker Stance
+
+---
+slot=12,name=jed,texture=134400,body=
+---
+/tar jed
+
+---
+slot=13,name=Mount,texture=132151,body=
+---
+/cast [flyable] Swift Red Windrider
+/cast [noflyable] Amani War Bear
+
+---
+slot=14,name=MS,texture=134400,body=
+---
+#showtooltip
+/cast mortal strike
+/startattack
+
+---
+slot=15,name=OP,texture=134400,body=
+---
+-Overpower
+#showtooltip​ Overpower
+/equip Zin'rokh, Destroyer of Worlds
+/startattack
+/Cast Battle Stance
+/cast Overpower
+
+---
+slot=16,name=Pummel,texture=134400,body=
+---
+#showtooltip Pummel
+/startattack
+/cast Berserker Stance
+/cast Pummel
+
+---
+slot=17,name=Revenge,texture=134400,body=
+---
+#showtooltip Revenge
+/cast Revenge
+/cast Defensive Stance
+/startattack
+
+---
+slot=18,name=Shield Wall,texture=134400,body=
+---
+#showtooltip
+/cast shield wall
+/cast defensive stance
+/equip Axe of the Deep Woods
+/equip Draconian Deflector
+
+---
+slot=19,name=Shoot,texture=134400,body=
+---
+/cast [equipped:bow] Shoot Bow;[equipped:gun] Shoot Gun; [equipped: crossbow] Shoot Crossbow; [equipped: thrown] Throw 
+
+---
+slot=20,name=ss,texture=134400,body=
+---
+#showtooltip
+/cast sweeping strikes
+/cast battle stance
+/startattack
+
+---
+slot=21,name=TAINTED,texture=134400,body=
+---
+/use Tainted Core                                                                                                    
+/y <------- TAINTED CORE TO: %t ! ! !                                                                                                    
+
+---
+slot=22,name=Taunt,texture=134400,body=
+---
+#showtooltip
+/cast Taunt
+/cast Defensive Stance
+
+---
+slot=23,name=trink,texture=135659,body=
+---
+#showtooltip
+/use 13
+
+---
+slot=24,name=Weapons,texture=134400,body=
+---
+/equipslot [noequipped:shields] 17 Draconian Deflector
+/equipslot [noequipped:shields] 16 Serathil
+/equipslot 16 Zin'rokh, Destroyer of Worlds
+
+---
+slot=25,name=WW,texture=134400,body=
+---
+#showtooltip Whirlwind
+/cast Berserker Stance
+/cast Whirlwind
+
+---
+slot=26,name=Zerker Rage,texture=134400,body=
+---
+#showtooltip Berserker Rage
+/cast Berserker Stance
+/cast Berserker Rage
+
+---
+slot=121,name=CL,texture=135659,body=
+---
+#showtooltip 
+/use 13
+/use 14
+/cast Chain Lightning(Rank 5)
+/cqs
+
+---
+slot=122,name=Cosmic,texture=134400,body=
+---
+/equip Cosmic Infuser
+
+---
+slot=123,name=Ele,texture=135787,body=
+---
+/use Destruction Potion
+/use 13
+/cast Fire Elemental Totem
+/cast Bloodlust
+/cqs
+
+---
+slot=124,name=EM,texture=135659,body=
+---
+/use 13
+/cast Elemental Mastery
+/cast Blood Fury(Racial)
+/cast Chain Lightning
+/cqs
+
+---
+slot=125,name=focus shock,texture=136026,body=
+---
+/stopcasting
+/cast [target=focus]Earth Shock(Rank 1)
+
+---
+slot=126,name=Lightning Bolt,texture=133842,body=
+---
+/use Greater Drums of Battle
+/cast Lightning Bolt
+
+---
+slot=127,name=Lust,texture=134729,body=
+---
+/use Destruction Potion
+/cast Bloodlust
+/cqs
+
+---
+slot=128,name=NS,texture=135659,body=
+---
+/use 13
+/use 14
+/cast Nature's Swiftness
+
+---
+slot=129,name=puge,texture=136067,body=
+---
+/cast [target=mouseover,help,nodead][help][target=player]Cure Poison ; [harm] Purge
+
+---
+slot=130,name=spirit,texture=134400,body=
+---
+/cast Spirit Volley
+/cast Spirit Chains
+/cast Spirit Lance
+
+---
+slot=131,name=Tide,texture=134400,body=
+---
+
+---
+slot=132,name=TT Cast,texture=135825,body=
+---
+#showtooltips
+/castsequence reset=combat/15 Searing Totem(Rank 7), Stoneskin Totem(Rank 8), Healing Stream Totem(Rank 6), Grounding Totem
+---
+slot=133,name=twist,texture=134400,body=
+---
+
+---
+
+### SPELLS ###
+6603
+20574
+107
+33697
+21563
+81
+10656
+2580
+3273
+18248
+20573
+32549
+2656
+421
+930
+2860
+10605
+25439
+25442
+8042
+8044
+8045
+8046
+10412
+10413
+10414
+25454
+2484
+2894
+1535
+8498
+8499
+11314
+11315
+25546
+25547
+8050
+8052
+8053
+10447
+10448
+29228
+25457
+8056
+8058
+10472
+10473
+25464
+403
+529
+548
+915
+943
+6041
+10391
+10392
+15207
+15208
+25448
+25449
+8190
+10585
+10586
+10587
+25552
+370
+8012
+3599
+6363
+6364
+6365
+10437
+10438
+25533
+5730
+6390
+6391
+6392
+10427
+10428
+25525
+556
+2825
+2062
+6196
+8184
+10537
+10538
+25563
+8227
+8249
+10526
+16387
+25557
+8024
+8027
+8030
+16339
+16341
+16342
+25489
+8181
+10478
+10479
+25560
+8033
+8038
+10456
+16355
+16356
+25500
+2645
+8835
+10627
+25359
+8177
+324
+325
+905
+945
+8134
+10431
+10432
+25469
+25472
+10595
+10600
+10601
+25574
+8017
+8018
+8019
+10399
+16314
+16315
+16316
+25479
+25485
+6495
+8071
+8154
+8155
+10406
+10407
+10408
+25508
+25509
+8075
+8160
+8161
+10442
+25361
+25528
+131
+546
+8512
+10613
+10614
+25585
+25587
+8232
+8235
+10486
+16362
+25505
+15107
+15111
+15112
+25577
+3738
+2008
+20609
+20610
+20776
+20777
+1064
+10622
+10623
+25422
+25423
+2870
+526
+8170
+5394
+6375
+6377
+10462
+10463
+25567
+331
+332
+547
+913
+939
+959
+8005
+10395
+10396
+25357
+25391
+25396
+8004
+8008
+8010
+10466
+10467
+10468
+25420
+5675
+10495
+10496
+10497
+25570
+8166
+20608
+36936
+25908
+8143
+24398
+33736
+16161
+16209
+16217
+30681
+29000
+16086
+16108
+16112
+16120
+30674
+30706
+16164
+16166
+16224
+16582
+16198
+30666
+16089
+16221
+36359
+24655
+19058
+10619
+32464
+32472
+7126
+7156
+32465
+32473
+32489
+35580
+44970
+10548
+19052
+19092
+20649
+2149
+2152
+35582
+41156
+20650
+3756
+3763
+35584
+3780
+3818
+7135
+35522
+35538
+9058
+9059
+2153
+35523
+2167
+32469
+32485
+23190
+44953
+41161
+2881
+7151
+10525
+10542
+41162
+35557
+32454
+32470
+10650
+19071
+41163
+19081
+24654
+41164
+32455
+32463
+22331
+35540
+44770
+44359
+10487
+35543
+10507
+3275
+
+### FACTIONS ###
+530,9018
+76,6293
+911,4550
+81,4893
+68,2293
+1012,42999
+942,42999
+970,2885
+933,16427
+941,10042
+947,41649
+1011,42999
+1031,2417
+932,-42000
+934,42999
+935,36877
+21,-25797
+577,-7775
+369,-7715
+470,8365
+87,3065
+609,0
+909,0
+749,40
+989,33109
+990,42999
+967,42999
+922,0
+
+### EOF ###
