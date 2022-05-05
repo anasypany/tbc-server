@@ -276,7 +276,7 @@ def parse_file(f, exp, account_name):
         for macro in all_items["macros"][3]:
             if len(macro.split(",")) > 1:
                 macroInfo = macro.split(",")
-                if "slot" in macroInfo[0]:
+                if "slot=" in macroInfo[0]:
                     macroSlot = macroInfo[0].split("=")[1]
                     macroName = macroInfo[1].split("=")[1]
                     macroTexture = macroInfo[2].split("=")[1]

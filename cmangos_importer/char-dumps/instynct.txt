@@ -370,7 +370,7 @@ slot=20,name=ss,texture=134400,body=
 slot=21,name=TAINTED,texture=134400,body=
 ---
 /use Tainted Core                                                                                                    
-/y <------- TAINTED CORE TO: %t ! ! !                                                                                                    
+/y hi                                                                                      
 
 ---
 slot=22,name=Taunt,texture=134400,body=
@@ -479,7 +479,7 @@ slot=130,name=spirit,texture=134400,body=
 ---
 slot=131,name=Tide,texture=134400,body=
 ---
-
+/say hello
 ---
 slot=132,name=TT Cast,texture=135825,body=
 ---
@@ -488,7 +488,7 @@ slot=132,name=TT Cast,texture=135825,body=
 ---
 slot=133,name=twist,texture=134400,body=
 ---
-
+/say hello
 ---
 
 ### SPELLS ###
