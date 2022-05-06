@@ -1,0 +1,115 @@
+MACRO 16777217 " " INV_Misc_QuestionMark
+#showtooltip Demoralizing Shout
+/target Greater Healing [nodead]
+/startattack
+/cast Demoralizing Shout
+END
+MACRO 16777218 " " INV_Misc_QuestionMark
+#showtooltip Mortal Strike
+/targetenemy [noexists]
+/startattack
+/stopcasting
+/cast Mortal Strike
+END
+MACRO 16777219 " " INV_Misc_QuestionMark
+#showtooltip Bloodthirst
+/cancelaura Bloodthirst
+/cleartarget [dead]
+/targetenemy [noexists]
+/startattack
+/cast Bloodthirst
+END
+MACRO 16777220 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [stance:1] Intercept; [stance:2] Intercept; [stance:3] Charge
+/startattack
+/cancelaura Blessing of Protection
+END
+MACRO 16777221 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [stance:1] Berserker Rage; [stance:2] Mocking Blow; [stance:3] Shield Block
+/startattack
+END
+MACRO 16777222 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [stance:1] Whirlwind; [stance:2] Whirlwind; [stance:3] Thunder Clap
+/startattack
+END
+MACRO 16777223 " " INV_Misc_QuestionMark
+#showtooltip Recklessness
+/cast Berserker Stance
+/cast Recklessness
+/startattack
+END
+MACRO 16777224 " " INV_Misc_QuestionMark
+#showtooltip Retaliation
+/cast Battle Stance
+/cast Retaliation
+/startattack
+END
+MACRO 16777225 " " INV_Misc_QuestionMark
+#showtooltip Shield Wall
+/stopcasting
+/equipslot 16 Warbringer
+/equipslot 17 Aldori Legacy Defender
+/cast Defensive Stance
+/cast Shield Wall
+END
+MACRO 16777226 " hs" INV_Misc_QuestionMark
+/y ÇÈ ™️ c I I Ÿ f ™️ ‚ Ÿ ◃ ð ð ƒ f Ÿ
+END
+MACRO 16777227 "2H Mace" INV_Misc_QuestionMark
+#showtooltip Torch of the Damned
+/stopcasting
+/equipslot 16 Torch of the Damned
+/equipslot 16 item:28439:3225
+/equipslot 17 Kaz'rogal's Hardened Heart
+END
+MACRO 16777228 "Axe" INV_Misc_QuestionMark
+#showtooltip Soul Cleaver
+/stopcasting
+/equipslot 16 Soul Cleaver
+/equipslot 16 item:28439:3225
+/equipslot 17 Kaz'rogal's Hardened Heart
+END
+MACRO 16777229 "Axes" INV_Misc_QuestionMark
+#showtooltip Vengeful Gladiator's Cleaver
+/stopcasting
+/equipslot 16 Vengeful Gladiator's Cleaver
+/equipslot 17 Kaz'rogal's Hardened Heart
+/equipslot 17 Vengeful Gladiator's Chopper
+END
+MACRO 16777230 "Mount" INV_Misc_QuestionMark
+#showtooltip 
+/cast [flyable] Swift Red Windrider
+/cast [noflyable] Reins of the Silver War Talbuk
+END
+MACRO 16777231 "MSHS" INV_Misc_QuestionMark
+#showtooltip Mortal Strike
+/targetenemy [noexists]
+/startattack
+/cast Heroic Strike
+/cast Mortal Strike
+END
+MACRO 16777232 "Sword" INV_Misc_QuestionMark
+#showtooltip Lionheart Champion
+/stopcasting
+/equipslot 16 Lionheart Champion
+/equipslot 16 Hope Ender
+/equipslot 17 Aldori Legacy Defender
+END
+MACRO 16777233 "Tank" INV_Misc_QuestionMark
+#showtooltip Warbringer
+/stopcasting
+/equipslot 16 item:29165
+/equipslot 17 Hope Ender
+/equipslot 16 Warbringer
+/equipslot 17 Aldori Legacy Defender
+END
+MACRO 16777234 "WizShield" INV_Misc_QuestionMark
+#showtooltip Jagged Obsidian Shield
+/stopcasting
+/equipslot 16 Might of Menethil
+/equipslot 17 Jagged Obsidian Shield
+/equipslot 16 The Castigator
+END

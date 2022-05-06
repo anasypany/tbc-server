@@ -1,0 +1,92 @@
+MACRO 16777217 "Aimed Shot" INV_Misc_QuestionMark
+#showtooltip Aimed Shot
+/Cast Kill Command
+/Cast Aimed Shot
+/Cast Kill Command
+END
+MACRO 16777218 "Arcane Shot" INV_Misc_QuestionMark
+#showtooltip Arcane Shot
+/Cast !Auto Shot
+/Cast Kill Command
+/Cast Arcane Shot
+/Cast Kill Command
+END
+MACRO 16777219 "Core" INV_Misc_QuestionMark
+/use Tainted Core
+END
+MACRO 16777220 "DPS" INV_Misc_QuestionMark
+/script SendChatMessage("!!! YOU HAVE THE CORE !!!", "WHISPER", nil, UnitName("target"));
+END
+MACRO 16777221 "Echo" INV_Misc_QuestionMark
+#showtooltip Rapid Fire
+/cast Bestial Wrath
+/cast Rapid Fire
+/cast Blood Fury
+/use 14
+END
+MACRO 16777222 "Feed" INV_Misc_QuestionMark
+#showtooltip Misdirection
+/target Saintecho
+/cast Misdirection
+/targetlasttarget
+/cast Aimed Shot
+END
+MACRO 16777223 "Feign" INV_Misc_QuestionMark
+#showtooltip Feed Pet
+/cast [pet, nodead] Feed Pet
+/use Clefthoof Ribs
+END
+MACRO 16777224 "Haste" INV_Misc_QuestionMark
+#showtooltip Feign Death
+/stopcasting
+/cast Feign Death
+END
+MACRO 16777225 "Multi-Shot" INV_Misc_QuestionMark
+/cast Bestial Wrath
+/use Haste Potion
+/cast Rapid Fire
+/cast Blood Fury
+/use 14
+END
+MACRO 16777226 "Passive" INV_Misc_QuestionMark
+#showtooltip Multi-Shot
+/Cast !Auto Shot
+/Cast Kill Command
+/Cast Multi-Shot
+/Cast Kill Command
+END
+MACRO 16777227 "Pet" INV_Misc_QuestionMark
+/petpassive
+END
+MACRO 16777228 "Prerelease" INV_Misc_QuestionMark
+#showtooltip
+/use [target=pet,nodead,exists] Mend Pet
+/stopmacro [target=pet,nodead,exists]
+/use [target=pet,dead,exists] Revive Pet
+/castsequence reset=2 Call Pet, Revive Pet
+END
+MACRO 16777229 "Qshiz" INV_Misc_QuestionMark
+#showtooltip Misdirection
+/target Prerelease
+/cast Misdirection
+/targetlasttarget
+/cast Aimed Shot
+END
+MACRO 16777230 "Raptor" INV_Misc_QuestionMark
+#showtooltip Misdirection
+/target Qshiz
+/cast Misdirection
+/targetlasttarget
+END
+MACRO 16777231 "TONK" INV_Misc_QuestionMark
+#showtooltip Raptor Strike
+/stopcasting
+/cast Raptor Strike
+/startattack
+END
+MACRO 16777232 "Wrath" INV_Misc_QuestionMark
+/use [nopet] Call Pet
+/cast [pet]Steam Tonk Controller
+/cancelaura Steam tonk Controller
+/use [nopet] Call Pet
+END

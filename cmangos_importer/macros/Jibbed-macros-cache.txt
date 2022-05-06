@@ -1,0 +1,82 @@
+MACRO 16777217 "." INV_Misc_QuestionMark
+#showtooltip Hemorrhage
+/cast Hemorrhage
+/startattack
+END
+MACRO 16777218 "." INV_Misc_QuestionMark
+#showtooltip Sap
+/cleartarget
+/targetenemyplayer
+/cast Sap 
+END
+MACRO 16777219 "." INV_Misc_QuestionMark
+#showtooltip
+/cast Blade Flurry
+/cast Bloodlust Brooch
+END
+MACRO 16777220 "." INV_Misc_QuestionMark
+#showtooltip Figurine - Nightseye Panther
+/cast Figurine - Nightseye Panther
+/cast Bloodlust Brooch
+/cast Empty Mug of Direbrew
+END
+MACRO 16777221 "." INV_Misc_QuestionMark
+#showtooltip
+/startattack
+/cast Sinister Strike
+END
+MACRO 16777222 "Booterang" INV_Misc_QuestionMark
+/target Disobedient
+/cast Booterang
+END
+MACRO 16777223 "FocusBlind" INV_Misc_QuestionMark
+#showtooltip Blind
+/cast [target=focus] Blind
+END
+MACRO 16777224 "FocusGouge" INV_Misc_QuestionMark
+#showtooltip Gouge
+/cast [target=focus] Gouge
+END
+MACRO 16777225 "FocusKick" INV_Misc_QuestionMark
+#showtooltip Kick
+/cast [target=focus] Kick
+END
+MACRO 16777226 "FocusStep" INV_Misc_QuestionMark
+#showtooltip Shadowstep
+/cast [target=focus] Shadowstep
+/cast {target=focus} Kick
+END
+MACRO 16777227 "Infinity Blade" INV_Misc_QuestionMark
+/equipslot 17 Infinity Blade
+/cast Shiv(Rank 1)
+END
+MACRO 16777228 "OH Swap" INV_Misc_QuestionMark
+/equipslot 17 Blade of Savagery
+END
+MACRO 16777229 "Premed" INV_Misc_QuestionMark
+#showtooltip Cheap Shot
+/cast Premeditation
+/cast Cheap Shot
+END
+MACRO 16777230 "Shiv1" INV_Misc_QuestionMark
+#showtooltip Shiv
+/equipslot 17 Warglaive of Azzinoth
+/cast Shiv
+END
+MACRO 16777231 "Shiv2" INV_Misc_QuestionMark
+#showtooltip Shiv
+/equipslot 17 Blade of Savagery
+/cast Shiv
+END
+MACRO 16777232 "StepSap" INV_Misc_QuestionMark
+#showtooltip Sap
+/cast Shadowstep
+/cast Sap
+END
+MACRO 16777233 "TotemAttack" INV_Misc_QuestionMark
+/startattack
+/target Grounding Totem
+/target Searing Totem
+/target Mana Spring Totem
+/target Mana Tide
+END

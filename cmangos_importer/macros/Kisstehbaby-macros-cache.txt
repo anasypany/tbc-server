@@ -1,0 +1,92 @@
+MACRO 16777217 "arcane shot" INV_Misc_QuestionMark
+#showtooltip arcane shot
+/cast !auto shot
+/cast Arcane Shot(Rank 8)
+END
+MACRO 16777218 "Aspect of hawk" INV_Misc_QuestionMark
+#showtooltip aspect of the hawk
+/castsequence !aspect of the hawk, !aspect of the viper
+END
+MACRO 16777219 "Bestial Wrath" INV_Misc_QuestionMark
+#showtooltip bestial wrath
+/use Bloodlust Brooch
+/cast bestial wrath
+END
+MACRO 16777220 "cheetah" INV_Misc_QuestionMark
+#showtooltip Aspect of the Cheetah
+/castsequence !aspect of the cheetah, !aspect of the hawk
+END
+MACRO 16777221 "concuss" INV_Misc_QuestionMark
+#showtooltip Concussive Shot
+/cancelaura Swift Olive Raptor
+/cast Concussive Shot
+END
+MACRO 16777222 "eagle eye" INV_Misc_QuestionMark
+#showtooltip eagle eye
+/cast !eagle eye
+END
+MACRO 16777223 "flare" INV_Misc_QuestionMark
+#showtooltip flare
+/cancelaura Frostwolf Howler
+/cast !Flare
+END
+MACRO 16777224 "frost" INV_Misc_QuestionMark
+#showtooltip frost trap
+/petpassive 
+/cast frost trap
+END
+MACRO 16777225 "Kill Com" INV_Misc_QuestionMark
+#showtooltip kill command
+/petattack
+/cast Kill Command(Rank 1)
+END
+MACRO 16777226 "mounts" INV_Misc_QuestionMark
+/use Swift Purple Windrider
+/use Swift Zulian Tiger
+END
+MACRO 16777227 "rapid fire" INV_Misc_QuestionMark
+#showtooltip rapid fire
+/use Berserker's Call
+/use berserking
+/cast rapid fire
+END
+MACRO 16777228 "raptor" INV_Misc_QuestionMark
+#showtooltip raptor strike
+/startattack
+/cast Raptor Strike(Rank 9)
+/cast Mongoose Bite(Rank 5)
+END
+MACRO 16777229 "Readyness" INV_Misc_QuestionMark
+#showtooltip Readiness
+/use Bloodlust Brooch
+/cast rapid fire
+/cast Readiness
+END
+MACRO 16777230 "SS" INV_Misc_QuestionMark
+#showtooltip steady shot
+/castsequence reset=target !Auto Shot,Counterattack
+/cast kill command
+/cast Steady Shot
+/cast kill command
+END
+MACRO 16777231 "Steady Shot" INV_Misc_QuestionMark
+#showtooltip Steady Shot
+/castsequence reset=target !Auto Shot,Counterattack
+/cast Steady Shot
+END
+MACRO 16777232 "Tranq shot" INV_Misc_QuestionMark
+#showtooltip Tranquilizing Shot
+/stopcasting
+/cast Tranquilizing Shot
+END
+MACRO 16777233 "viper" INV_Misc_QuestionMark
+#showtooltip viper sting
+/stopattack
+/cast Viper Sting(Rank 3)
+END
+MACRO 16777234 "wing clip" INV_Misc_QuestionMark
+#showtooltip wing clip
+/cast Wing Clip
+/cast Wing Clip(Rank 2)
+/cast Wing Clip(Rank 1)
+END

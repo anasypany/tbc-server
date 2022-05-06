@@ -1,0 +1,92 @@
+MACRO 16777217 " " INV_Misc_QuestionMark
+#showtooltip Cat Form
+/cast !Cat Form
+END
+MACRO 16777218 " " INV_Misc_QuestionMark
+#showtooltip Nightmare Seed
+/run if GetSpellCooldown(768)+GetItemCooldown(22797)>0 or UnitPower("player",0)<GetSpellPowerCost(768)[1].cost then SetCVar("autoUnshift",0) end;
+/use Nightmare Seed
+/cast [noform:1]!Dire Bear Form
+/run SetCVar("autoUnshift",1)
+END
+MACRO 16777219 " " INV_Misc_QuestionMark
+#showtooltip Dire Bear Form
+/cast !Dire Bear Form
+END
+MACRO 16777220 " " INV_Misc_QuestionMark
+#showtooltip Bash
+/cast [noform:1] !Dire Bear Form
+/cast Bash
+END
+MACRO 16777221 " " INV_Misc_QuestionMark
+#showtooltip
+/startattack
+/cast Mangle (Bear)
+END
+MACRO 16777222 " " INV_Misc_QuestionMark
+#showtooltip Feral Charge
+/cast [noform:1] Dire Bear Form
+/cast [target=mouseover, harm][harm] Feral Charge
+END
+MACRO 16777223 " " INV_Misc_QuestionMark
+/run if GetSpellCooldown(768)+GetItemCooldown(13446)>0 or UnitPower("player",0)<GetSpellPowerCost(768)[1].cost then SetCVar("autoUnshift",0) end;
+/use Super Healing Potion
+/cast [noform:1]!Dire Bear Form
+/run SetCVar("autoUnshift",1)
+END
+MACRO 16777224 " " INV_Misc_QuestionMark
+/run if GetSpellCooldown(768)+GetItemCooldown(20520)>0 or UnitPower("player",0)<GetSpellPowerCost(768)[1].cost then SetCVar("autoUnshift",0) end;
+/use Master Health Stone
+/cast [noform:1]!Dire Bear Form
+/run SetCVar("autoUnshift",1)
+END
+MACRO 16777225 " " INV_Misc_QuestionMark
+/run if GetSpellCooldown(768)+GetItemCooldown(13446)>0 or UnitPower("player",0)<GetSpellPowerCost(768)[1].cost then SetCVar("autoUnshift",0) end;
+/use Ironshield Potion
+/cast [noform:1]!Dire Bear Form
+/run SetCVar("autoUnshift",1)
+END
+MACRO 16777226 " " INV_Misc_QuestionMark
+/run if GetSpellCooldown(768)+GetItemCooldown(10646)>0 or UnitPower("player",0)<GetSpellPowerCost(768)[1].cost then SetCVar("autoUnshift",0) end;
+/use Goblin Sapper Charge
+/cast [noform:1]!Dire Bear Form
+/run SetCVar("autoUnshift",1)
+END
+MACRO 16777227 " " INV_Misc_QuestionMark
+/run if GetSpellCooldown(768)+GetItemCooldown(23827)>0 or UnitPower("player",0)<GetSpellPowerCost(768)[1].cost then SetCVar("autoUnshift",0) end;
+/use Super Sapper Charge
+/cast [noform:1]!Cat Form
+/run SetCVar("autoUnshift",1)
+END
+MACRO 16777228 " " INV_Misc_QuestionMark
+/run if GetSpellCooldown(768)+GetItemCooldown(13446)>0 or UnitPower("player",0)<GetSpellPowerCost(768)[1].cost then SetCVar("autoUnshift",0) end;
+/use Haste Potion
+/cast [noform:1]!Cat Form
+/run SetCVar("autoUnshift",1)
+END
+MACRO 16777229 " " INV_Misc_QuestionMark
+#showtooltip Mana Potion Injector
+/cancelform
+/use Mana Potion Injector
+/cast Cat Form
+END
+MACRO 16777230 "C+B" INV_Misc_QuestionMark
+#showtooltip Feral Charge
+/cast [noform:1] Dire Bear Form
+/cast [target=mouseover, harm][harm] Feral Charge
+/cast Enrage
+/cast Bash
+/cancelaura Enrage
+END
+MACRO 16777231 "cd" INV_Misc_QuestionMark
+#showtooltip Bloodlust Brooch
+/use Bloodlust Brooch
+/use Badge of Tenacity
+/use Empty Mug of Direbrew
+END
+MACRO 16777232 "VuhDoDCShieldData" INV_Misc_QuestionMark
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+MACRO 16777233 "VuhDoDCShieldNames" INV_Misc_QuestionMark
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Pre[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

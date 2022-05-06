@@ -1,0 +1,60 @@
+MACRO 16777217 "CL" INV_Misc_QuestionMark
+#showtooltip 
+/use 13
+/use 14
+/cast Chain Lightning(Rank 5)
+/cqs
+END
+MACRO 16777218 "Cosmic" INV_Misc_QuestionMark
+/equip Cosmic Infuser
+END
+MACRO 16777219 "Ele" INV_Misc_QuestionMark
+/use Destruction Potion
+/use 13
+/cast Fire Elemental Totem
+/cast Bloodlust
+/cqs
+END
+MACRO 16777220 "EM" INV_Misc_QuestionMark
+/use 13
+/cast Elemental Mastery
+/cast Blood Fury(Racial)
+/cast Chain Lightning
+/cqs
+END
+MACRO 16777221 "focus shock" INV_Misc_QuestionMark
+/stopcasting
+/cast [target=focus]Earth Shock(Rank 1)
+END
+MACRO 16777222 "Lightning Bolt" INV_Misc_QuestionMark
+/use Greater Drums of Battle
+/cast Lightning Bolt
+END
+MACRO 16777223 "Lust" INV_Misc_QuestionMark
+/use Destruction Potion
+/cast Bloodlust
+/cqs
+END
+MACRO 16777224 "NS" INV_Misc_QuestionMark
+/use 13
+/use 14
+/cast Nature's Swiftness
+END
+MACRO 16777225 "puge" INV_Misc_QuestionMark
+/cast [target=mouseover,help,nodead][help][target=player]Cure Poison ; [harm] Purge
+END
+MACRO 16777226 "spirit" INV_Misc_QuestionMark
+/cast Spirit Volley
+/cast Spirit Chains
+/cast Spirit Lance
+END
+MACRO 16777227 "Tide" INV_Misc_QuestionMark
+/say hello
+END
+MACRO 16777228 "TT Cast" INV_Misc_QuestionMark
+#showtooltips
+/castsequence reset=combat/15 Searing Totem(Rank 7), Stoneskin Totem(Rank 8), Healing Stream Totem(Rank 6), Grounding Totem
+END
+MACRO 16777229 "twist" INV_Misc_QuestionMark
+/say hello
+END

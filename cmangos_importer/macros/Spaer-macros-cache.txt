@@ -1,0 +1,6 @@
+MACRO 16777217 "VuhDoDCShieldData" INV_Misc_QuestionMark
+/yell 27 11 11
+END
+MACRO 16777218 "VuhDoDCShieldNames" INV_Misc_QuestionMark
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1LR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
