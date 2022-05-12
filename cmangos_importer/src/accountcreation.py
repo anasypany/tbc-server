@@ -55,7 +55,7 @@ def create_account(host, port, account_name, char_name):
                 data = s.recv(4096)
                 #print(repr(data))
                 if "has been granted 1 expansion rights" in str(data):
-                    command = 'account set gmlevel ' + account_name + ' 3\n'
+                    command = 'account set gmlevel ' + account_name + ' 0\n'
                     #print(command)
                     s.send(command.encode())
                     time.sleep(.1)
