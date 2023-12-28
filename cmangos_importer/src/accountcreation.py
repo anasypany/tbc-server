@@ -24,7 +24,7 @@ def create_account(host, port, account_name, char_name):
         print("Please set the MANGOS_CONSOLE_PASSWORD environment variable to use the account creation functionality part of this script")
         exit()
     password = str(generate_password(12))
-    discord_webhook_url = "https://discord.com/api/webhooks/970588505145245726/l50cK-i2lAVrdY4F2Hi5daEfZoyQnwWb4qwGDiQKasXRhL1MactSGSq1uxIqSFa2vF8w"
+    discord_webhook_url = "deadlink"
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     s.connect((host, int(port)))
     while True:
@@ -97,6 +97,3 @@ def create_account(host, port, account_name, char_name):
 
 
 #create_account('192.168.1.240', 3443, "jarptwo", "Jarppi")
-
-# guild disc https://discord.com/api/webhooks/970588505145245726/l50cK-i2lAVrdY4F2Hi5daEfZoyQnwWb4qwGDiQKasXRhL1MactSGSq1uxIqSFa2vF8w
-# testing disc https://discord.com/api/webhooks/970581812168507422/Eytl91bLoYe26qUlMJkR_IuyYjsHN2dWmQz8As0T2i4G_BnkC7K5mtQnca85IAbxkoa-
